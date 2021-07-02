@@ -20,9 +20,21 @@
             "name": "Jump Action",
             "type": "1fb85083-bb75-4373-accb-44e58408b620",
             "owner_offset": 16,
+            "offset_to_next": 112
+        },
+        {
+            "name": "Move 2D Action",
+            "type": "a596cecb-627b-49ca-90dc-e9d41a1505f0",
+            "owner_offset": 128,
+            "offset_to_next": 128
+        },
+        {
+            "name": "Requested Movement",
+            "type": "3d802b6c-79fa-4ca7-94ee-2e85f575f7b5",
+            "owner_offset": 256,
             "offset_to_next": 0
         }
     ],
-    "size": 128,
-    "alignment": 8
+    "size": 272,
+    "alignment": 16
 }

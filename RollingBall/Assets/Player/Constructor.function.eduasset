@@ -1,10 +1,10 @@
 {
-    "guid": "2DA7916D-CF4D-4873-BD48-845BF22A1EC8",
+    "guid": "32c93abd-2429-4a2e-804a-d41c9a4bd9fe",
     "typeGuid": "DCE92B86-A9A7-4676-9E5D-A09CEA4824F4",
-	"dependencies": [
-		"69158c92-c92b-4ce8-8a18-d283a22b0400",
-		"64287dde-a999-4eca-bdf4-a0ff5dbc2e3c"
-	],
+    "dependencies": [
+        "69158c92-c92b-4ce8-8a18-d283a22b0400",
+        "64287dde-a999-4eca-bdf4-a0ff5dbc2e3c"
+    ],
     "arguments": [
         {
             "type": "55B166C1-632D-4B14-9A44-14E1F7C58534"
@@ -26,7 +26,11 @@
             "typeGuid": "69158c92-c92b-4ce8-8a18-d283a22b0400"
         },
         {
-            "offset": 162,
+            "offset": 155,
+            "typeGuid": "fc4c4af0-5310-4924-a998-164af95e1f47"
+        },
+        {
+            "offset": 204,
             "typeGuid": "64287dde-a999-4eca-bdf4-a0ff5dbc2e3c"
         }
     ]
