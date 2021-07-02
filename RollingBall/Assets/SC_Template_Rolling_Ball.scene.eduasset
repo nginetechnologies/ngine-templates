@@ -131,6 +131,59 @@
                     "name": "Skysphere"
                 }
             ]
+        },
+		 {
+            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "instanceGuid": "7168c413-03fe-317f-c902-24f1ebfaa48f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plane Static Body",
+                    "flags": 4
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
+                    "instanceGuid": "7ce5797a-b27a-c383-bcaf-96f303ffbeab",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "79ff91d9-80ad-40fd-b3fe-3678bc26b853"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plane Collider"
+                        }
+                    ]
+                }
+            ]
+        },
+		 {
+            "typeGuid": "88A0CDBB-2826-46E3-B372-2A5154EACB61",
+            "instanceGuid": "7168c413-03fe-317f-c902-24f1ebfaa48f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    10
+                ],
+				"scene_query_channels": [
+					"997E9C4D-D494-4A6E-BB6C-620CED5FABDE"
+				]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                }
+            ]
         }
     ],
     "default_camera": {

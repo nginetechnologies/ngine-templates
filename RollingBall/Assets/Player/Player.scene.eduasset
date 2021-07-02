@@ -1,0 +1,131 @@
+{
+    "guid": "EC66CE19-1E67-478B-A8E6-07B9CF74DF4C",
+    "typeGuid": "55B166C1-632D-4B14-9A44-14E1F7C58534",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "EC66CE19-1E67-478B-A8E6-07B9CF74DF4C"
+    },
+	"0ae25c25-2041-4078-a033-a56a567b0b73": {
+		"type": "132e1e9c-d4c3-47a3-960e-7d1f0b8417b8"
+	},
+	"55b166c1-632d-4b14-9a44-14e1f7c58534": {
+		"constructor": "2DA7916D-CF4D-4873-BD48-845BF22A1EC8"
+	},
+    "children": [
+        {
+            "typeGuid": "f05a46e2-8d45-44f3-aab1-e5940e229738",
+            "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0,0,0
+                ],
+                "rotation": [
+                    0.0,
+					0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sphere Body"
+                }
+            ],
+			"children": [
+                {
+                    "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
+                    "instanceGuid": "83c2c5d2-771c-6a33-6624-e6bae46f27ad",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.4000000059604645
+                        ]
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "79ff91d9-80ad-40fd-b3fe-3678bc26b853"
+                    },
+                    "2c2ae148-5dc3-48b3-b1d6-d81913078fe5": {
+                        "radius": 1.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Sphere Collider"
+                        }
+                    ],
+					"children": [
+						{
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+							"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+							"9f750482-b822-4d4b-be6a-9c135c614328": {
+								"stages": [
+									"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+								]
+							},
+							"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+								"mesh": "4fc8601f-ab8a-4992-bd8e-4136beae1b83",
+								"material_instance": "a2e078cb-3563-a38a-4a96-98c17f540df2"
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Sphere Mesh"
+								}
+							]
+						}
+					]
+				},
+				{
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0,
+							-4,
+							2.0
+						],
+						"rotation": [
+							-30,
+							0,
+							0
+						]
+					},
+					"typeGuid": "7C8B5C35-8225-4077-85C6-A4857A48B353",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Camera Spring"
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "B0EC7111-5DE9-4039-BEE2-D915F63F929E",
+							"9f750482-b822-4d4b-be6a-9c135c614328": {
+								"stages": [
+									"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+								]
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Camera"
+								}
+							]
+						}
+					]
+				},
+				{
+					"typeGuid": "BE33F822-02F0-4D8B-9553-8F6200B43F83",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Input"
+						}
+					]
+				}
+			]
+        }
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Player"
+        }
+    ]
+}
