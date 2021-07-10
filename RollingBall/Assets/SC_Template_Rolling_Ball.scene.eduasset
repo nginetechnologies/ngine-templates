@@ -7,34 +7,17 @@
     },
     "children": [
         {
-            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-            "instanceGuid": "435910ac-f369-8c63-c824-40b5e2b1d7f7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "scale": [
-                    0.999755859375
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "ROOT_Rolling_Ball_Template"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "GRP_Rolling_Ball_Template"
-                        }
-                    ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "b1db5abf-1e88-acce-ba6a-078e0745d560"
-                    }
-                }
-            ]
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+			"instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP_Rolling_Ball_Template"
+				}
+			],
+			"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+				"scene": "b1db5abf-1e88-acce-ba6a-078e0745d560"
+			}
         },
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
@@ -129,39 +112,6 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
-                }
-            ]
-        },
-		 {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-            "instanceGuid": "7168c413-03fe-317f-c902-24f1ebfaa48f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    0.0,
-                    0.5
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plane Static Body",
-                    "flags": 4
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
-                    "instanceGuid": "7ce5797a-b27a-c383-bcaf-96f303ffbeab",
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "79ff91d9-80ad-40fd-b3fe-3678bc26b853"
-                    },
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Plane Collider"
-                        }
-                    ]
                 }
             ]
         },
