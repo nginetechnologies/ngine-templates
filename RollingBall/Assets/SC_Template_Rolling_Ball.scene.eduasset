@@ -134,6 +134,78 @@
                     "name": "Spawn Point"
                 }
             ]
+        },
+		{
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.14043617248535,
+                    55.68600082397461,
+                    11.304795265197754
+                ],
+                "rotation": [
+                    -45.0000114440918,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "cascades": 4,
+                "cascade_quality": 0.949999988079071
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light",
+                    "flags": 2
+                }
+            ]
+        },
+		{
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.14043617248535,
+                    55.68600082397461,
+                    11.304795265197754
+                ],
+                "rotation": [
+                    -45.0000114440918,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "8d7b41e9-ff92-4bc4-7438-3b2077a3f857",
+                "brdf": "18302632-39a1-8d96-4135-dc3f4ee1dbb3",
+                "prefiltered": "a29f7eac-d993-7f7e-769c-12c6281df46f"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                }
+            ]
         }
     ],
     "default_camera": {
