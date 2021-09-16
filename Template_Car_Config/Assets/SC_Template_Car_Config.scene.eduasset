@@ -1,5 +1,5 @@
 {
-    "guid": "5182ac17-d1f4-4d74-9c68-cc59dc67e5fa",
+    "guid": "dfb2e4c6-fc9c-4de8-a905-09c3c63355aa",
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "instanceGuid": "caa63f87-c8d8-dd3c-241f-3e54fcba029e",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
@@ -17,7 +17,7 @@
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "ROOT_Twist_Template"
+                    "name": "ROOT_Car_Config"
                 }
             ],
             "children": [
@@ -27,11 +27,11 @@
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "GRP_Twist_Template"
+                            "name": "GRP_Car_Config"
                         }
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "994d60cd-f762-e0f7-d337-e2e7ceaf4bb5"
+                        "scene": "15eb9298-bb4d-35fd-8196-283f7256a94f"
                     }
                 }
             ]
