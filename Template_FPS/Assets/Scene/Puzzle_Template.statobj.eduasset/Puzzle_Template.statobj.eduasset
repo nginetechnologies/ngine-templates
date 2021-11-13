@@ -1,0 +1,877 @@
+{
+    "guid": "c3836cc9-c0fc-c7ec-cc13-c7e3671a3f31",
+    "source": "../Puzzle_Template.fbx",
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4683103a-09d7-e40b-5de5-41480efe8d2e",
+                                "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Directional_Light"
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "fc808834-5981-a22a-dd75-b4d139ccb948",
+                                        "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "M_White"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "a23db768-f69e-91ea-06ca-6272dc8d823f",
+                                        "material_instance": "e901bca5-76fc-0986-c3f5-4c77984a80ca"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "M_Black"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Environment_Probe"
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "71c47ff3-feff-86d4-a7ae-147f30b8b15e",
+                                        "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "M_White"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "423d0e25-f1f1-45a0-ba2b-601f2cc9f1e4",
+                                        "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Camera_Frustum"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Camera_Body"
+                                }
+                            ]
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Components"
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            1.9990235567092896,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "824de3df-89c5-6e19-41de-abb7e94af3b5",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_Black_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -1.9990235567092896,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "824de3df-89c5-6e19-41de-abb7e94af3b5",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_Black_04"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "824de3df-89c5-6e19-41de-abb7e94af3b5",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_Black_05"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "GRP_Ngine_Logo_Black"
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            1.9990235567092896,
+                                            1.9990235567092896,
+                                            3.636202667092747e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "4580a773-8f20-caff-e70d-beef38ed9858",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_White_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -1.9990235567092896,
+                                            1.9990235567092896,
+                                            3.636202667092747e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "4580a773-8f20-caff-e70d-beef38ed9858",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_White_04"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            0.0,
+                                            1.9990235567092896,
+                                            3.636202667092747e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "4580a773-8f20-caff-e70d-beef38ed9858",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_White_05"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "GRP_Ngine_Logo_White"
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            1.9990235567092896,
+                                            3.998047113418579,
+                                            7.272405334185495e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "32dee3c9-b580-4ee0-88a6-9610f8116778",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_LG_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -1.9990235567092896,
+                                            3.998047113418579,
+                                            7.272405334185495e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "32dee3c9-b580-4ee0-88a6-9610f8116778",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_LG_04"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            0.0,
+                                            3.998047113418579,
+                                            7.272405334185495e-14
+                                        ],
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "32dee3c9-b580-4ee0-88a6-9610f8116778",
+                                        "material_instance": "a25fbdb2-74b5-ceb9-eb89-30739e50fcd1"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "GRP_Ngine_Logo_LG_05"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "GRP_Ngine_Logo_LG"
+                                }
+                            ]
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Puzzle_Cube"
+                        }
+                    ]
+                },
+                {
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "fcb56405-d9c0-59cc-8930-ab7b2a607494",
+                        "material_instance": "151e360c-c4f3-23d0-e09e-f0207b53c0bb"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Blank_Floor"
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "856e4b77-9f29-8650-2f2e-e434d4b543df",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_01"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01d5ce02-e24e-ed42-4c97-a4423498734e",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_02"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6ecbbbc5-12d5-7daf-d286-de25f7eed916",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_03"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "41e66206-e85c-3a30-c213-78001f5e9001",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_04"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ea51c59c-cb3a-241e-2eda-fb6627dc284d",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_05"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "de3290d1-839a-a40d-b8be-35954055face",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_06"
+                                }
+                            ]
+                        },
+                        {
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "16de954c-b5d7-c63a-d62d-7d3d974a079a",
+                                "material_instance": "77810a93-3cf3-0d0b-1b61-fa477256b12f"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Trim_07"
+                                }
+                            ]
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Trim"
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "261f9d82-738b-93f6-d8ed-ea5c07e982a4",
+                                        "material_instance": "151e360c-c4f3-23d0-e09e-f0207b53c0bb"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "M_Grid_Dark"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "aa95adb8-f0e6-63c5-ad12-6d30c01f7d8f",
+                                        "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Input_Mapping_Txt"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "5897b555-0714-0ae9-ba27-1ea9085e44af",
+                                        "material_instance": "1e3db9b2-b837-c5a3-6f2e-1a44629d2aed"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Input_Select_Txt"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Input_Mapping_Border"
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {},
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "bb9bd6cf-d3fd-7be2-84bb-16f9b91dbd86",
+                                        "material_instance": "ea2915d0-419c-58a7-6b45-4ae4535f1605"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "M_Grid_White"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            0.9995117783546448
+                                        ]
+                                    },
+                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "b55e4e76-dd7d-15a4-c7be-4fe263a2b01c",
+                                        "material_instance": "e901bca5-76fc-0986-c3f5-4c77984a80ca"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Puzzle_Txt"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.9995117783546448
+                                ]
+                            },
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Puzzle_Txt_Border"
+                                }
+                            ]
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Txt"
+                        }
+                    ]
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    0.9995117783546448
+                ]
+            },
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "GRP_Template_Puzzle"
+                }
+            ]
+        }
+    ],
+    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+        "scale": [
+            0.9995117783546448
+        ]
+    },
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "RootNode"
+        }
+    ],
+    "chunks": [
+        "4683103a-09d7-e40b-5de5-41480efe8d2e",
+        "fc808834-5981-a22a-dd75-b4d139ccb948",
+        "a23db768-f69e-91ea-06ca-6272dc8d823f",
+        "71c47ff3-feff-86d4-a7ae-147f30b8b15e",
+        "423d0e25-f1f1-45a0-ba2b-601f2cc9f1e4",
+        "824de3df-89c5-6e19-41de-abb7e94af3b5",
+        "4580a773-8f20-caff-e70d-beef38ed9858",
+        "32dee3c9-b580-4ee0-88a6-9610f8116778",
+        "fcb56405-d9c0-59cc-8930-ab7b2a607494",
+        "856e4b77-9f29-8650-2f2e-e434d4b543df",
+        "01d5ce02-e24e-ed42-4c97-a4423498734e",
+        "6ecbbbc5-12d5-7daf-d286-de25f7eed916",
+        "41e66206-e85c-3a30-c213-78001f5e9001",
+        "ea51c59c-cb3a-241e-2eda-fb6627dc284d",
+        "de3290d1-839a-a40d-b8be-35954055face",
+        "16de954c-b5d7-c63a-d62d-7d3d974a079a",
+        "261f9d82-738b-93f6-d8ed-ea5c07e982a4",
+        "aa95adb8-f0e6-63c5-ad12-6d30c01f7d8f",
+        "5897b555-0714-0ae9-ba27-1ea9085e44af",
+        "bb9bd6cf-d3fd-7be2-84bb-16f9b91dbd86",
+        "b55e4e76-dd7d-15a4-c7be-4fe263a2b01c"
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c3836cc9-c0fc-c7ec-cc13-c7e3671a3f31"
+    }
+}
