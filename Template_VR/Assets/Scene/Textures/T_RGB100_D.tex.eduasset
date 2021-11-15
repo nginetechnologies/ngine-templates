@@ -1,7 +1,7 @@
 {
-    "guid": "724b1245-f3d8-27af-4d0a-7a611f2c91df",
+    "guid": "b7ff7764-4c8c-3d11-3a99-013900dbde5e",
     "source": "../../textures/T_RGB100_D.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -28,6 +28,22 @@
                 4.0
             ],
             "offset": 160,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 168,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 176,
             "size": 8
         }
     ]

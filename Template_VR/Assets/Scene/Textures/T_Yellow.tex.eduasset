@@ -1,7 +1,7 @@
 {
-    "guid": "3264b766-86c0-108e-da43-7f49a543e995",
+    "guid": "fe064839-5c63-39d2-5cbf-f4a89438fa4e",
     "source": "../../textures/T_Yellow.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -36,6 +36,22 @@
                 4.0
             ],
             "offset": 672,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 680,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 688,
             "size": 8
         }
     ]
