@@ -1,0 +1,180 @@
+{
+    "guid": "bc6dfa94-03d1-d144-c7fa-07b1176feab5",
+    "source": "../SC_Blank_Template.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4a3c29a9-bbae-3a45-aa26-84a616bf1e73",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC_Blank_Template"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "instanceGuid": "a90799ce-1d59-7923-5d11-eaf1ef699958",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "TemplateBlank_GRP"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "2d9a721b-2b73-eb3e-345f-e3d95ed0dbdf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_templateTxtBlank"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.825103759765625,
+                            -3.292846918106079,
+                            0.48902517557144167
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "aefb49c8-5d71-c4c3-0bdc-66edecff7da2",
+                        "material_instance": "8dfaac64-3473-9275-bd77-e91976c46591"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a6f76e99-7c41-c9e6-8a26-c28071f5ebc7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_playerStart"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -3.813766014104658e-8,
+                            1.99951171875,
+                            1.4996337890625
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "fa83acc1-6e1b-24cd-5fda-3c8ae31aa5e9",
+                        "material_instance": "8dfaac64-3473-9275-bd77-e91976c46591"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "8bb4039f-10c4-730b-a05d-4d24400b3737",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_environmentProbe"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -7.274181392869297e-14,
+                            2.999267578125
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            89.99998474121094
+                        ],
+                        "scale": [
+                            0.9999998807907105,
+                            0.9999998807907105,
+                            1.0
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "1c31bdce-8018-c25e-eb5c-4ea0cfdd73ad"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "68961708-edc8-2d1a-099a-75597a53b946",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_directionalLight"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -3.6370906964346489e-14,
+                            1.99951171875
+                        ],
+                        "rotation": [
+                            45.00000762939453,
+                            -0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            1.0,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "4a368e10-c3a5-d125-d6af-de7c8bcdd7a7",
+                        "material_instance": "8dfaac64-3473-9275-bd77-e91976c46591"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "907e354f-f5e5-2632-718e-38217adb8a98",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_blankFloor"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "bec11a08-220f-5be0-126a-954c7a503916",
+                        "material_instance": "e523c01a-7812-282a-957b-b23dbcf0d190"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bc6dfa94-03d1-d144-c7fa-07b1176feab5"
+    }
+}
