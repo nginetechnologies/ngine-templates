@@ -1,28 +1,72 @@
 {
+    "1c31bdce-8018-c25e-eb5c-4ea0cfdd73ad": {
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/SM_environmentProbe.scene.eduasset"
+    },
+    "89ac21a5-f037-7043-81b9-53034bb59732": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Black_D.tex.eduasset"
+    },
+    "8dfaac64-3473-9275-bd77-e91976c46591": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.eduasset"
+    },
+    "bec11a08-220f-5be0-126a-954c7a503916": {
+        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_blankFloor.mesh.eduasset"
+    },
+    "f4ee6e49-e0cf-4364-d61f-f1dd609aec66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_RGB0_D.tex.eduasset"
+    },
+    "aefb49c8-5d71-c4c3-0bdc-66edecff7da2": {
+        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_templateTxtBlank.mesh.eduasset"
+    },
+    "03a16a6c-b3df-f5cf-ea65-6b8aaa795fa3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Normal_D.tex.eduasset"
+    },
     "a92d39df-a39d-c7e4-f271-ef664ec1a7e3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_Black.mtli.eduasset"
     },
-    "e7c9fd24-20c1-dcb3-62a3-9a01346cdcf5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/M_Black.mesh.eduasset"
+    "b19bdb43-e948-43f2-8b85-837be349a8e1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Blank_Thumb.tex.eduasset"
     },
-    "fa83acc1-6e1b-24cd-5fda-3c8ae31aa5e9": {
+    "35a079cd-4c5a-2fff-685d-33cacc3d0fc0": {
         "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_playerStart.mesh.eduasset"
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/M_White.mesh.eduasset"
     },
     "e523c01a-7812-282a-957b-b23dbcf0d190": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_blankFloor.mtli.eduasset"
     },
+    "fa83acc1-6e1b-24cd-5fda-3c8ae31aa5e9": {
+        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_playerStart.mesh.eduasset"
+    },
+    "e7c9fd24-20c1-dcb3-62a3-9a01346cdcf5": {
+        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/M_Black.mesh.eduasset"
+    },
     "bc6dfa94-03d1-d144-c7fa-07b1176feab5": {
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SC_Blank_Template.scene.eduasset"
     },
-    "1c0c8fe8-f153-59a3-4704-a648af72b9ab": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Blank_Thumb.tex.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.eduasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.eduasset"
+    },
+    "7ed91c01-a9ee-c049-6eb5-8f31eba9a61b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_RGB100_D.tex.eduasset"
     },
     "2f324e46-e3b9-a6f8-d608-00cd799eae2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -33,65 +77,17 @@
         "path": "Assets/SC_Template_Blank.scene.eduasset",
         "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
     },
-    "7ed91c01-a9ee-c049-6eb5-8f31eba9a61b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB100_D.tex.eduasset"
-    },
-    "18302632-39a1-8d96-4135-dc3f4ee1dbb3": {
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalBrdf.tex.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.eduasset"
+    },
+    "e975475d-2d78-4b97-bc2f-43a89d925b4c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Template_Blank.eduproject",
+        "thumbnail": "b19bdb43-e948-43f2-8b85-837be349a8e1"
     },
     "4a368e10-c3a5-d125-d6af-de7c8bcdd7a7": {
         "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
         "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_directionalLight.mesh.eduasset"
-    },
-    "1c31bdce-8018-c25e-eb5c-4ea0cfdd73ad": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/SM_environmentProbe.scene.eduasset"
-    },
-    "a6f05dbb-d938-47bc-b03d-b75f96469166": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Blank.eduproject",
-        "thumbnail": "1c0c8fe8-f153-59a3-4704-a648af72b9ab"
-    },
-    "8d7b41e9-ff92-4bc4-7438-3b2077a3f857": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalDiffuseHDR.tex.eduasset"
-    },
-    "8dfaac64-3473-9275-bd77-e91976c46591": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.mtli.eduasset"
-    },
-    "89ac21a5-f037-7043-81b9-53034bb59732": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Black_D.tex.eduasset"
-    },
-    "21086510-56d0-b9d6-51e5-76e7cf5170ac": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalEnvHDR.tex.eduasset"
-    },
-    "03a16a6c-b3df-f5cf-ea65-6b8aaa795fa3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Normal_D.tex.eduasset"
-    },
-    "aefb49c8-5d71-c4c3-0bdc-66edecff7da2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_templateTxtBlank.mesh.eduasset"
-    },
-    "f4ee6e49-e0cf-4364-d61f-f1dd609aec66": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB0_D.tex.eduasset"
-    },
-    "a29f7eac-d993-7f7e-769c-12c6281df46f": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalSpecularHDR.tex.eduasset"
-    },
-    "bec11a08-220f-5be0-126a-954c7a503916": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_blankFloor.mesh.eduasset"
-    },
-    "35a079cd-4c5a-2fff-685d-33cacc3d0fc0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SC_Blank_Template.scene.eduasset/SM_environmentProbe.scene.eduasset/M_White.mesh.eduasset"
     }
 }
