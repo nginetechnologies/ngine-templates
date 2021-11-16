@@ -1,0 +1,50 @@
+{
+    "guid": "85c6ba7e-8f74-ff31-bf21-e6aea822962d",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d9a3c64f-8128-28b3-5c51-eb6dd6c84ff4",
+    "children": [
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "dda2fe1e-17b8-b07c-3ce0-10ea7d9e857b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "M_Floor_Interior-2"
+                }
+            ],
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "06f9e65d-9719-5851-a757-aa8218c869fd",
+                "material_instance": "7ccd7cdd-ad38-a75b-7430-8fc653a27b47"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "c0648b5a-c01c-009f-c07c-03323ac7d332",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "M_White-4"
+                }
+            ],
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "a9144713-b461-a505-1af4-f0b22b066b37",
+                "material_instance": "b84389bb-c843-50e7-c6dc-36172eea82fe"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "85c6ba7e-8f74-ff31-bf21-e6aea822962d"
+    }
+}

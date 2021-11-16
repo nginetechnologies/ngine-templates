@@ -1,7 +1,7 @@
 {
-    "guid": "fb8aa045-fe47-30ff-71a2-ef5b3a25c46e",
-    "source": "../../textures/T_Floor_Interior_D.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "guid": "896224a9-1f7e-0888-eae9-b8bdbccb659e",
+    "source": "../../Textures/T_Floor_Interior_D.jpg",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -36,6 +36,22 @@
                 4.0
             ],
             "offset": 672,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 680,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 688,
             "size": 8
         }
     ]
