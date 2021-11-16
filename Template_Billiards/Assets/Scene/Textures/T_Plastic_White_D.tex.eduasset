@@ -1,7 +1,7 @@
 {
-    "guid": "8b30c7af-5a18-13a5-60de-bcde27104461",
+    "guid": "7d649106-715c-d5ed-5420-db48996437f7",
     "source": "../../textures/T_Plastic_White_D.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -36,6 +36,22 @@
                 4.0
             ],
             "offset": 672,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 680,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 688,
             "size": 8
         }
     ]

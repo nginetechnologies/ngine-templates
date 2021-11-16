@@ -1,7 +1,7 @@
 {
-    "guid": "56c96210-a5e5-48c4-db9c-908a613848ee",
+    "guid": "97ba960c-b15c-eb48-78fa-5803db748d00",
     "source": "../../textures/T_Table_Felt_D.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -36,6 +36,22 @@
                 4.0
             ],
             "offset": 672,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 680,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 688,
             "size": 8
         }
     ]

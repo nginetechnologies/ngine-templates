@@ -1,0 +1,699 @@
+{
+    "guid": "1ed23931-286b-2e5d-7ba6-fffe1f1432b2",
+    "source": "../Billiards_Template.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d6907f65-7fbe-50f6-7393-be99023a1cf4",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Billiards_Template"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b0795808-c784-50de-b087-3b2b906af57e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4f60b12-c5ec-957f-825d-562e8e9f5068"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b468421b-b678-b40f-4491-9ab0ac63d6e5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Cue"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0198636054992677,
+                    0.5619213581085205,
+                    0.11287495493888855
+                ],
+                "rotation": [
+                    0.000009220547326549422,
+                    3.3546860218048097,
+                    -165.00003051757813
+                ],
+                "scale": [
+                    1.0,
+                    1.0000001192092896,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "250e45b2-bfca-3b2c-d999-e55e33d8276c"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "d0febe77-b5c5-65e5-34cb-17693b0c7402",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.0001970029843505472,
+                    0.008008596487343312
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "75fe453d-75bc-29f8-725e-c8c51d526c72",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "fe60f9c6-06f2-2219-34c0-f9c74ec611e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019735493697226048,
+                    0.008008581586182118
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "9c3521cf-0023-cfaa-cf2e-fda33054fc84",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "bbc2fd1a-ab5f-1efe-64ba-155304bbad6e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959617733955383,
+                    0.00019714824156835675,
+                    0.008008596487343312
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "958c3e13-75c3-25e0-d371-be98d4b9133e",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "862dc35e-2042-d2ad-9e09-1fc2c8d2a180",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019646667351480573,
+                    0.008008641190826893
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "8cf0da2b-d7d3-dd6f-ab81-04b093508d3e",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "75743d1a-365a-c011-25d8-0548a7de8e78",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959617733955383,
+                    0.00019625811546575278,
+                    0.008008656091988087
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "75ec6303-c665-1dde-d8bb-eedac23ee772",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "1530b16f-ddb1-262c-b149-466113cb2d53",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959608197212219,
+                    0.00019640522077679634,
+                    0.008008641190826893
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "b692e96d-83ed-3c65-190a-53ff42632c73",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "3f1da757-7e29-9dae-4558-df276d3caae2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_07"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019744619203265756,
+                    0.008008566685020924
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "13ec2717-d803-2ec5-ac95-130d2d3d2152",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "1029b1ef-5820-9e1e-4352-18c5bb30af92",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_08"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019670317124109715,
+                    0.008008626289665699
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "21955919-f179-be45-8228-f3042f435be1",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "6ea250f0-eb21-223d-f92a-c23e9dab4d81",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_09"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959617733955383,
+                    0.00019578324281610548,
+                    0.008008685894310475
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "7c0a412c-bc39-c8b8-36c4-a4578bd70e12",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "a478cf49-8ad8-5d44-fe13-06800c7f8ad7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_10"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959608197212219,
+                    0.00019667152082547545,
+                    0.008008626289665699
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "0eace016-af3c-54f1-ad49-c970aa1fae3a",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "da6aaa9f-5f4e-e937-545b-4a175be00276",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_11"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959608197212219,
+                    0.0001969415316125378,
+                    0.008008611388504506
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "12d4f445-52de-81ae-4f50-eeb90e2148c5",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "af7c1c54-0020-ddac-590c-1de55705d5c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_12"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019633072952274233,
+                    0.008008641190826893
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "710af47a-4641-d02a-4664-a7835b1c1b4d",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "a13d583b-6e9b-bb29-5d12-72491c96de5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_13"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959608197212219,
+                    0.00019551323202904314,
+                    0.008008700795471669
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "e6e22533-6c15-4f48-1639-3861dfbab350",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "17499fec-30e7-633a-988a-00a1eb36fdd1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_14"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959608197212219,
+                    0.00019671620975714177,
+                    0.008008626289665699
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "b3071ce6-112f-9143-863f-424f48690749",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "cfe3ee4f-bd46-d8da-f27e-32042089aad2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_15"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.6959612369537354,
+                    0.00019623948901426047,
+                    0.008008656091988087
+                ],
+                "rotation": [
+                    -0.0000043257100514892958,
+                    2.0355550198972867e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "5f3a468a-4710-9438-2af2-20e519f4b71a",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "527aa60d-c878-6577-db09-30896da30376",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Triangle"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.650322675704956,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "ed8c4261-0016-5b90-b600-2419357358e3",
+                "material_instance": "1f1bd3ef-fbc0-8450-b18b-9ca45a4d74a2"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "4e23c123-3481-f0b1-353b-2c0d2054ecbe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Ball_Cue"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.7798095345497131,
+                    0.22994382679462434,
+                    0.029992708936333658
+                ],
+                "rotation": [
+                    0.0000025044785161298934,
+                    -1.0177775099486433e-13,
+                    -89.99998474121094
+                ],
+                "scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "36579ea0-d725-2384-f51a-724afc771d77",
+                "material_instance": "1588e04c-77e7-9be4-62d8-931cee39efd7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "843a5296-055c-c398-2d2d-0677fea7a7f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Pool_Chalk"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5198730230331421,
+                    0.5998534560203552,
+                    0.03999023512005806
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38010b38-1878-236d-dba8-455a14c24bfe"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1ed23931-286b-2e5d-7ba6-fffe1f1432b2"
+    }
+}

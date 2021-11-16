@@ -1,15 +1,15 @@
 {
-    "guid": "7990043b-7857-89a2-e813-1dd3e8ec83ec",
+    "guid": "12ac291f-bfd9-ab24-aa82-40bc405d6418",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "cfde5bd4-1d59-cb39-d92a-de89ec0dd92a",
+    "instanceGuid": "e73fd05f-31cd-68da-135f-64968178a5ca",
     "children": [
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "65bb0c2b-30a3-ffd7-ba83-ead0f2611da4",
+            "instanceGuid": "e2af1320-5a77-72af-1f07-58d669267648",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "M_Window_Door_Trim-24"
+                    "name": "M_Window_Door_Trim-25"
                 }
             ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -19,17 +19,17 @@
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "4ae3ea26-9f1a-847e-5f14-dc1b78def5dc",
-                "material_instance": "027d093d-9069-1e1c-8aac-e281a6c8dc5d"
+                "mesh": "3488cd1d-1585-335d-ea3c-8d7654910b1b",
+                "material_instance": "dace3658-19ed-0ce8-c11c-390d0a054cdf"
             }
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "537c7e2c-ace6-5f76-7f13-a18b116131e9",
+            "instanceGuid": "74b23bc2-4037-122d-82a4-037bdaa09a14",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "M_Glass-25"
+                    "name": "M_Glass-24"
                 }
             ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -39,12 +39,12 @@
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "6aa0ae86-6c94-51d1-9f84-c57de1cdff98",
-                "material_instance": "563ac836-616d-f285-6cfd-f5e08a08d842"
+                "mesh": "f16cf3fe-7117-cfb0-fdd3-ba689e27cf54",
+                "material_instance": "0c34dd84-8b54-dae5-461c-47e6a9a3e6c8"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "7990043b-7857-89a2-e813-1dd3e8ec83ec"
+        "scene": "12ac291f-bfd9-ab24-aa82-40bc405d6418"
     }
 }

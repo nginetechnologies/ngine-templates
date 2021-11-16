@@ -1,15 +1,15 @@
 {
-    "guid": "357d483a-43b8-a71a-0756-1cc396c10776",
+    "guid": "20517d99-63b9-3f32-1c30-02469d655357",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "7bad7a98-5f0f-73f9-6a1a-7ad634e1e76f",
+    "instanceGuid": "caf42842-9d0f-95b3-25d5-1ad34d8b4d17",
     "children": [
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "25cd7df4-7690-9a29-232b-33c6869b45b4",
+            "instanceGuid": "03661c8b-2de5-fa59-ffa5-be20f0cc1a55",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "M_Slat_Main-5"
+                    "name": "M_Slat_Main-9"
                 }
             ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -19,17 +19,17 @@
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "d8420ab7-81ed-3034-acae-27c6774de81b",
-                "material_instance": "c0d58c6a-1b88-057b-d38e-69bf9673e424"
+                "mesh": "3ebdfbf9-71a8-a265-7083-5017cf5814ba",
+                "material_instance": "65b0a4dc-f912-9d57-548f-e4ea04fe24f1"
             }
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "be7adb1a-827a-7fd9-285c-0185405a1c4c",
+            "instanceGuid": "c75ff122-cc9c-4687-1184-20e99869b0c5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "M_Trim_Gold-9"
+                    "name": "M_Trim_Gold-5"
                 }
             ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -39,12 +39,32 @@
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "ef6fa07a-3029-a103-7673-82733ebd33e1",
-                "material_instance": "06183f80-7efe-4917-4e3b-c4047372952f"
+                "mesh": "1c02198a-d940-fb24-0f92-ce60d8c46915",
+                "material_instance": "36a47a34-1e18-60c4-cf6f-86c87b9860d4"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "3251c53d-0851-2cdb-2889-92070cd7f32e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "M_Trim_Gold-8"
+                }
+            ],
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "7148182d-206b-e6f9-d2bb-735fecbfad12",
+                "material_instance": "36a47a34-1e18-60c4-cf6f-86c87b9860d4"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "357d483a-43b8-a71a-0756-1cc396c10776"
+        "scene": "20517d99-63b9-3f32-1c30-02469d655357"
     }
 }
