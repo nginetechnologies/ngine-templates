@@ -1,7 +1,7 @@
 {
-    "guid": "72819ba0-7e30-7f0f-9672-c4662b70aec0",
+    "guid": "82c9de59-e5d5-e5b0-0f9f-7f3a8dcefc18",
     "source": "../../textures/T_RGB25_D.jpg",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -28,6 +28,22 @@
                 4.0
             ],
             "offset": 160,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 168,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 176,
             "size": 8
         }
     ]

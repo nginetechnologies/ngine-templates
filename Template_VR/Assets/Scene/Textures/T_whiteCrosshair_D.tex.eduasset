@@ -1,7 +1,7 @@
 {
-    "guid": "11978b43-71bf-ac29-dd78-2c074dfe56f3",
-    "source": "../../../BlankTemplate/textures/T_whiteCrosshair_D.png",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "guid": "08c3249c-9c6a-6a11-f9fb-9c7e27a78219",
+    "source": "../../Textures/T_whiteCrosshair_D.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "preset": 3,
     "format": 131,
     "usage_flags": 6,
@@ -76,6 +76,22 @@
                 4.0
             ],
             "offset": 699040,
+            "size": 8
+        },
+        {
+            "resolution": [
+                2.0,
+                2.0
+            ],
+            "offset": 699048,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 699056,
             "size": 8
         }
     ]

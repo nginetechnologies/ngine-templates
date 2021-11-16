@@ -1,0 +1,1128 @@
+{
+    "guid": "83f9ace3-352d-2764-f079-c5f710b11f19",
+    "source": "../SC_VR_Template.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "be656583-9059-50a9-8134-7667e5a2cd31",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC_VR_Template"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "instanceGuid": "3ab520dc-7d9d-5595-eb7b-7d8dbf544b30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "TemplateVR_GRP"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "5836f588-bd78-fa6e-6c6b-94d56d9b00cf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGamepadTeleport"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            3.0427932739257814,
+                            7.492761135101318,
+                            0.878153383731842
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "48f91878-321f-f025-9b56-f6809978699f",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a76fcdb7-74c8-0543-d6b7-88afee4cb01e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGlovesGrab"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.1199052333831789,
+                            7.832210063934326,
+                            0.8787660598754883
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "ef743fba-cdcf-6258-9a24-5943bef6a72c",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "ae02afd3-e77d-0f0e-cbef-006359e4ab29",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGlovesDrop"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.8442413806915285,
+                            8.145245552062989,
+                            0.8795560002326965
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "1609a354-2fc1-2247-da90-39670326f663",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "ea9551cc-fc2a-ea9a-913f-fcbbe3509353",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGlovesTeleport"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -3.0283894538879396,
+                            7.493769645690918,
+                            0.8787543773651123
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "c7424887-0da2-5e78-f622-3cfdb6ce3f0d",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "8260eab9-5595-ba41-e45a-bc5aeadde378",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGamepad"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.8757824897766115,
+                            6.994106769561768,
+                            0.8848169445991516
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "eaa66b07-51c0-60f8-ea4b-6f13c0df258b",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "5068644d-097b-a04a-48e0-7cb03099c148",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_inputMappingTxtGloves"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -3.1227519512176515,
+                            6.994106769561768,
+                            0.8848169445991516
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "2a34cab5-c399-4b35-f8ea-6fa3fa0ccde7",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "eab8eac0-4a8e-e642-d382-b173d2624562",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_FeetHMDGloves"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.999267578125,
+                            2.614919424057007,
+                            0.5045996308326721
+                        ],
+                        "rotation": [
+                            -90.00000762939453,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            1.0,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "a9a79f2f-17c9-860b-a5f1-1f04b2f7cfd0"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "a4bc1bed-a38d-c2b3-0bdd-e3aa154d813b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_FeetHMDGamepad"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.999267578125,
+                            2.614518642425537,
+                            0.5045996308326721
+                        ],
+                        "rotation": [
+                            -90.00000762939453,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            1.0,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "3f32c1f7-1182-c7ec-0f7a-ef126cac3232"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "9a9ad455-3175-ae01-da1b-2bef178869f9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_TxtHMDGamepad"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.8828185200691223,
+                            5.510205268859863,
+                            0.6137939691543579
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "8a7ef813-665d-ff26-2005-0be92d29e559",
+                        "material_instance": "49a83cd0-5b63-3167-d51b-7bc2eb59ae9d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "00debe1a-215b-76e3-24c4-8514510dfdcf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_TxtHMDPlusGloves"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -4.7759013175964359,
+                            5.510203838348389,
+                            0.5698608756065369
+                        ],
+                        "rotation": [
+                            -89.99996948242188,
+                            4.885332156173705e-12,
+                            179.99998474121095
+                        ],
+                        "scale": [
+                            0.9999999403953552,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "766568ca-2d19-34f3-1522-06b218fb2839",
+                        "material_instance": "49a83cd0-5b63-3167-d51b-7bc2eb59ae9d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "c34ff4f8-784c-fced-ce12-1a8792af37d9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_vrDirectionIndicator"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "12dd6042-90a6-0cd8-bddf-c743c84845ba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_vrDirectionIndicatorArrow"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -2.999267578125,
+                                    -0.999755859375,
+                                    0.4998779296875
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "10d4672f-aa9e-67fc-3c4b-76f1c5300d9a",
+                                "material_instance": "9e095b31-4208-3bd9-c1a4-974f752a7aa8"
+                            }
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.999267578125,
+                            -0.999755859375,
+                            0.4998779296875
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "24b7c09b-34a4-4dad-7be0-bcf7dfdcb9be",
+                        "material_instance": "9e095b31-4208-3bd9-c1a4-974f752a7aa8"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a090beec-f9ab-1aa5-0f76-30064b223753",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_genericHMD"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.999267578125,
+                            2.4993896484375,
+                            1.99951171875
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            -179.99998474121095
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "03cd7281-d9fc-c31e-a13d-da8dd1c96aea",
+                        "material_instance": "49a83cd0-5b63-3167-d51b-7bc2eb59ae9d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "d7711846-35ca-807b-b799-fa005ac61c05",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_vrTeleportRing"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.999267578125,
+                            -0.999755859375,
+                            0.44989013671875
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "b5098889-65b4-b9da-7e85-a82a22babd58",
+                        "material_instance": "9e095b31-4208-3bd9-c1a4-974f752a7aa8"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "8f43c6e6-d25a-b3c8-e336-770dff5e72ae",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_templateTxtVR"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.3301453590393068,
+                            -3.499145030975342,
+                            2.4993896484375
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            -179.99998474121095
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "0c35a6d0-e876-41e3-946f-2a12b637203c",
+                        "material_instance": "49a83cd0-5b63-3167-d51b-7bc2eb59ae9d"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "3895d3e4-15f5-3598-341c-9fb8f3015b75",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_environmentProbe"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -7.274181392869297e-14,
+                            2.999267578125
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            89.99998474121094
+                        ],
+                        "scale": [
+                            0.9999998807907105,
+                            0.9999998807907105,
+                            1.0
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "a8cf3863-5ec6-edb9-44a6-754107e4bfda"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "f9d7bc25-e325-5747-e823-4c6d61a5f712",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_directionalLight"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -3.6370906964346489e-14,
+                            1.99951171875
+                        ],
+                        "rotation": [
+                            45.00000762939453,
+                            -0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            1.0,
+                            0.9999998807907105,
+                            0.9999998807907105
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "262bf890-428b-54f6-6946-a206454ce37f",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "735f9645-7160-21c2-bba2-685ca43d50f5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_vrGloveRDummy"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -3.2510876655578615,
+                            2.4981021881103517,
+                            1.5040844678878785
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "bffd985a-9698-d3f9-6a06-c997156297e7"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "515b2b10-9cb1-f018-e506-90b8c9f2da7c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_vrGloveLDummy"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.7474472522735597,
+                            2.4981021881103517,
+                            1.5040844678878785
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "13bf4b78-2949-ac33-c546-2f5851e684bb",
+                        "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "ad4b8b4b-b57d-c816-3963-85203c618676",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_blankFloor"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            2.24945068359375,
+                            0.24993896484375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "2b70cbde-36e5-e148-6b41-a22f35f1d9a6",
+                        "material_instance": "41ad16c5-c097-a541-a004-be7256aa26f5"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "166eb25f-0fe9-0cae-c561-2e38ee7fb350",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_genericHMD1"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.999267578125,
+                            2.4993896484375,
+                            1.99951171875
+                        ],
+                        "rotation": [
+                            0.0,
+                            -0.0,
+                            -179.99998474121095
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "39ecec58-46f6-8afd-aed2-4a62ed26c43d",
+                        "material_instance": "49a83cd0-5b63-3167-d51b-7bc2eb59ae9d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "8ce63a2c-0d78-2865-795a-a30d059664fb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.7498167753219605,
+                            0.624847412109375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "d79e4c1e-30f6-5a86-ec48-cdcc189016de",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "747c9aed-17f4-56fe-529c-00097b5f7c20",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_backWall"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -4.24896240234375,
+                            1.99951171875
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "51e67fa5-7337-1c59-d472-da4695e988d1",
+                        "material_instance": "1b843818-1506-5783-310b-a8f55cc7a1fc"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "99d963a5-f643-a04f-2f40-c45a9e59ca1a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator3"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -5.99853515625,
+                            0.7498167753219605,
+                            0.624847412109375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "9e21848b-6d23-9c40-f726-5887e0c027f6",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a7856001-0c89-e944-8993-76ee9691c435",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator4"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            5.99853515625,
+                            0.7498167753219605,
+                            0.624847412109375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "bdda5d95-4bd9-c875-363a-35713e1f3c6a",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "92cf8f2a-b51f-0a82-1a1a-cc6baf65303e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator5"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -1.4996337890625,
+                            -2.999267578125,
+                            0.999755859375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "307ff2e8-a826-3a02-0fa0-f1d5f901cca0",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "c689d8bd-08cb-f05f-6df4-8747566ca0c1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator6"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -4.4989013671875,
+                            -2.999267578125,
+                            0.999755859375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "aa622441-606a-ca6b-56fd-6d93f612c8e4",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "75999298-ccfd-50f2-9793-be2c585a0aa5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_projectileVR"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -4.4989013671875,
+                            -2.999267578125,
+                            1.74957275390625
+                        ],
+                        "rotation": [
+                            -0.0,
+                            -0.0,
+                            -89.99998474121094
+                        ],
+                        "scale": [
+                            0.9999998807907105,
+                            0.9999998807907105,
+                            1.0
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "696672f3-83a6-e2d0-61fc-c76ef58ac0ad"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "c5befc38-6fa2-d885-0bc6-205ba6fdcc5b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_targetVR"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.999267578125,
+                            -3.4991455078125,
+                            1.99951171875
+                        ],
+                        "rotation": [
+                            -0.0,
+                            -0.0,
+                            -89.99998474121094
+                        ],
+                        "scale": [
+                            0.9999998807907105,
+                            0.9999998807907105,
+                            1.0
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "d9688c05-bb96-8e54-0c7b-aaa7e501a4ff"
+                    }
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "455e01b7-8f8f-3932-3b14-af613dedcc02",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "VR_PICKUPS"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1cb3e714-8337-f4e3-4d16-ce8e5eff77a6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Icosahedron"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -1.7995617389678956,
+                                    -2.999264717102051,
+                                    1.5996079444885255
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "83642086-24ea-bf71-c236-b463386de519",
+                                "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                            }
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "948827a9-f137-8eda-be5e-4735fe06cba4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_CubeHi"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -1.499637246131897,
+                                    -2.9992504119873049,
+                                    1.599609136581421
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bf11deaf-5e98-b021-0470-349673f8731d",
+                                "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                            }
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3d607db6-a50f-45f9-8de1-bd55a36de48b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_ConeHi"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -1.1997814178466797,
+                                    -2.999267578125,
+                                    1.5016742944717408
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5b7af1c4-9a2c-72c3-1a65-1202558bab90",
+                                "material_instance": "11a792b2-de63-5f0f-4e05-b31a78c8293d"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "d60ed587-2be7-50db-75b3-f3d97ced6c1c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_floorSeparator7"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            7.24822998046875,
+                            0.624847412109375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "d8ddb813-880b-b567-84cd-41964cf7b1ac",
+                        "material_instance": "07d238f2-5fb7-6072-3920-485cb5437b9e"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "2a27617a-4d5e-1139-45ad-3e8dd577073f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_blankFloor1"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -2.999267578125,
+                            7.4981689453125,
+                            0.74981689453125
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "79bf5156-d56e-0b47-7e12-5fbd9ba012b5",
+                        "material_instance": "41ad16c5-c097-a541-a004-be7256aa26f5"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "2c57d569-d839-55b1-4e94-c4d9c5ded57d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_blankFloor2"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.999267578125,
+                            7.4981689453125,
+                            0.74981689453125
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "6a8af9f2-f7af-d274-d0bc-0c7ca4a92611",
+                        "material_instance": "41ad16c5-c097-a541-a004-be7256aa26f5"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "775e59e6-a75d-d69b-6a95-4e9cca664aa2",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_vrBoundsCube"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            2.999267578125,
+                            2.499389410018921,
+                            0.999755859375
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "c1b1bb49-5582-626b-59e7-4ed8aeb1d92e",
+                        "material_instance": "9e095b31-4208-3bd9-c1a4-974f752a7aa8"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "83f9ace3-352d-2764-f079-c5f710b11f19"
+    }
+}
