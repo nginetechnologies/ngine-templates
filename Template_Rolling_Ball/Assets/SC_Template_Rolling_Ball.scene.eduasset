@@ -418,7 +418,34 @@
                     "flags": 2
                 }
             ]
-        }
+        },
+		{
+			"typeGuid": "01A96E72-3C81-4CFF-8642-46ABD7AABABD",
+			"instanceGuid": "{E6C30541-1DEE-40FF-9943-CF169120A1EC}",
+			"01a96e72-3c81-4cff-8642-46abd7aababd": {},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Physics Body"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "508647CA-01F3-4930-9E33-4562692B719F",
+					"instanceGuid": "{79F63B3D-BE8B-4D63-99A2-49137E369A72}",
+					"10dceba7-be9f-4a9d-9902-6f51bed634ab": {},
+					"508647ca-01f3-4930-9e33-4562692b719f": {
+						"mesh": "28925137-69a3-7a62-10c0-bc0950daa4ad"
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Physics Mesh"
+						}
+					]
+				}
+			]
+		}
     ],
     "default_camera": {
         "position": [
