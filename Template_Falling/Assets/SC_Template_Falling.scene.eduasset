@@ -24,15 +24,24 @@
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                     "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            0.9995117783546448
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "79d88ebd-9527-e789-ff47-ed0b10dced4d"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "GRP_Falling"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "e89eee9b-f1a5-f7a6-00cb-2f0ca74dc2d4"
                         }
-                    ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "79d88ebd-9527-e789-ff47-ed0b10dced4d"
-                    }
+                    ]
                 }
             ]
         },
@@ -41,14 +50,22 @@
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    3.256989002227783,
-                    4.013133525848389,
-                    2.9938840866088869
+                    3.2561938762664797,
+                    4.012153625488281,
+                    2.9931530952453615
                 ],
                 "rotation": [
-                    -45.0000114440918,
-                    0.0,
+                    -20.988908767700197,
+                    -0.0,
                     0.0
+                ],
+                "scale": [
+                    0.999755859375,
+                    0.9997557997703552,
+                    0.9997557997703552
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -73,46 +90,52 @@
                 }
             ]
         },
-		{
-			"typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-			"instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"position": [
-					-25.14043617248535,
-					55.68600082397461,
-					11.304795265197754
-				],
-				"rotation": [
-					-45.0000114440918,
-					0.0,
-					0.0
-				]
-			},
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"f141b823-5844-4fbc-b106-0635ff52199c"
-				]
-			},
-			"7be15c72-f784-4f5e-b895-7cc2fbef6355": {
-				"radius": 40.0,
-				"irradiance": "8d7b41e9-ff92-4bc4-7438-3b2077a3f857",
-				"brdf": "18302632-39a1-8d96-4135-dc3f4ee1dbb3",
-				"prefiltered": "a29f7eac-d993-7f7e-769c-12c6281df46f"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Environment Light",
-					"flags": 2
-				}
-			]
-		},
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.14043617248535,
+                    55.68600082397461,
+                    11.304795265197754
+                ],
+                "rotation": [
+                    -45.0000114440918,
+                    0.0,
+                    0.0
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "8d7b41e9-ff92-4bc4-7438-3b2077a3f857",
+                "brdf": "18302632-39a1-8d96-4135-dc3f4ee1dbb3",
+                "prefiltered": "a29f7eac-d993-7f7e-769c-12c6281df46f"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                }
+            ]
+        },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
             "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
                     5.0
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -135,25 +158,28 @@
     ],
     "default_camera": {
         "position": [
-            6.377793788909912,
-            -0.25601935386657717,
-            4.716098785400391
+            -1.5464959144592286,
+            -18.801258087158204,
+            15.694690704345704
         ],
         "rotation": [
-            -6.909701824188232,
-            -0.0,
-            71.09661102294922
+            -3.4236650466918947,
+            -4.002064102337499e-8,
+            -5.466236114501953
         ],
-        "fieldOfView": 60.00000381469727,
-        "nearPlane": 0.001,
+        "nearPlane": 0.0010000000474974514,
         "farPlane": 128.0
     },
     "grid": {
+        "position": [
+            3.256989002227783,
+            4.013133525848389,
+            2.9938840866088869
+        ],
         "scale": [
-            1.0,
+            -1.0,
             -1.0,
             1.0
         ]
-    },
-    "thumbnailGuid": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    }
 }
