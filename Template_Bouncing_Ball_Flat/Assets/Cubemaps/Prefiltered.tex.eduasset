@@ -1,6 +1,6 @@
 {
-    "guid": "8d7b41e9-ff92-4bc4-7438-3b2077a3f857",
-    "source": "KloofendalDiffuseHDR.dds",
+    "guid": "699684be-374e-41fc-b502-bdbedbcb302d",
+    "source": "Prefiltered.dds",
     "preset": 9,
     "format": 143,
     "usage_flags": 7,
@@ -8,10 +8,26 @@
     "mipmap_info": [
         {
             "resolution": [
+                512.0,
+                512.0
+            ],
+            "offset": 0,
+            "size": 1572864
+        },
+        {
+            "resolution": [
+                256.0,
+                256.0
+            ],
+            "offset": 1572864,
+            "size": 393216
+        },
+        {
+            "resolution": [
                 128.0,
                 128.0
             ],
-            "offset": 0,
+            "offset": 1966080,
             "size": 98304
         },
         {
@@ -19,7 +35,7 @@
                 64.0,
                 64.0
             ],
-            "offset": 98304,
+            "offset": 2064384,
             "size": 24576
         },
         {
@@ -27,7 +43,7 @@
                 32.0,
                 32.0
             ],
-            "offset": 122880,
+            "offset": 2088960,
             "size": 6144
         },
         {
@@ -35,7 +51,7 @@
                 16.0,
                 16.0
             ],
-            "offset": 129024,
+            "offset": 2095104,
             "size": 1536
         },
         {
@@ -43,7 +59,7 @@
                 8.0,
                 8.0
             ],
-            "offset": 130560,
+            "offset": 2096640,
             "size": 384
         },
         {
@@ -51,7 +67,7 @@
                 4.0,
                 4.0
             ],
-            "offset": 130944,
+            "offset": 2097024,
             "size": 96
         },
         {
@@ -59,7 +75,7 @@
                 2.0,
                 2.0
             ],
-            "offset": 131040,
+            "offset": 2097120,
             "size": 96
         },
         {
@@ -67,7 +83,7 @@
                 1.0,
                 1.0
             ],
-            "offset": 131136,
+            "offset": 2097216,
             "size": 96
         }
     ],
