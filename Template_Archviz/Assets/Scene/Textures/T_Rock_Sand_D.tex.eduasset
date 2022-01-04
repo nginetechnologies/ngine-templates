@@ -38,5 +38,35 @@
             "offset": 48,
             "size": 8
         }
-    ]
+    ],
+    "resolution": [
+        8.0,
+        8.0
+    ],
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 32
+            },
+            {
+                "level": 1,
+                "offset": 32,
+                "size": 8
+            },
+            {
+                "level": 2,
+                "offset": 40,
+                "size": 8
+            },
+            {
+                "level": 3,
+                "offset": 48,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
 }

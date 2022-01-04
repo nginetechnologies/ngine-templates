@@ -78,5 +78,61 @@
             "offset": 85432,
             "size": 8
         }
-    ]
+    ],
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        400.0,
+        320.0
+    ],
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 64000
+            },
+            {
+                "level": 1,
+                "offset": 64000,
+                "size": 16000
+            },
+            {
+                "level": 2,
+                "offset": 80000,
+                "size": 4000
+            },
+            {
+                "level": 3,
+                "offset": 84000,
+                "size": 1040
+            },
+            {
+                "level": 4,
+                "offset": 85040,
+                "size": 280
+            },
+            {
+                "level": 5,
+                "offset": 85320,
+                "size": 72
+            },
+            {
+                "level": 6,
+                "offset": 85392,
+                "size": 32
+            },
+            {
+                "level": 7,
+                "offset": 85424,
+                "size": 8
+            },
+            {
+                "level": 8,
+                "offset": 85432,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
 }
