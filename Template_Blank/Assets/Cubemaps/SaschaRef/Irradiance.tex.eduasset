@@ -110,5 +110,44 @@
             }
         ]
     },
-    "astc_data": {}
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 6144
+            },
+            {
+                "level": 1,
+                "offset": 6144,
+                "size": 1536
+            },
+            {
+                "level": 2,
+                "offset": 7680,
+                "size": 384
+            },
+            {
+                "level": 3,
+                "offset": 8064,
+                "size": 96
+            },
+            {
+                "level": 4,
+                "offset": 8160,
+                "size": 96
+            },
+            {
+                "level": 5,
+                "offset": 8256,
+                "size": 96
+            },
+            {
+                "level": 6,
+                "offset": 8352,
+                "size": 96
+            }
+        ]
+    }
 }
