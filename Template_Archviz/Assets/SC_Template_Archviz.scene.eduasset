@@ -9,11 +9,6 @@
         {
             "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
             "instanceGuid": "435910ac-f369-8c63-c824-40b5e2b1d7f7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "scale": [
-                    1.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,15 +19,71 @@
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                     "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "10e48ecc-f688-8124-ead7-a3fc75250c79"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "GRP_Archviz"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7af46743-afed-e8ee-585c-59c2d923d5d7"
                         }
                     ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "10e48ecc-f688-8124-ead7-a3fc75250c79"
-                    }
+                    "children": [
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "0cba0ba2-0e65-eec5-5c2a-f76bc03aa602",
+                                    "flags": 2
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "5d21d5fc-cc94-5663-b5a4-347aa06cab69",
+                                    "flags": 2
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "57af7f0f-e13f-a701-81cf-7be81f96d5c8",
+                                    "flags": 2
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "a9673740-54c7-1b89-928f-bf50c792e7d4",
+                                    "flags": 2
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "c07d87da-757b-840c-9e2a-8669d1450916",
+                                    "flags": 2
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -46,15 +97,18 @@
                     2.9938840866088869
                 ],
                 "rotation": [
-                    -45.0000114440918,
+                    -45.012447357177737,
                     0.0,
                     0.0
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-					"DFCA0EF8-EDED-4660-8ADB-43C0AA8F4E60"
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
                 ]
             },
             "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
@@ -74,52 +128,58 @@
                 }
             ]
         },
-		{
-			"typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-			"instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"position": [
-					-25.14043617248535,
-					55.68600082397461,
-					11.304795265197754
-				],
-				"rotation": [
-					-45.0000114440918,
-					0.0,
-					0.0
-				]
-			},
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"f141b823-5844-4fbc-b106-0635ff52199c"
-				]
-			},
-			"7be15c72-f784-4f5e-b895-7cc2fbef6355": {
-				"radius": 40.0,
-				"irradiance": "{D54D7A2B-3923-44A0-9DE4-D71B080F5414}",
-				"brdf": "{2BCE97E5-0497-4BD7-87C8-7F6928E8FE37}",
-				"prefiltered": "{699684BE-374E-41FC-B502-BDBEDBCB302D}"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Environment Light",
-					"flags": 2
-				}
-			]
-		},
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.14043617248535,
+                    55.68600082397461,
+                    11.304795265197754
+                ],
+                "rotation": [
+                    -45.012447357177737,
+                    0.0,
+                    0.0
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "d54d7a2b-3923-44a0-9de4-d71b080f5414",
+                "brdf": "2bce97e5-0497-4bd7-87c8-7f6928e8fe37",
+                "prefiltered": "699684be-374e-41fc-b502-bdbedbcb302d"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                }
+            ]
+        },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
             "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
                     5.0
+                ],
+                "scene_query_channels": [
+                    "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "86d22670-1f09-4246-ae43-ef7f1b16c977",
-                    "d3b37153-2dce-4574-a8f1-f118df0e8e30"
+                    "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -136,25 +196,33 @@
     ],
     "default_camera": {
         "position": [
-            6.377793788909912,
-            -0.25601935386657717,
-            4.716098785400391
+            24.35225486755371,
+            -9.793498992919922,
+            7.032599449157715
         ],
         "rotation": [
-            -6.909701824188232,
-            -0.0,
-            71.09661102294922
+            -28.201656341552736,
+            -0.0008512123604305089,
+            51.63396453857422
         ],
-        "fieldOfView": 60.00000381469727,
-        "nearPlane": 0.001,
+        "scale": [
+            0.9998502731323242,
+            0.9998489618301392,
+            1.0002397298812867
+        ],
+        "nearPlane": 0.0010000000474974514,
         "farPlane": 128.0
     },
     "grid": {
+        "position": [
+            38.80814743041992,
+            3.083240509033203,
+            0.13034038245677949
+        ],
         "scale": [
-            1.0,
+            -1.0,
             -1.0,
             1.0
         ]
-    },
-    "thumbnailGuid": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    }
 }

@@ -1,0 +1,82 @@
+{
+    "guid": "df5179f2-08fc-4272-cb8b-b9804aa5b8a1",
+    "source": "../Car_Config_Scene.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "67e54e6d-cc6c-e345-ea3c-c12a9c71fea3",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Car_Config_Scene"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6921df51-d7d8-3996-b9bb-a4b71c817fe8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Sedan_4_Door"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    0.9997557997703552
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e209b0a3-34b7-f3af-e1bf-0498d947a013"
+            }
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "95fbeca0-ad89-b662-e110-26301ea11ace",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Floor"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0013315040851011873
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    5027.38818359375,
+                    5027.38818359375,
+                    0.4589577913284302
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "8fe337ef-d1a4-2e97-feef-06a02eb3f84f",
+                "material_instance": "b78901ac-0d21-0d17-466a-918fe5827a74"
+            }
+        }
+    ],
+    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+        "scale": [
+            0.999755859375
+        ]
+    },
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "df5179f2-08fc-4272-cb8b-b9804aa5b8a1"
+    }
+}
