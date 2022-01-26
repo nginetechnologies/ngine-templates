@@ -94,5 +94,70 @@
             "offset": 2667672,
             "size": 8
         }
-    ]
+    ],
+    "resolution": [
+        2000.0,
+        2000.0
+    ],
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 2000000
+            },
+            {
+                "level": 1,
+                "offset": 2000000,
+                "size": 500000
+            },
+            {
+                "level": 2,
+                "offset": 2500000,
+                "size": 125000
+            },
+            {
+                "level": 3,
+                "offset": 2625000,
+                "size": 31752
+            },
+            {
+                "level": 4,
+                "offset": 2656752,
+                "size": 8192
+            },
+            {
+                "level": 5,
+                "offset": 2664944,
+                "size": 2048
+            },
+            {
+                "level": 6,
+                "offset": 2666992,
+                "size": 512
+            },
+            {
+                "level": 7,
+                "offset": 2667504,
+                "size": 128
+            },
+            {
+                "level": 8,
+                "offset": 2667632,
+                "size": 32
+            },
+            {
+                "level": 9,
+                "offset": 2667664,
+                "size": 8
+            },
+            {
+                "level": 10,
+                "offset": 2667672,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
 }
