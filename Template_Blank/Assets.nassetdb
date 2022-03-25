@@ -1,37 +1,7 @@
 {
-    "82617314-c4ba-e869-1aff-e93d861b5791": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_blankFloor.mesh.nasset"
-    },
-    "e4ec2b44-37ea-acaf-ea07-a5a7130ba45e": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_directionalLight.mesh.nasset"
-    },
-    "a626c09e-81ec-40c4-96c2-af92b5452637": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/SC_Template_Blank.scene.nasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "e975475d-2d78-4b97-bc2f-43a89d925b4c": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Blank.nproject",
-        "thumbnail": "b19bdb43-e948-43f2-8b85-837be349a8e1"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
+    "9ecb0e42-5e15-7c78-d30e-ec0c77738118": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
-    },
-    "23fc58ae-269c-5fb7-5c38-c4a80d055c67": {
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset"
-    },
-    "546c3db4-1665-cb06-d8f9-a416fedcfde5": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_Black.mesh.nasset"
-    },
-    "8587dede-d5d7-6526-5e76-0da53bc66205": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
+        "path": "Assets/Scene/Textures/T_RGB25_D.tex.nasset"
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -47,57 +17,87 @@
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
-    "ad570cdc-da24-f26d-ecdc-36357941fe81": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_White.mesh.nasset"
+    "35199736-ea8a-7b5a-fef9-2e82d677aa1e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
     },
-    "b8a8a0ef-0ba3-6ef7-ce13-3d053efa988c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB100_D.tex.nasset"
-    },
-    "602ebe5e-f179-92c1-5672-e8aa312667fd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB25_D.tex.nasset"
+    "7fc6ae4e-6160-c218-5dcc-e04edb3dcad0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_templateTxtBlank.mesh.nasset"
     },
     "b19bdb43-e948-43f2-8b85-837be349a8e1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Blank_Thumb.tex.nasset"
     },
-    "0ab175fc-afd7-267e-ea72-79f2c7cc54b6": {
+    "b86cbeb1-47a3-af01-b8f1-44096924279b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_White.mesh.nasset"
+    },
+    "6f0da852-b230-2a24-2b1c-6bdbd7df9b60": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_blankFloor.mtli.nasset"
     },
-    "7356ee89-03ba-f839-441f-0653a98ac5e0": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_playerStart.mesh.nasset"
-    },
-    "54b71a6f-dd4c-2074-ea89-85f73b140237": {
+    "125a73a4-aec6-6480-954e-443842fa4f95": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
     },
-    "a92493ce-9cbc-6f05-fcbe-e958a852b698": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_templateTxtBlank.mesh.nasset"
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
     },
-    "78ce1d9b-c93d-2f26-cee1-2dc329bebcfe": {
+    "6fabec93-2c20-7a40-0129-eb25e3fb4b1e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_directionalLight.mesh.nasset"
+    },
+    "e975475d-2d78-4b97-bc2f-43a89d925b4c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Template_Blank.nproject",
+        "thumbnail": "b19bdb43-e948-43f2-8b85-837be349a8e1"
+    },
+    "1294561a-ee2c-89a5-6908-fc3e0419d443": {
         "path": "Assets/Scene/SC_Blank_Template.scene.nasset"
     },
-    "83daa1cc-533a-1bc3-591e-e5b4105812a9": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/SM_environmentProbe.scene.nasset"
+    "8e07a772-dd2b-6df5-e6e2-64d11f5fff4f": {
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset"
     },
-    "4ac51a04-0ba9-d065-1c3a-e42502d06cee": {
+    "26acb13b-24c1-d832-fe8c-d1ca2e960041": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_playerStart.mesh.nasset"
+    },
+    "84ce2f5c-7b6a-7b34-b226-e91ee7a23c08": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Grid_Black_D.tex.nasset"
     },
-    "fabef945-bbac-4a53-2177-cf257fa0bcb0": {
+    "b1bc3dce-cbb9-6e80-54d9-e1a492aea062": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_blankFloor.mesh.nasset"
+    },
+    "7449162d-518d-ff20-0c53-70995e3b495f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_Black.mesh.nasset"
+    },
+    "e8eff5c1-8dc3-2bea-d0ae-8aee830d8f69": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_RGB0_D.tex.nasset"
     },
-    "742ff222-8dbb-ef31-6821-45e2287920bf": {
+    "a41de35b-94a9-5757-4d59-01853d381f10": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Normal_D.tex.nasset"
+    },
+    "a626c09e-81ec-40c4-96c2-af92b5452637": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/SC_Template_Blank.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "5dfe176d-9a28-acaf-02eb-bddfa5f8f43c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_RGB100_D.tex.nasset"
+    },
+    "95173976-ae46-8479-db07-5c3f3a96f952": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Blank_Template.scene.nasset/SM_environmentProbe.scene.nasset/SM_environmentProbe.scene.nasset"
     }
 }
