@@ -1,6 +1,6 @@
 {
-    "guid": "84ce2f5c-7b6a-7b34-b226-e91ee7a23c08",
-    "source": "../../textures/T_Grid_Black_D.png",
+    "guid": "dd50f827-1940-cbb1-f029-31cdd4f6e0bc",
+    "source": "../SC_Blank_Template.scene.nasset/../../Textures/T_Grid_Black_D.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
         1024.0,
@@ -68,5 +68,64 @@
             }
         ]
     },
-    "astc_data": {}
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 262144
+            },
+            {
+                "level": 1,
+                "offset": 262144,
+                "size": 65536
+            },
+            {
+                "level": 2,
+                "offset": 327680,
+                "size": 16384
+            },
+            {
+                "level": 3,
+                "offset": 344064,
+                "size": 4096
+            },
+            {
+                "level": 4,
+                "offset": 348160,
+                "size": 1024
+            },
+            {
+                "level": 5,
+                "offset": 349184,
+                "size": 256
+            },
+            {
+                "level": 6,
+                "offset": 349440,
+                "size": 64
+            },
+            {
+                "level": 7,
+                "offset": 349504,
+                "size": 16
+            },
+            {
+                "level": 8,
+                "offset": 349520,
+                "size": 16
+            },
+            {
+                "level": 9,
+                "offset": 349536,
+                "size": 16
+            },
+            {
+                "level": 10,
+                "offset": 349552,
+                "size": 16
+            }
+        ]
+    }
 }
