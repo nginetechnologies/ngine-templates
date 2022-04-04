@@ -1,89 +1,13 @@
 {
-    "guid": "363903a6-8856-5a1e-fccd-09060126352b",
+    "guid": "2411d78f-7b8a-2746-0901-70a5f1ce62e5",
     "source": "../../textures/T_Dark_Accent_D.png",
-    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-    "preset": 3,
-    "format": 131,
-    "usage_flags": 6,
-    "mipmap_info": [
-        {
-            "resolution": [
-                1024.0,
-                1024.0
-            ],
-            "offset": 0,
-            "size": 524288
-        },
-        {
-            "resolution": [
-                512.0,
-                512.0
-            ],
-            "offset": 524288,
-            "size": 131072
-        },
-        {
-            "resolution": [
-                256.0,
-                256.0
-            ],
-            "offset": 655360,
-            "size": 32768
-        },
-        {
-            "resolution": [
-                128.0,
-                128.0
-            ],
-            "offset": 688128,
-            "size": 8192
-        },
-        {
-            "resolution": [
-                64.0,
-                64.0
-            ],
-            "offset": 696320,
-            "size": 2048
-        },
-        {
-            "resolution": [
-                32.0,
-                32.0
-            ],
-            "offset": 698368,
-            "size": 512
-        },
-        {
-            "resolution": [
-                16.0,
-                16.0
-            ],
-            "offset": 698880,
-            "size": 128
-        },
-        {
-            "resolution": [
-                8.0,
-                8.0
-            ],
-            "offset": 699008,
-            "size": 32
-        },
-        {
-            "resolution": [
-                4.0,
-                4.0
-            ],
-            "offset": 699040,
-            "size": 8
-        }
-    ],
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
         1024.0,
         1024.0
     ],
+    "preset": 3,
+    "usage_flags": 6,
     "bc_data": {
         "format": 131,
         "mipmap_info": [
@@ -144,64 +68,5 @@
             }
         ]
     },
-    "astc_data": {
-        "format": 171,
-        "mipmap_info": [
-            {
-                "level": 0,
-                "offset": 0,
-                "size": 262144
-            },
-            {
-                "level": 1,
-                "offset": 262144,
-                "size": 65536
-            },
-            {
-                "level": 2,
-                "offset": 327680,
-                "size": 16384
-            },
-            {
-                "level": 3,
-                "offset": 344064,
-                "size": 4096
-            },
-            {
-                "level": 4,
-                "offset": 348160,
-                "size": 1024
-            },
-            {
-                "level": 5,
-                "offset": 349184,
-                "size": 256
-            },
-            {
-                "level": 6,
-                "offset": 349440,
-                "size": 64
-            },
-            {
-                "level": 7,
-                "offset": 349504,
-                "size": 16
-            },
-            {
-                "level": 8,
-                "offset": 349520,
-                "size": 16
-            },
-            {
-                "level": 9,
-                "offset": 349536,
-                "size": 16
-            },
-            {
-                "level": 10,
-                "offset": 349552,
-                "size": 16
-            }
-        ]
-    }
+    "astc_data": {}
 }

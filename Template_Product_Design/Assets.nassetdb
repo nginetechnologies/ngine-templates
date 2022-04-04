@@ -1,204 +1,183 @@
 {
-    "dcce18e0-1039-689f-1043-55818eaa0965": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/M_Frame-4.mesh.eduasset"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Prefiltered.tex.eduasset"
-    },
-    "3ea13786-b17d-cdbd-1acb-b2ae392ab88b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/M_Chrome-4.mesh.eduasset"
-    },
-    "6deffee9-fb30-f451-d021-36a11aa62dee": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Rear.scene.eduasset/M_Chrome.mesh.eduasset"
-    },
-    "3d05730e-3bf3-81be-91a9-4f5a8580d3ac": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_D.tex.eduasset"
-    },
-    "75570e5e-7337-6de3-6b4b-8c254b855cf3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Crank.mesh.eduasset"
-    },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Brdf.tex.eduasset"
-    },
-    "f40f3158-adbb-41b5-9063-85b907627219": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/SC_Template_Product_Design.scene.eduasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "cfa0abec-49a7-4930-82bc-139577ab8c95": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Product_Design.eduproject",
-        "thumbnail": "f4fa9a15-3800-bcf7-6eef-d386a1292f41"
-    },
-    "48b8ed4c-18c2-4a72-0596-d20da0d6a4c9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Metal_D.tex.eduasset"
-    },
-    "3127fd4d-83e7-1e4d-1df6-e9c7dbf5c496": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Chain.mesh.eduasset"
-    },
-    "aec6a42b-f627-b6bd-989d-239c3ae81cc0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Fork_Front.scene.eduasset/M_Chrome-3.mesh.eduasset"
-    },
-    "2dd1cb5d-3e84-58c3-deb5-01f5eba5fdcd": {
+    "d4d7b474-394f-b275-f830-5976524a7b2f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/SM_Frame.scene.eduasset"
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset/SM_Tire_Front.scene.nasset"
     },
-    "3ae4ada4-3227-e0f5-11e5-2b1493598ba3": {
+    "1665fa13-0b8f-9b35-6798-8168f3716989": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset/M_Frame.mesh.nasset"
+    },
+    "cdb8175c-1f73-664c-1379-e7601fb4a533": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset/M_Grips.mesh.nasset"
+    },
+    "f476a89c-4447-3636-38cf-ea5738a5b792": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset/M_Tire-2.mesh.nasset"
+    },
+    "5ca2f58c-e5d0-7563-4140-db1adda10641": {
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset"
+    },
+    "6011e50a-1c9c-5195-4318-8e91ee94873e": {
+        "path": "Assets/Scene/Product_Template.scene.nasset"
+    },
+    "5dadc50a-89ee-6978-2b59-ed5d2c3ac23c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/Product_Template.scene.eduasset"
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Fork_Front.scene.nasset/SM_Fork_Front.scene.nasset"
     },
-    "25556450-9251-e6f1-f65f-c7acafdc6f11": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Tire.mtli.eduasset"
+    "7fe04566-ec9d-217b-d8ab-04eea552ce77": {
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Fork_Front.scene.nasset"
     },
-    "f97adc5d-0902-16c8-1ec9-b8ca539db163": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Blue_Glow_D.tex.eduasset"
+    "7a474ed9-fad4-9f7f-8aad-528dfd52a875": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/M_Saddle.mesh.nasset"
     },
-    "46d7e603-62c2-dabc-5190-57c89373b06a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_25_D.tex.eduasset"
-    },
-    "9cde1821-8c21-2c41-da72-e198d799e33e": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Frame.mtli.eduasset"
-    },
-    "ad697675-ee61-7a18-718b-e5accb19fe8c": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grips.mtli.eduasset"
-    },
-    "2fdb364c-6498-2a60-1e38-43a9b4fcf401": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/M_Grips-4.mesh.eduasset"
-    },
-    "e4e86533-0ad3-8066-36e5-5e0af5356d2d": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Fork_Front.scene.eduasset/SM_Fork_Front.scene.eduasset"
-    },
-    "4ad3f334-5594-e4b6-82da-8a11e99a15a7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Pedal_Right.mesh.eduasset"
-    },
-    "f7ac3011-a4a8-82bc-8c14-707d5593f9ea": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Rear.scene.eduasset/M_Grips.mesh.eduasset"
-    },
-    "5a35bc3a-deb5-040c-a0ea-5c4378bf4505": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Normal_D.tex.eduasset"
-    },
-    "13c53251-b1fa-fec5-1edd-79337c610f06": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Fork_Front.scene.eduasset/M_Grips-3.mesh.eduasset"
-    },
-    "fad34934-6e10-679a-313a-4fb8bb1ae6c6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Front.scene.eduasset/M_Frame-2.mesh.eduasset"
-    },
-    "5111d272-bcf4-0b4c-4c15-7fc6104d601f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Pedal_Right_Fork.mesh.eduasset"
-    },
-    "006ed395-149f-0ffc-91d4-eec6cf958064": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Front.scene.eduasset/SM_Tire_Front.scene.eduasset"
-    },
-    "283e4b7d-2d6e-9da7-154d-4d54f5c33f50": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_100_D.tex.eduasset"
-    },
-    "bbb95dd8-b249-9c38-c41a-c3b84ba76eeb": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_50_D.tex.eduasset"
-    },
-    "5e8627a9-dd43-7c21-7af3-71a2921e2b11": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Pedal_Left_Fork.mesh.eduasset"
-    },
-    "f4fa9a15-3800-bcf7-6eef-d386a1292f41": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Product_Thumb.tex.eduasset"
+    "9e7de3b6-f8fd-912c-a3de-1e188f2daf91": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/M_Grips-3.mesh.nasset"
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Irradiance.tex.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
     },
-    "4dabc73f-24ef-b16b-1b19-1704b0e9eca0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Chrome.mtli.eduasset"
-    },
-    "0defa1a3-aea1-f499-ebdb-7a76478b2932": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/M_Saddle.mesh.eduasset"
-    },
-    "d923ce27-1173-bc02-3e0e-3be13154bed8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Rear.scene.eduasset/M_Tire.mesh.eduasset"
-    },
-    "6dc727d4-eea6-da0d-c1fb-2ca75d7738d6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Fork_Front.scene.eduasset/M_Rubber.mesh.eduasset"
-    },
-    "775e4f6e-a2a4-d979-5552-89fe8b75433b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Rubber.mtli.eduasset"
-    },
-    "e5221851-1242-3cbf-9698-764fb398fcae": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Saddle.mtli.eduasset"
-    },
-    "592b9676-e835-d6ed-a5a7-a11805ca2693": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Front.scene.eduasset/M_Chrome-2.mesh.eduasset"
-    },
-    "b58a76da-74d1-08d5-9c3a-c7f6c3b29d1f": {
+    "f4fa9a15-3800-bcf7-6eef-d386a1292f41": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_0_D.tex.eduasset"
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Product_Thumb.tex.nasset"
     },
-    "d6c63c9f-807d-74ba-b574-1ac39f527885": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Frame.scene.eduasset/M_Rubber-2.mesh.eduasset"
-    },
-    "149217d2-0b9d-1121-fcaa-9c1c2127358e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Fork_Front.scene.eduasset/M_Frame-3.mesh.eduasset"
-    },
-    "156af0e1-4899-8ec5-b185-fa749731015b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Rear.scene.eduasset/M_Frame.mesh.eduasset"
-    },
-    "62387bfc-6011-9efe-294c-52fab9d2ce0a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Pedal_Left.mesh.eduasset"
-    },
-    "776711eb-4483-de6c-a7ee-1ec41cb89a19": {
+    "60d5b1b3-1b1e-f142-81d3-d90c1eb438b6": {
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Rear.scene.eduasset/SM_Tire_Rear.scene.eduasset"
+        "path": "Assets/Scene/Product_Template.scene.nasset/Product_Template.scene.nasset"
     },
-    "0183cda8-a00d-ab18-3535-2be400bdc5f0": {
+    "cab834c0-cb4a-0cec-9fa2-00b523919b42": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rubber.mtli.nasset"
+    },
+    "6544443b-b8bc-6cd9-a984-bd86ab709d6a": {
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset"
+    },
+    "757e129b-2bd1-739f-250f-816cb63f6fa8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset/M_Chrome-2.mesh.nasset"
+    },
+    "ab10e50e-1199-d14d-65e6-b4c6ffd26d52": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Pedal_Left.mesh.nasset"
+    },
+    "3c311a62-bbbf-f79d-e998-8fb795130d78": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/M_Frame-4.mesh.nasset"
+    },
+    "14d45f78-c0ba-3650-8337-ad45444ee636": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Crank.mesh.nasset"
+    },
+    "0b1761d2-a319-10ef-1c76-12beeff309b0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Frame.mtli.nasset"
+    },
+    "e68a1cb3-21d8-1896-a7bf-4b30b28c6634": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Pedal_Right.mesh.nasset"
+    },
+    "87449319-4a0c-682f-3493-0226a12b87bb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Chrome.mtli.nasset"
+    },
+    "99938257-1ed8-cca9-75e3-7bedcf33942e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/SM_Frame.scene.nasset"
+    },
+    "eb13de14-62d4-ed4b-9dae-ac1f4e4f0172": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grips.mtli.nasset"
+    },
+    "61107f2e-4ff3-b9b1-61f7-d770bb6ac581": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset/M_Grips-3.mesh.nasset"
+    },
+    "8b7edbaa-6986-e838-9e59-e4eff7f1fc16": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Fork_Front.scene.nasset/M_Rubber.mesh.nasset"
+    },
+    "11a2eb5f-af67-54c4-2d3a-fff35698e568": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Fork_Front.scene.nasset/M_Grips-2.mesh.nasset"
+    },
+    "43545f09-1c39-2e67-41e2-0d7b8ec38b02": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Pedal_Left_Fork.mesh.nasset"
+    },
+    "00f528b5-0462-bf0e-6e95-eb83014f77f3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset/M_Tire.mesh.nasset"
+    },
+    "212f6f76-2619-d5bd-9836-8765f664b32c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset/SM_Tire_Rear.scene.nasset"
+    },
+    "d7791347-2233-33f1-4dfd-51bae5019076": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Tire.mtli.nasset"
+    },
+    "d520553a-a715-b3d6-6e3e-84bc7b54d09b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Chain.mesh.nasset"
+    },
+    "b1f83f2c-36e2-1725-780c-ece949c34298": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Front.scene.nasset/M_Frame-3.mesh.nasset"
+    },
+    "b86e1b69-24fe-a36d-5789-65e5d25694a3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Fork_Front.scene.nasset/M_Frame-2.mesh.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Yellow_D.tex.eduasset"
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
-    "a877e5d6-fc4c-c156-a23d-5a939df2fc26": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Front.scene.eduasset/M_Tire-2.mesh.eduasset"
+    "f40f3158-adbb-41b5-9063-85b907627219": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/SC_Template_Product_Design.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
     },
-    "0b484e61-eb4b-397b-a290-4753a534d7e8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Product_Template.scene.eduasset/SM_Tire_Front.scene.eduasset/M_Grips-2.mesh.eduasset"
+    "cfa0abec-49a7-4930-82bc-139577ab8c95": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Template_Product_Design.nproject",
+        "thumbnail": "f4fa9a15-3800-bcf7-6eef-d386a1292f41"
+    },
+    "61353e50-2f88-c1b0-98c4-86987398ae51": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Pedal_Right_Fork.mesh.nasset"
+    },
+    "7854aa29-f053-3289-17b4-b960167b2c11": {
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset"
+    },
+    "67340cd3-eac3-f0fc-93b4-1116bfa2820c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/M_Chrome-3.mesh.nasset"
+    },
+    "cb56a9d0-5010-b930-751a-47a5d43b7a8f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Tire_Rear.scene.nasset/M_Chrome.mesh.nasset"
+    },
+    "ee5cea42-e8d0-25a6-8c65-3d7e82649c53": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Product_Template.scene.nasset/SM_Frame.scene.nasset/M_Rubber-2.mesh.nasset"
+    },
+    "4c4ad9c1-d933-ba06-dbd7-c1598ffa1af3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Saddle.mtli.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
     }
 }
