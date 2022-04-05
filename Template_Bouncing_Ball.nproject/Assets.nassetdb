@@ -1,596 +1,643 @@
 {
-    "c3e036c4-c717-4af6-b36f-d69b2f93a41c": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Bouncing_Ball.eduproject",
-        "thumbnail": "356d8b31-68cb-e3a9-0b3f-32c5cc3e256f"
+    "b6dce6b7-cc41-496d-554f-150445907e7f": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_03.scene.nasset"
     },
-    "82acb0d5-e681-6f3a-4cac-bf0032cd95d2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_05.scene.eduasset/M_Wood-14.mesh.eduasset"
+    "ca5d0523-dab0-9723-9938-03473a3b196b": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_03.scene.nasset"
     },
-    "6d94b340-cc4d-2b1b-940b-eace3defc38e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_04.mesh.eduasset"
+    "a54bb5be-ae58-5d80-ed9b-431ee64cd28f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Trim_04.mesh.nasset"
     },
-    "f317ad41-af51-d8df-ccfb-ca870ced8ed7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Player_Sphere.mesh.eduasset"
-    },
-    "32bcf3c0-b61c-bdfb-0c74-65e0f0c0a9ec": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_05.mesh.eduasset"
-    },
-    "cab33037-bfdf-932f-05a2-2b8b8bda10b6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_05.mesh.eduasset"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Prefiltered.tex.eduasset"
-    },
-    "a25757fa-e549-8485-930f-b855598a32ef": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_06.scene.eduasset/M_Gold-15.mesh.eduasset"
-    },
-    "58117557-a6c9-76f0-3e56-e9a04db01d60": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Input_Jump_Txt.mesh.eduasset"
-    },
-    "2212f783-4449-116e-d5e0-a5d21c5cfa46": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Platforms_01.mesh.eduasset"
-    },
-    "00769f68-a0b8-b458-6f83-72e2a07a642f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_03.scene.eduasset/M_Wood-6.mesh.eduasset"
-    },
-    "d3b94c6d-36fc-4491-eda3-4479ccdc0e07": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Ball_Start.scene.eduasset/M_Default_Floor.mesh.eduasset"
-    },
-    "c69a17dc-c3bc-e4f7-8e97-52554d40b3a2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Trim_01.mesh.eduasset"
-    },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Brdf.tex.eduasset"
-    },
-    "1ba3678e-50a4-66ea-2eb9-fa39dd26075a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_02.scene.eduasset/M_Wood-11.mesh.eduasset"
-    },
-    "5eca8944-59b6-0d9d-d747-ed16d84c2dba": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Platforms_02.mesh.eduasset"
-    },
-    "1de44fa5-8cae-ecd3-c4bb-dff15af5dbcb": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Platforms_01.mesh.eduasset"
-    },
-    "8f53061e-c009-06da-fb03-1685eba03701": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_04.scene.eduasset/M_Wood-13.mesh.eduasset"
-    },
-    "c903bb70-7f63-7def-c942-0dab0c81b399": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Platforms_05.mesh.eduasset"
-    },
-    "d2f52339-e357-ac50-7b63-288af965c334": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Trim_04.mesh.eduasset"
-    },
-    "e0398c3b-62d9-d0b0-e6cb-41a39ed17c18": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Accent.mtli.eduasset"
-    },
-    "d5d9c4e0-7802-39ef-35bd-1f73b84c0c48": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Gold.mtli.eduasset"
-    },
-    "ba5c9a6f-58c0-898f-b9ab-50abe4f0fb51": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Wood.mtli.eduasset"
-    },
-    "269dcb6a-83b3-6b54-d571-62df579ba440": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_03.scene.eduasset/M_Gold-6.mesh.eduasset"
-    },
-    "f732925f-a709-bc02-7bf6-bbccc23356db": {
+    "73f969d9-25c8-3a4b-0199-5265c2a9283f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_06.scene.eduasset/SM_Section_C_Coins_06.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_03.scene.nasset/SM_Section_A_Coins_03.scene.nasset"
     },
-    "a0f42cad-fa5a-9f64-6720-939e4f00994c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Directional_Light.mesh.eduasset"
+    "55258cec-accc-4547-136a-7b78674ba196": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Platforms_04.mesh.nasset"
     },
-    "3560e77e-309d-05be-77c3-a744c400dcc3": {
+    "80648c4b-833f-753b-e8ce-044ddc40dfa1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_05.mesh.nasset"
+    },
+    "23714dd4-6c0f-25d0-19dd-17a65c4d3bd8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Platforms_04.mesh.nasset"
+    },
+    "a990e524-d83a-0b89-0370-ebeb5b32d26b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/Bouncing_Ball.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Environment_Probe.scene.nasset/SM_Environment_Probe.scene.nasset"
     },
-    "eac69da3-daee-954c-1744-60faa8aa36e8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_05.scene.eduasset/M_Gold-14.mesh.eduasset"
+    "e65fc9dc-e1c0-ab05-a0d8-d43d8301eb8a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Platforms_02.mesh.nasset"
     },
-    "8503c7f1-e9e6-8a03-3a85-a35a28c155cf": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_02.scene.eduasset/M_Wood-5.mesh.eduasset"
+    "fdcce095-32b1-843b-3101-53946ffb5777": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Start_Trim_04.mesh.nasset"
     },
-    "0802dbc5-3dea-974d-4734-bea5d1903621": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_03.scene.eduasset/M_Wood-3.mesh.eduasset"
+    "e74b6393-3908-c629-a7eb-685c152b7188": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Platforms_03.mesh.nasset"
     },
-    "065ba294-ec8c-38a0-8213-e52991c9b44b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_LG_03.mesh.eduasset"
+    "ac663eab-e728-0736-d5f9-7a4189c97b43": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_02.scene.nasset/M_Gold-2.mesh.nasset"
     },
-    "7ed511e4-582b-b047-3267-52c5917340b5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Start_Trim_02.mesh.eduasset"
+    "e6903a2d-ebaa-8f52-2fba-73a8c279614f": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_05.scene.nasset"
     },
-    "d4295d86-bac7-b24e-632a-bb2528544d91": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Trim_04.mesh.eduasset"
+    "e19d5d9a-49d5-edd3-2ed6-3cacb108f6a5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Trim_03.mesh.nasset"
     },
-    "21eb65f1-2c7f-8dfb-7f5a-ad1a33146c80": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Input_Mapping_Border.mesh.eduasset"
+    "ddb8c02b-3c9d-3ed4-f2f5-1deac8fced05": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Trim_04.mesh.nasset"
     },
-    "7468bce0-85ef-5958-60df-6e065a6c8759": {
+    "f783e4b2-77c4-578e-fb2f-05e7c91bd83a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_03.scene.nasset/M_Gold-12.mesh.nasset"
+    },
+    "1149bdeb-1126-875c-ac05-7e0b8b6484f1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Platforms_05.mesh.nasset"
+    },
+    "c4b17206-ab99-2359-b404-9ef7691f1b67": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Blank_Floor_Section_C.mesh.nasset"
+    },
+    "b94b4e1f-db84-d1e2-3bc8-374e2580af66": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_03.scene.eduasset/SM_Section_C_Coins_03.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_01.scene.nasset/SM_Section_A_Coins_01.scene.nasset"
     },
-    "30cca6ef-31bc-d6f8-986f-4890a2b34a86": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_01.mesh.eduasset"
+    "953f042b-a70f-3226-d9f5-366e4e8466e4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_02.scene.nasset/M_Gold-5.mesh.nasset"
     },
-    "4b62a75e-5a18-823e-6fbd-4190c15e03c5": {
+    "a22349bf-00e6-6d82-f9af-1787321a8b61": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_04.mesh.nasset"
+    },
+    "a2748043-6b3d-cfa2-9260-34376ef0f04a": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_05.scene.nasset"
+    },
+    "dd7f5dea-4f91-c98c-a5ff-0665fe965d38": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_LG_02.mesh.nasset"
+    },
+    "8b301897-e389-682a-7767-7ed9fe07e633": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.mtli.eduasset"
+        "path": "Assets/Scene/Material Instances/M_Dark_Accent.mtli.nasset"
     },
-    "5baaaaa0-fae0-37a5-893b-5d5f164810b6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Input_Mapping_Txt.mesh.eduasset"
-    },
-    "321fc8dc-1b70-6887-f037-3fe53de1f542": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Black.mtli.eduasset"
-    },
-    "fd687f70-ffc5-d4ee-36db-30c0222cae5d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Platforms_04.mesh.eduasset"
-    },
-    "86358dd1-1360-d47c-35e4-7a97365cf2b6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Platforms_03.mesh.eduasset"
-    },
-    "b623574d-c465-fff7-7bef-9e5766ed464d": {
+    "8873a8d4-e40f-1312-ba1b-b616a93f94b0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_0_D.tex.eduasset"
+        "path": "Assets/Scene/Textures/T_Grid_Dark_D.tex.nasset"
     },
-    "2e6b8c73-2dda-f74f-bacb-66fef279deb9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_25_D.tex.eduasset"
+    "0745c9e4-fbee-63c5-f445-d8bd7bdfc194": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Player_Sphere.mesh.nasset"
     },
-    "d4e95a8f-2a35-ebe5-6a46-a4e258769a7c": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_01.scene.eduasset/SM_Section_B_Coins_01.scene.eduasset"
+    "33b07a90-8f27-c6fb-a7ad-32a7c31c6d35": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Directional_Light.mesh.nasset"
     },
-    "af955e94-3c3b-2eea-ae62-fe34ba3aa281": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Yellow_D.tex.eduasset"
+    "0b7d6b07-5e1e-f6ff-bb11-7191396e2192": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Start_Trim_02.mesh.nasset"
     },
-    "fb6abc03-ebe4-f135-9c94-636a39b583fd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_02.scene.eduasset/M_Gold-11.mesh.eduasset"
+    "636fd922-864a-f314-f9d5-6a61d33d64ff": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_03.mesh.nasset"
     },
-    "939e4763-7710-908d-226f-de7a1096d363": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_02.mesh.eduasset"
+    "9e2a5a10-8b0f-00f2-738a-8f25d1fd972c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Default_Floor.mtli.nasset"
     },
-    "36d82915-5565-d2fb-0cca-ca0fc001d510": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_02.scene.eduasset/M_Wood-2.mesh.eduasset"
+    "592c64f5-1ef7-3f73-370c-bfbf9746e178": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_LG_02.mesh.nasset"
     },
-    "f1ce460e-d940-e3f2-d547-8881993496db": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_05.scene.eduasset/SM_Section_C_Coins_05.scene.eduasset"
+    "63b7241f-ae6c-e50c-db2e-0dc8e9b74fea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
     },
-    "d0da8bc2-8f8e-7fd6-df6f-6b8f05361bec": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_02.mesh.eduasset"
+    "a41e93a3-53be-ea68-9e74-9595c1843284": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_03.mesh.nasset"
     },
-    "68736f39-efa6-5e20-51c8-2db463cc65e2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Ball_Start.scene.eduasset/M_White-2.mesh.eduasset"
-    },
-    "f7e21d8d-614c-9fe6-26a5-3adfb6770785": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_06.mesh.eduasset"
-    },
-    "55cae447-2aa3-833c-561c-3c9c09986841": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_02.scene.eduasset/M_Gold-2.mesh.eduasset"
-    },
-    "d1d0aa38-2111-ac7a-2705-66367e171489": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Platforms_04.mesh.eduasset"
-    },
-    "837ed06a-2981-5d41-02d4-28899ff18d4d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Start_Trim_04.mesh.eduasset"
+    "54466c0f-df72-3f41-0071-8921ae7bf91a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_LG_01.mesh.nasset"
     },
     "356d8b31-68cb-e3a9-0b3f-32c5cc3e256f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Bouncing_Ball_Thumb.tex.eduasset"
+        "path": "Assets/Thumbnail/Bouncing_Ball_Thumb.tex.nasset"
     },
-    "6d3251a8-135d-f4a5-2404-0e6f7b51b2cb": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_03.mesh.eduasset"
-    },
-    "2b35364e-a5c5-fc63-6e2e-cb834b309875": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Trim_03.mesh.eduasset"
-    },
-    "129f84ea-1fd4-0d3d-8a53-33901b5541fa": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_06.scene.eduasset/M_Wood-15.mesh.eduasset"
-    },
-    "f78af339-bf1b-5b32-5446-cb95fba26e27": {
+    "1ee9aeb6-c711-ea1c-8cea-d84629ef92dd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_04.scene.eduasset/SM_Section_C_Coins_04.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_01.scene.nasset/SM_Section_B_Coins_01.scene.nasset"
     },
-    "e8f361c9-55d9-a1d2-5b82-c922339f9d71": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_05.mesh.eduasset"
+    "c82e97ff-38e4-a200-4102-0c08b86d3c75": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_06.mesh.nasset"
     },
-    "14023a2e-0815-3a4d-20dd-02403a88f086": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_05.scene.eduasset/M_Wood-8.mesh.eduasset"
+    "b562f26b-4c18-ff78-837d-8956e701f7c1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_04.scene.nasset/M_Gold-7.mesh.nasset"
     },
-    "4347f50e-2fcf-6f34-b521-a1023fd583ad": {
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Metal_D.tex.eduasset"
-    },
-    "d1d84972-30b7-2ac9-efa0-45528726fdb9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Wood_D.tex.eduasset"
-    },
-    "53d27f85-d87e-4633-daa2-20ec8602c833": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Platforms_03.mesh.eduasset"
-    },
-    "9b5a76d8-022d-048d-295d-0fa320dd550c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Ball_Start.scene.eduasset/M_Black-2.mesh.eduasset"
-    },
-    "2120823a-16fe-57d6-824e-be2b483fd4d3": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_04.scene.eduasset/SM_Section_B_Coins_04.scene.eduasset"
-    },
-    "359cb39e-bf32-6e74-29b2-4e1cc04caab0": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_02.scene.eduasset/SM_Section_B_Coins_02.scene.eduasset"
-    },
-    "d00e2815-4590-9fae-57d6-f82e32d34626": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Start_Trim_03.mesh.eduasset"
-    },
-    "7952ebf5-64f9-dcaf-fa55-9d39e77cc50e": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Default_Floor.mtli.eduasset"
-    },
-    "cc54089c-34a2-dbb9-357e-1a912f33a8ad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_01.scene.eduasset/M_Wood.mesh.eduasset"
-    },
-    "e5883f45-d2f0-551c-3a18-7686b693003b": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_01.scene.eduasset/SM_Section_C_Coins_01.scene.eduasset"
-    },
-    "6448cf3c-e267-5470-ab0e-7a4ddb63e6c1": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Environment_Probe.scene.eduasset/SM_Environment_Probe.scene.eduasset"
-    },
-    "026c91f2-fc16-0bd4-aa1d-ccd4f87d549d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Environment_Probe.scene.eduasset/M_Black.mesh.eduasset"
-    },
-    "78480e5c-61ec-d2d8-20ef-d7797082031b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Start_Trim_01.mesh.eduasset"
-    },
-    "06d2922e-aacf-8051-7f9b-93c096c652d1": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_02.scene.eduasset/SM_Section_A_Coins_02.scene.eduasset"
-    },
-    "74f16e4b-e844-5130-c03c-e46c8a2a977f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_01.scene.eduasset/M_Gold-4.mesh.eduasset"
-    },
-    "eb2ea1b6-fc7f-0203-1ec4-31708764bbc5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_06.mesh.eduasset"
-    },
-    "cfa6e870-9636-cbd4-1322-42d954faaee3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_LG_01.mesh.eduasset"
-    },
-    "3fe5943b-623c-9cbd-e85c-c764bba375c5": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Ball_Start.scene.eduasset/SM_Ball_Start.scene.eduasset"
-    },
-    "2aee5d41-b2e1-727a-d410-9b9bd3d15234": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Blank_Floor_Start.mesh.eduasset"
-    },
-    "299f028d-3a25-5e12-9018-ed8dc28776f8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_LG_04.mesh.eduasset"
-    },
-    "dc62da11-a3a9-eae0-850c-0ebd909e7552": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_04.scene.eduasset/M_Gold-7.mesh.eduasset"
-    },
-    "d5472f42-a3f8-c9ce-3dd3-b34776d10d7c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_05.scene.eduasset/M_Gold-8.mesh.eduasset"
-    },
-    "cbc1ef54-922c-4831-e960-70fab51f2fbb": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_06.scene.eduasset/SM_Section_B_Coins_06.scene.eduasset"
-    },
-    "046696e3-ca22-92e0-6a2f-3b0cfd682d62": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_LG_02.mesh.eduasset"
-    },
-    "bcf604bc-2fde-1831-a03e-9c7a8692e68a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_01.mesh.eduasset"
-    },
-    "bf6b3586-67cf-ff84-2884-2d7abfbcd73d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Platforms_01.mesh.eduasset"
-    },
-    "73f97a61-f975-7c3b-95b1-cf8f9a69465d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Trim_01.mesh.eduasset"
-    },
-    "a492e3c6-0785-fab6-baf5-91a6556bf99a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_03.scene.eduasset/M_Gold-12.mesh.eduasset"
-    },
-    "619f5722-de59-4c9a-37b1-577ce2e69d2d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Environment_Probe.scene.eduasset/M_White.mesh.eduasset"
-    },
-    "fdf389c9-2583-d59a-5ae3-d0f79861e510": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_04.mesh.eduasset"
-    },
-    "4e499c10-1ef0-38fc-6059-83de0c02a505": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_03.mesh.eduasset"
-    },
-    "dc4d3c0c-1ad0-e67f-d87b-1eaa4b901665": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_LG_03.mesh.eduasset"
-    },
-    "f1447688-2f61-e334-1ba6-fbcb374da269": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_LG_02.mesh.eduasset"
-    },
-    "9edf13c7-c8f6-298b-1738-2009fde92bad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Trim_01.mesh.eduasset"
-    },
-    "d4068d68-b2ad-7b62-f380-c8b9370d4d89": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Crosshair.mtli.eduasset"
-    },
-    "641bd05a-2640-8128-229d-a44d6c9dd57e": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Metal.mtli.eduasset"
-    },
-    "1a457742-06e9-e055-085f-15c3982c6a49": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_03.scene.eduasset/SM_Section_A_Coins_03.scene.eduasset"
-    },
-    "4800455d-d2bb-8743-3afc-60ed94f6ab33": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_08.mesh.eduasset"
-    },
-    "85f9c209-7bae-eab5-a1f5-da162fa8f7f0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Dark_D.tex.eduasset"
-    },
-    "884edfbe-a139-33b3-53f6-5115006ee940": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_01.scene.eduasset/SM_Section_A_Coins_01.scene.eduasset"
-    },
-    "21456381-34ef-45b6-41a9-8b24fb151fff": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Dark_Hatched_D.tex.eduasset"
-    },
-    "c81dbfb3-a585-8604-248e-4a048a87761e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_01.mesh.eduasset"
-    },
-    "e278252c-06e2-b175-22ef-d50e171c914a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_White_D.tex.eduasset"
-    },
-    "b0dfd3e7-9cb1-ae12-c3af-c9b5fbf01559": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_04.scene.eduasset/M_Gold-13.mesh.eduasset"
-    },
-    "eaecb7d8-7904-ce21-f125-e72aaf3b3cf7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_02.scene.eduasset/M_Gold-5.mesh.eduasset"
-    },
-    "54971dae-857b-98f2-6476-4da910356a9c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_01.scene.eduasset/M_Gold.mesh.eduasset"
-    },
-    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Irradiance.tex.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
-    "a2d21d4a-f115-7608-ff22-f52fa2a4ce42": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_08.mesh.eduasset"
+    "00f012e7-89a9-2a4f-0e49-35cc348dfbdc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_02.scene.nasset/SM_Section_A_Coins_02.scene.nasset"
     },
-    "650391af-ef56-5f91-c45c-8a4737833433": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_01.scene.eduasset/M_Wood-10.mesh.eduasset"
+    "6cb281ce-0677-526f-2b41-1b385a60016e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_06.mesh.nasset"
     },
-    "59c3cca3-8fef-5a6f-7bdc-6deab5c08c81": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_LG_03.mesh.eduasset"
+    "60f27a9b-15c9-8d85-99a7-7d373ecb1486": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Ball_Start.scene.nasset/SM_Ball_Start.scene.nasset"
     },
-    "dd3311aa-f45d-afec-7349-b3fdb22a7982": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_02.mesh.eduasset"
+    "9f38dc59-cf0b-9c9d-298c-93d7d7d8108d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Platforms_02.mesh.nasset"
     },
-    "24d7df6b-00c9-4435-4657-81d3a438c52a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Spikes_07.mesh.eduasset"
+    "08dab78f-d981-4a25-2684-710914a4b03b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_02.mesh.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "f5ba1b20-c785-9054-d788-b1060612c162": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Start_Trim_03.mesh.nasset"
+    },
+    "d14b73e6-5558-be07-46fa-32cdcd7eaac5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_04.mesh.nasset"
+    },
+    "2394434b-e8fc-a909-c98f-1ca93f3472e5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_LG_04.mesh.nasset"
+    },
+    "47b2aaef-1f00-f1ef-a44c-9636c4a91955": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Input_Mapping_Border.mesh.nasset"
+    },
+    "b4868343-bdfc-8109-0b09-53cf93fbf977": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_02.scene.nasset"
+    },
+    "d25b4126-2632-ccc3-4c72-b782fb2e3bc0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_02.scene.nasset/SM_Section_B_Coins_02.scene.nasset"
+    },
+    "4f5dfb59-bed2-20f0-6c31-e4d5b32be41a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Trim_02.mesh.nasset"
+    },
+    "d9e710f8-2076-3055-bb95-33e96d9c34f3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_01.scene.nasset/M_Wood-4.mesh.nasset"
+    },
+    "1c3280d5-c755-b584-8e57-1d07d1f32e2d": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_01.scene.nasset"
+    },
+    "b5a39c37-9ba6-d3ab-0552-3957b055bace": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_03.scene.nasset/M_Wood-6.mesh.nasset"
+    },
+    "811cf9df-a935-e4a8-9ce0-d872731297a4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal.mtli.nasset"
+    },
+    "c3e036c4-c717-4af6-b36f-d69b2f93a41c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Template_Bouncing_Ball.nproject",
+        "thumbnail": "356d8b31-68cb-e3a9-0b3f-32c5cc3e256f"
+    },
+    "0d1c88c2-7730-f873-ee22-6e4b8b554ac0": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_01.scene.nasset"
+    },
+    "bf42a234-7b02-316d-0e70-3ac377fbc89d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Input_Mapping_Txt.mesh.nasset"
+    },
+    "d324dcfd-9abc-3a1d-b801-ce414e979c36": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_06.scene.nasset"
+    },
+    "8692c077-e1ba-d397-52ef-c7e1d5ff4446": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_08.mesh.nasset"
+    },
+    "50fa798e-a410-10d6-8556-b4c36a99fa94": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_03.scene.nasset/M_Gold-3.mesh.nasset"
+    },
+    "f960f01c-d106-714b-3b91-5a121da35f47": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_05.scene.nasset/M_Wood-8.mesh.nasset"
+    },
+    "10bd29d9-2628-adf7-583f-8c020e95fadc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_01.scene.nasset/SM_Section_C_Coins_01.scene.nasset"
+    },
+    "1e7add4a-7a9d-5598-55e3-ad2bbf076720": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Platforms_03.mesh.nasset"
+    },
+    "da257b12-52f2-903f-d13f-bea71c20b9de": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_01.scene.nasset"
+    },
+    "5b72451f-0301-08c9-68c4-d77111935b2b": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Environment_Probe.scene.nasset"
+    },
+    "a2f43c0b-ea56-46ff-321f-e9e324a3acc8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_07.mesh.nasset"
+    },
+    "1c03dad4-b343-c8ca-c3df-6db8b88007cf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_White-2.mesh.nasset"
+    },
+    "b9453069-72de-3ecf-5421-b2765272133c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_Default_Floor.mesh.nasset"
+    },
+    "4d7cb027-8a94-618b-279d-18f15c0bf7af": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_06.scene.nasset/M_Wood-15.mesh.nasset"
+    },
+    "7fc7d9d7-ba18-61ba-0bda-78a34ec01d66": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_08.mesh.nasset"
+    },
+    "6e677ee6-ca2b-d06f-5ccc-3b11480ed642": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_02.scene.nasset"
+    },
+    "959cf469-0cfa-beeb-810c-fb1dded06dd4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Trim_01.mesh.nasset"
+    },
+    "e3e0aaaa-e55d-19cf-e693-7daec23a0036": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_05.mesh.nasset"
+    },
+    "0508d7a9-e61d-ce20-054d-36a93dc65175": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_03.scene.nasset/SM_Section_C_Coins_03.scene.nasset"
+    },
+    "d999ba05-333b-0489-8cdd-3c748e38b531": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset"
+    },
+    "42f6c62c-4418-e27d-5965-0dfd13edaecc": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_06.scene.nasset/M_Wood-9.mesh.nasset"
+    },
+    "8f35303e-4f3a-e149-ba00-9d8843cc514a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_07.mesh.nasset"
+    },
+    "02622873-649a-214a-c36c-0782fb22bc8d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_05.mesh.nasset"
+    },
+    "92bfae71-43fc-1d27-1289-e4319778e253": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Platforms_01.mesh.nasset"
+    },
+    "1ae3e85e-116f-4091-de19-5867b438a279": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_05.scene.nasset/M_Wood-14.mesh.nasset"
+    },
+    "ca5d342f-4941-9c56-b7d2-4ec84cd6883d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Environment_Probe.scene.nasset/M_White.mesh.nasset"
+    },
+    "32cb772b-1a82-fd47-4423-789bfee49c37": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Trim_04.mesh.nasset"
+    },
+    "d0558279-5d1d-e085-fe8d-d4ba432f732c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_03.scene.nasset/SM_Section_B_Coins_03.scene.nasset"
+    },
+    "5a50f583-a9ac-6033-a879-d6e4cae0dbc5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Gold.mtli.nasset"
+    },
+    "f7b58557-5962-159c-90d6-f130448820c3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_White_D.tex.nasset"
+    },
+    "b8063def-5d01-3bc7-4aa1-e970d3615b80": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Trim_02.mesh.nasset"
+    },
+    "47d01f27-d5a8-00c3-c901-a9572042122a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_05.scene.nasset/M_Gold-14.mesh.nasset"
+    },
+    "9b62d80a-3745-2aea-d2a5-c94f766ae96c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_LG_01.mesh.nasset"
+    },
+    "326bf79d-9b27-999c-901e-23934cb5e805": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_03.scene.nasset/M_Gold-6.mesh.nasset"
     },
     "3af3f0db-d3f4-417a-af18-866df888fb4b": {
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/SC_Template_Bouncing_Ball.scene.eduasset",
+        "path": "Assets/SC_Template_Bouncing_Ball.scene.nasset",
         "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
     },
-    "be15fbe1-39ab-ccde-5f32-0d9271071e21": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_LG_02.mesh.eduasset"
+    "dfc58d85-82cf-a2d4-617c-a6781c73666e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_04.scene.nasset/M_Wood-7.mesh.nasset"
     },
-    "2d09b305-e447-eabd-9bae-075aeb734ea3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_07.mesh.eduasset"
+    "ab3ea6f3-8890-39f6-9afd-e5447abc8895": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Trim_02.mesh.nasset"
     },
-    "f3f869b3-6e89-6eb4-a3f5-03030cec8bd7": {
+    "a999a147-1802-d80b-874e-e06178629cb6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_03.scene.eduasset/SM_Section_B_Coins_03.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_06.scene.nasset/SM_Section_C_Coins_06.scene.nasset"
     },
-    "462f3b10-78b7-c9a3-6f8c-06b26c1ec9af": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_06.scene.eduasset/M_Gold-9.mesh.eduasset"
+    "f997d637-a480-e2ed-cd2e-d8056cfc1b34": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Environment_Probe.scene.nasset/M_Black.mesh.nasset"
     },
-    "f85772eb-0103-03ae-0e16-2eb8abb2e77e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Trim_03.mesh.eduasset"
+    "3347fde1-188e-4bf5-939b-f8fb9eda49ec": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Input_Jump_Txt.mesh.nasset"
     },
-    "fd01e94c-d05e-022a-0ad5-acc65f6bfd11": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Trim_02.mesh.eduasset"
+    "2a0b1219-82a3-1c73-d8d9-58f06d1b4db2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_Black-2.mesh.nasset"
     },
-    "d7eba070-ed9d-c6b8-9488-a10460cce98d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_01.scene.eduasset/M_Wood-4.mesh.eduasset"
-    },
-    "f1c8f8ed-3f52-0efc-91f0-9a5f56465e44": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Platforms_02.mesh.eduasset"
-    },
-    "c7dce72e-01d4-ffa5-7080-3801e2f1fdfc": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Trim_02.mesh.eduasset"
-    },
-    "27e4a317-9c4e-2978-347b-ddd9b7377e59": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_LG_01.mesh.eduasset"
-    },
-    "db1ed7b3-ee68-4c7b-04ec-82f506680801": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Blank_Floor_Section_A.mesh.eduasset"
-    },
-    "00ec0b8e-5847-f755-4121-f301ca2d536c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Blank_Floor_Section_B.mesh.eduasset"
-    },
-    "6262da29-a7c4-a94e-6a1a-dc28b76abfc9": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Trim_04.mesh.eduasset"
-    },
-    "24bcc2c9-8ad8-e843-fbbd-ae395aa7388a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Trim_03.mesh.eduasset"
-    },
-    "469f6112-9d14-0066-c849-e17aa6b4ead1": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_09.mesh.eduasset"
-    },
-    "e391e351-210f-874e-6ae5-f8a45541a022": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_03.scene.eduasset/M_Wood-12.mesh.eduasset"
-    },
-    "84461f6c-773b-61c6-bfc9-0bb59ed1a805": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_06.scene.eduasset/M_Wood-9.mesh.eduasset"
-    },
-    "64f86546-6aca-7ead-cb69-ffc58a9794e3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Blank_Floor_Section_C.mesh.eduasset"
-    },
-    "fd914d67-a93d-1057-6ff7-d1d8434b61a5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Trim_02.mesh.eduasset"
-    },
-    "eb905eb8-887e-99c4-5e22-d8222c4eea9a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_04.scene.eduasset/M_Wood-7.mesh.eduasset"
-    },
-    "4f6c2339-fb37-eb7a-5a34-014fc522ef7a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Spikes_03.mesh.eduasset"
-    },
-    "46e9d0f5-b900-cd4a-1b5d-a0390750f4bc": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Platforms_03.mesh.eduasset"
-    },
-    "5d2625ea-b4ad-b72c-d2e7-204ae8a9dae9": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_04.mesh.eduasset"
-    },
-    "3b74a8a5-ad2b-6772-5a88-b1b1142ada2c": {
+    "7d5f5289-d516-8602-6bf9-e087c77d1c56": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Coins_05.scene.eduasset/SM_Section_B_Coins_05.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_05.scene.nasset/SM_Section_B_Coins_05.scene.nasset"
     },
-    "67519176-c605-b00e-f3a0-2cb05cc4d139": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Coins_03.scene.eduasset/M_Gold-3.mesh.eduasset"
+    "5b742947-2052-2406-2460-328e551a7af9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Platforms_01.mesh.nasset"
     },
-    "75a1bcde-2013-306d-0e7e-8f8a30e2a69f": {
+    "a865b90a-abd1-e21e-5dcd-53d24495f88c": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_02.scene.nasset"
+    },
+    "1c34489a-5398-d08b-e74c-7e8d9295ad7b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_01.mesh.nasset"
+    },
+    "62892065-e835-030f-2ea5-885e60f22e78": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_01.scene.nasset/M_Gold-10.mesh.nasset"
+    },
+    "58fbc3f8-fc5e-b987-ddef-6c0acc0e42a0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_04.scene.nasset/SM_Section_C_Coins_04.scene.nasset"
+    },
+    "2eae58e3-e76c-905c-e2c1-29bfdabc6fb6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_LG_03.mesh.nasset"
+    },
+    "5557d07f-2a28-8049-3fe8-36bfd1d0e342": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Start_Trim_01.mesh.nasset"
+    },
+    "4fba594f-432b-de6b-7611-a552e6f9c3c6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_LG_03.mesh.nasset"
+    },
+    "bba2bc27-08da-9ba3-c7a2-230c64a4aa6c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_01.mesh.nasset"
+    },
+    "99ababb5-7137-da9c-9395-d974e36c207d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_04.scene.nasset/M_Gold-13.mesh.nasset"
+    },
+    "1b8468b4-db4d-3aba-2d06-0eaecdfca21d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_04.scene.nasset/M_Wood-13.mesh.nasset"
+    },
+    "cc3613bf-5852-c486-0fd1-50cbec41db0d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_01.scene.nasset/M_Gold.mesh.nasset"
+    },
+    "867f8f82-a4f3-0e7e-6f28-a83b1e19a2e7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Platforms_02.mesh.nasset"
+    },
+    "aab4ffd8-40d9-a4bf-e232-1e66c04774cd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_06.scene.nasset/M_Gold-9.mesh.nasset"
+    },
+    "65123bd2-7440-ffd5-be57-3776e412ef39": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_01.scene.nasset/M_Wood-10.mesh.nasset"
+    },
+    "5c5dc6c6-65f4-b8b9-f1a0-0bef8bde253c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_02.scene.nasset/SM_Section_C_Coins_02.scene.nasset"
+    },
+    "400aed25-0d53-df58-bd42-6a74327f2251": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_05.scene.nasset/SM_Section_C_Coins_05.scene.nasset"
+    },
+    "12cfe1e2-6cd7-fa0c-9a2e-bfeab0d47281": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_02.scene.nasset/M_Wood-2.mesh.nasset"
+    },
+    "118202f1-408b-9b7c-1a05-7882012d2bf2": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_03.scene.nasset"
+    },
+    "c64666a3-72b4-57c1-9fc8-33ddf5c3bac1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "7b2d471e-3640-cd02-011b-3c3e99d4aac4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Wood.mtli.nasset"
+    },
+    "ffb691e9-f404-1cfd-8a84-481e4ac8b7ae": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_03.mesh.nasset"
+    },
+    "e864cf5b-3a5b-10cb-6079-ee9b3a014ddb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_03.scene.nasset/M_Wood-12.mesh.nasset"
+    },
+    "6e634486-115a-cdaa-57d2-214131e2e32c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Trim_01.mesh.nasset"
+    },
+    "d768a5f1-81f4-8c96-0c74-216c1812d505": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Trim_01.mesh.nasset"
+    },
+    "1626855a-1694-9fe0-1ddf-5294d88a8671": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_01.scene.nasset/M_Wood.mesh.nasset"
+    },
+    "be4dae6f-7eb8-a5b3-6c36-a811a7ce1ac1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Blank_Floor_Section_A.mesh.nasset"
+    },
+    "6e15aaa6-2154-0277-d0c8-9953bbdc76e7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Bouncing_Ball_Txt.mesh.nasset"
+    },
+    "4d1d6f84-db7f-0cf6-c970-8fedfbddd0a8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Coins_03.scene.nasset/M_Wood-3.mesh.nasset"
+    },
+    "c66cd462-6569-be8f-11b2-c1b5d74e7fb1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_06.scene.nasset/M_Gold-15.mesh.nasset"
+    },
+    "65986bc8-d79e-febe-7027-16389c6ba17c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Platforms_03.mesh.nasset"
+    },
+    "e0c6b6fe-f0ee-e7c6-c66f-9cdb9267f195": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_02.mesh.nasset"
+    },
+    "215f2c5d-c803-8675-2f3b-260480fae4d1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Trim_03.mesh.nasset"
+    },
+    "9f0a2523-148b-43cb-8750-6a3fc893d991": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Dark_Crosshair.mtli.nasset"
+    },
+    "fac89efb-8c4a-7728-806c-74821a10d5ee": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_06.scene.nasset/SM_Section_B_Coins_06.scene.nasset"
+    },
+    "187733ac-9324-6bc8-59d3-173855b00796": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Ball_Start.scene.nasset"
+    },
+    "c5d89c14-09bb-e734-ad08-9417147e2730": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_02.mesh.nasset"
+    },
+    "53c7e75f-84d7-2493-8633-c2cd656b5fde": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Blank_Floor_Section_B.mesh.nasset"
+    },
+    "4d7b9da5-b3c8-dff8-bebb-5184ad4c1ffe": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Blank_Floor_Start.mesh.nasset"
+    },
+    "f741d03b-6e87-b45b-ab8e-6e7192571a1d": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_06.scene.nasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Normal_D.tex.eduasset"
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
     },
-    "c6cb6770-f076-14b0-c72f-b00bd9865b3c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_06.mesh.eduasset"
+    "2d5fad05-c672-b80e-3b05-499106efc73f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_LG_02.mesh.nasset"
     },
-    "cc512a43-ecc8-c584-d575-5b225a3d2c4a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_B_Platforms_02.mesh.eduasset"
+    "a931bf1f-c7cc-5367-2b44-daf21a2f806f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_01.mesh.nasset"
     },
-    "129b91d1-09c8-9a73-84fa-49b300a4f2c2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_A_Spikes_LG_01.mesh.eduasset"
+    "d024d759-4032-9979-9255-97f52e5352bf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_09.mesh.nasset"
     },
-    "42f2db9f-e696-648b-85b1-e708a60cf293": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_01.scene.eduasset/M_Gold-10.mesh.eduasset"
-    },
-    "724764d4-8f19-aa0d-6215-e3fb4fdc23c5": {
+    "36f0020c-662d-86a8-018f-1138fcc00c95": {
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Section_C_Coins_02.scene.eduasset/SM_Section_C_Coins_02.scene.eduasset"
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/Bouncing_Ball.scene.nasset"
     },
-    "5ddaf462-bbac-57bc-43f5-b92348fb8692": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Bouncing_Ball.scene.eduasset/SM_Bouncing_Ball_Txt.mesh.eduasset"
+    "51204600-3204-a25a-fbea-dddb0e0506de": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Platforms_01.mesh.nasset"
     },
-    "828274a4-193e-841d-76ac-2ab5a55931a5": {
+    "152c6239-e6d8-e6da-766a-ce426a62478b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_LG_03.mesh.nasset"
+    },
+    "43b6788a-5924-b313-56db-18af8d5a44cf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_100_D.tex.eduasset"
+        "path": "Assets/Scene/Textures/T_Grid_Dark_Hatched_D.tex.nasset"
+    },
+    "b7cb80c8-24a2-532e-a998-c47408f13f06": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_01.scene.nasset/M_Gold-4.mesh.nasset"
+    },
+    "3df71e7a-f615-f3cb-2fac-44c1f5a461d5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Spikes_06.mesh.nasset"
+    },
+    "b483186a-006e-fa45-b346-f752979fba1e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_02.scene.nasset/M_Gold-11.mesh.nasset"
+    },
+    "c31e7c43-8e43-96c4-3412-5eaf7a116fcd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_05.scene.nasset/M_Gold-8.mesh.nasset"
+    },
+    "bfaeead5-3e47-8180-1f6f-24668b8995fb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_02.scene.nasset/M_Wood-11.mesh.nasset"
+    },
+    "5d8d2d8f-6346-c329-b037-6cfa0406e894": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_02.scene.nasset/M_Wood-5.mesh.nasset"
+    },
+    "2ceb8922-7de8-bd85-d5ec-a5de992b7e5e": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_C_Coins_04.scene.nasset"
+    },
+    "b5728270-a8fc-5ab3-00c7-284d3d08d634": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Trim_03.mesh.nasset"
+    },
+    "21fa41d7-48d9-e1a0-93c1-5823396d43e4": {
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_04.scene.nasset"
+    },
+    "78e97993-6a40-af39-774b-975c50c30fa9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_A_Spikes_LG_01.mesh.nasset"
+    },
+    "93b45ebd-b1e3-621b-860d-ab25075d6106": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Spikes_04.mesh.nasset"
+    },
+    "417d681b-8e58-f8c4-90c6-26ad2a5ebce7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Bouncing_Ball.scene.nasset/SM_Section_B_Coins_04.scene.nasset/SM_Section_B_Coins_04.scene.nasset"
     }
 }

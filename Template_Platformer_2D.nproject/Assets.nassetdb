@@ -1,984 +1,1247 @@
 {
-    "55f749b1-c06f-8d52-c4b8-8342c84f09b0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_03.statobj.eduasset"
-    },
-    "a26ee73e-d641-c157-6457-1b0933c1afa3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_05.statobj.eduasset"
-    },
-    "b183859f-eadb-0ad8-488c-391b94854e17": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_14.statobj.eduasset"
-    },
-    "7b79bcc2-4feb-cdf5-ba7c-8c386848e77b": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-29.statobj.eduasset"
-    },
-    "63814a74-5b90-a649-9e18-7e7396efde6f": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_25_D.tex.eduasset"
-    },
-    "ef9ef5f4-4881-4ea9-58aa-76920bf35610": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-17.statobj.eduasset"
-    },
-    "e8a896ea-75db-8f76-4749-06f855037405": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_26.statobj.eduasset"
-    },
-    "4016e9e9-23b8-8dff-205d-1e837b267331": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-16.statobj.eduasset"
-    },
-    "65e38492-d084-b621-10ce-0b074d6e31cd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_07.statobj.eduasset"
-    },
-    "ca9191a5-ea05-10fa-dcc5-d32b20d7e160": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Trim_02.statobj.eduasset"
-    },
-    "7423ede7-8504-9965-36d7-c09e97da5818": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_30.statobj.eduasset"
-    },
-    "429e4ea3-b168-aa1c-dec1-2673325b0e95": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Trim_04.statobj.eduasset"
-    },
-    "c9be0277-6abc-7a3d-2cf9-a082f54f5e09": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-2.statobj.eduasset"
-    },
-    "58bb5870-6926-8ca3-88c9-01029b38a7d6": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_10.statobj.eduasset"
-    },
-    "7b250e40-ca63-0625-6f3f-a1ed6fc6fb02": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-12.statobj.eduasset"
-    },
-    "cb6e10db-80b1-efab-9f7f-53e11a60a16c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_12.statobj.eduasset"
-    },
-    "db6f8635-3f4c-588b-80a6-4aaa323c6c0e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_02.statobj.eduasset"
-    },
-    "e1e607d5-095c-536e-4106-0221bbb96937": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_49.statobj.eduasset"
-    },
-    "8309f882-7157-4c40-fadd-515b997202ae": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_04.statobj.eduasset"
-    },
-    "89f03be1-e260-4954-ff9e-c4cd975d46b2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-26.statobj.eduasset"
-    },
-    "5a6e8d83-42ef-fc0f-686c-92e37285ba1f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default-6.statobj.eduasset"
-    },
-    "10972064-135a-1fb9-ae74-0332aecce932": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Trim_04.statobj.eduasset"
-    },
-    "815baf76-7da5-6b34-8a5d-92327c628a6e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Inner_Trim.statobj.eduasset"
-    },
-    "662fb093-74df-fde3-5603-35e1d38780ab": {
-        "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/Platformer_2D.statobj.eduasset"
-    },
-    "577c32d9-8df3-fe69-dde5-7fe6442e45d0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_32.statobj.eduasset"
-    },
-    "7ed6dad2-c67a-a379-3440-d31df1b9fbb0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_05.statobj.eduasset"
-    },
-    "3e756aa1-9de4-b63d-56d3-36bff2da8901": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_08.statobj.eduasset"
-    },
-    "cd7f82b6-95d7-ad0e-904a-3417514d4840": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_06.statobj.eduasset"
-    },
-    "efe88386-9625-9dbc-2b9f-a06002491853": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Trim_04.statobj.eduasset"
-    },
-    "d36f3e5f-02b8-a25d-cc09-612a6c64afec": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_48.statobj.eduasset"
-    },
-    "b995dfc7-4cf6-47d1-7675-76aeab199b49": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_39.statobj.eduasset"
-    },
-    "e79d764f-1495-6b27-ed66-9379015c1f8d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_White-2.statobj.eduasset"
-    },
-    "af209dbf-33ba-3d3f-277c-74dac82321cb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-34.statobj.eduasset"
-    },
-    "6c4db1cc-0ef2-1e2f-2353-733659fa2a70": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_03.statobj.eduasset"
-    },
-    "e2eb3e01-ef88-19d5-cc21-2d987e3f7bfd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-3.statobj.eduasset"
-    },
-    "0906fa21-c8e9-469f-2a0c-a686777ee153": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Door_Glow.statobj.eduasset"
-    },
-    "e1c2edeb-6c58-c7d7-21f5-5be612abd818": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Metal.statobj.eduasset"
-    },
-    "9b05c071-ba6d-cd0c-143c-a40d1f2f2879": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_01.statobj.eduasset"
-    },
-    "26d94ed8-adc1-9a9f-9641-4842fdef8e7e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-23.statobj.eduasset"
-    },
-    "6f13acb5-efc6-1ca7-ba2c-5f5b7aa7dd91": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_05.statobj.eduasset"
-    },
-    "1875ac0b-49f1-143d-f49f-ff33c4ebb221": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-21.statobj.eduasset"
-    },
-    "101b9248-2686-f326-ceb6-9213579fb7ea": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_24.statobj.eduasset"
-    },
-    "48abdbe0-48a7-1822-c561-39e07caa234e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default.statobj.eduasset"
-    },
-    "67915541-b6d9-9a93-c31d-eb01ab0391f8": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_41.statobj.eduasset"
-    },
-    "cabfd593-47c2-2277-1ef7-c1e3e8e062c0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Directional_Light.statobj.eduasset"
-    },
-    "1ba6105a-e209-b5d8-2dc6-dc9c9f2683ce": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-27.statobj.eduasset"
-    },
-    "3e714f5b-71af-41af-47fd-bf2088953c35": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Default.eduasset"
-    },
-    "f78f43b5-ad53-2b82-c62b-e494044bf557": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-10.statobj.eduasset"
-    },
-    "caf7736f-815e-42e1-9e62-602d2d70e016": {
-        "typeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Platformer_2D.eduproject",
-        "thumbnail": "e444ca4a-d061-28bd-cdd0-2e8fc53f4270"
-    },
-    "0858e139-2701-848d-ba13-3b609c044208": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Spikes_01.statobj.eduasset"
-    },
-    "9adfd19f-2c77-ac0d-1863-28cd1b2f1b33": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Inner_Trim.statobj.eduasset"
-    },
-    "3345800d-85f4-6bb3-79db-afaa9c0aad50": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Trim_02.statobj.eduasset"
-    },
-    "f23e59db-1170-b814-60e1-144ee47066c4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Start_Trim_02.statobj.eduasset"
-    },
-    "2455ba1f-52ba-37ed-a0e8-9edf3ceca4b0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_07.statobj.eduasset"
-    },
-    "2768ae53-91cd-af4d-7d59-268b43ad1e0a": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-11.statobj.eduasset"
-    },
-    "eb439ec6-d4ed-6cdd-3f07-25979e523744": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_06.statobj.eduasset"
-    },
-    "3bb3fb59-2fd7-6bc0-e4f6-92910de637d6": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_05.statobj.eduasset"
-    },
-    "ac12b1db-5201-20da-a460-559f2fa173d1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-32.statobj.eduasset"
-    },
-    "069c9cd5-dca6-00c3-6f4a-180332239056": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_01.statobj.eduasset"
-    },
-    "af55d274-cc73-2011-ba1c-77e1c5813575": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_31.statobj.eduasset"
-    },
-    "77d2d1c0-60e7-33e1-10fb-8d8cb63688fc": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_06.statobj.eduasset"
-    },
-    "bc7dd228-b1f2-a02a-683f-2d07cb09b670": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-27.statobj.eduasset"
-    },
-    "a29f7eac-d993-7f7e-769c-12c6281df46f": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalSpecularHDR.tex.eduasset"
-    },
-    "4caf7c50-eb3d-b612-264d-cdc523371090": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-24.statobj.eduasset"
-    },
-    "c8b2d7ce-3ec0-43a7-d163-1f0aade302ec": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_02.statobj.eduasset"
-    },
-    "ff9d9965-d189-c26c-9be6-d23ff7ca0d58": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Accent.eduasset"
-    },
-    "226920a9-9f99-6fa1-1f1b-5407d42875d5": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_23.statobj.eduasset"
-    },
-    "e79e54e7-c94c-3e33-cb53-44b19f257128": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Heart.statobj.eduasset"
-    },
-    "17a66fc3-8d77-b70e-ca82-680e8fb22cda": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-30.statobj.eduasset"
-    },
-    "9837fd06-fe96-e5a8-18b1-9e55a9cd8980": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default-2.statobj.eduasset"
-    },
-    "43209a7c-3966-43b8-e737-ec336d88c32c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_22.statobj.eduasset"
-    },
-    "0523b8e3-b4c4-cd11-63dd-771ee964cae1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_40.statobj.eduasset"
-    },
-    "7e28f8d6-e829-3541-b8e8-d373cbd7dc39": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-4.statobj.eduasset"
-    },
-    "79389e15-e68a-42ea-9232-c0328fa43197": {
-        "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/SC_Template_Platformer_2D.scene.eduasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "e5c57e96-9249-872b-a9ab-3e98fc2f21d4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_52.statobj.eduasset"
-    },
-    "09bb437f-d8ae-01e2-4a0f-62de5ac5ad69": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Accent_D.tex.eduasset"
-    },
-    "d695bde2-9298-f0b5-858a-5a569366cc46": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Trim_01.statobj.eduasset"
-    },
-    "9cd72f9d-9162-eaef-2e20-a25057ccea6d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_05.statobj.eduasset"
-    },
-    "fd86a998-a9c8-da52-b0b7-4a6dd02fc381": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default-4.statobj.eduasset"
-    },
-    "a41b6400-02e7-274c-3597-f043c0e71cd0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-30.statobj.eduasset"
-    },
-    "ec466ce3-c033-a2ec-035c-93cac6496327": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Start_Trim_01.statobj.eduasset"
-    },
-    "4a8a033e-9444-286f-980b-4d201a02ae67": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_04.statobj.eduasset"
-    },
-    "588f6014-3db8-cf47-4133-136dedc1ad72": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Trim_03.statobj.eduasset"
-    },
-    "73b4c426-29da-07ba-a035-91f6b7cab66d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Start_Trim_04.statobj.eduasset"
-    },
-    "ec36693a-f778-6b83-2bfd-3372610a5c14": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-9.statobj.eduasset"
-    },
-    "0d780c74-346c-94ee-dbc0-2b402b2446a0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Dark_Grid.statobj.eduasset"
-    },
-    "57d7fadc-3752-02c7-b9ca-75478b8c1b03": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood.statobj.eduasset"
-    },
-    "cf02496b-dc0a-0133-5e6b-e1fc19043b76": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_07.statobj.eduasset"
-    },
-    "a4e2d103-9a65-4ebf-2642-1aa2537b395c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_06.statobj.eduasset"
-    },
-    "38819b4d-f0c8-6608-e2ae-65aad23d9f7f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_35.statobj.eduasset"
-    },
-    "4c8c4c26-6e6d-ef94-a3f2-33d773fb613d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_37.statobj.eduasset"
-    },
-    "eb80d1f6-870e-4089-2ab1-9c93f3f7e970": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Platform_01.statobj.eduasset"
-    },
-    "64a65499-3d96-fa99-f286-5e2ad7b65b87": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_13.statobj.eduasset"
-    },
-    "ad1ef8d9-3ad0-0d38-e9d9-137df8fefdf3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Start_Trim_03.statobj.eduasset"
-    },
-    "82a3ee3f-e207-ed84-ea93-daf69f1706d7": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Wood_D.tex.eduasset"
-    },
-    "bd1e7903-2d00-d425-5aa3-1131a6b7e287": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_01.statobj.eduasset"
-    },
-    "36a90d2f-6fff-9457-5c7d-95887c2fd6c0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_15.statobj.eduasset"
-    },
-    "7a498c8b-a680-e16e-316e-cbb99c83c979": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-8.statobj.eduasset"
-    },
-    "0c6ec399-bf13-b039-ac95-247ded2118fb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-18.statobj.eduasset"
-    },
-    "d9ab9804-1a93-3b20-61ca-80abdb330203": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-13.statobj.eduasset"
-    },
-    "bf52ac4a-784f-8cc5-23be-e995eb0d0e94": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default-5.statobj.eduasset"
-    },
-    "c48f8860-a81c-0573-8809-9a4e3dca4041": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-14.statobj.eduasset"
-    },
-    "2fa2196a-b4fd-5ca7-27ee-115d66a4a881": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-6.statobj.eduasset"
-    },
-    "af064d7a-6dfd-bcfd-5983-5766fc96ebbd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Trim_03.statobj.eduasset"
-    },
-    "9bb787a0-24df-1aa7-2125-b1f95a310d51": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-32.statobj.eduasset"
-    },
-    "cc5dca98-8e4b-166e-841b-263988bebbb7": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.eduasset"
-    },
-    "74c09141-b840-84ba-fd06-c2daedec43ed": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-22.statobj.eduasset"
-    },
-    "d36504a2-0ed2-74d3-9cad-a67cccf3531e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-7.statobj.eduasset"
-    },
-    "c7dadfe1-5c9d-68ea-4af1-3896ca193307": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_09.statobj.eduasset"
-    },
-    "5eee9c2c-3671-61c4-1e06-9c527a4eb0fe": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_09.statobj.eduasset"
-    },
-    "284db3a4-07fe-ba93-8080-78bfb85c5f3f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_25.statobj.eduasset"
-    },
-    "ab7dfc69-7da1-4b19-69f8-417905955dd2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_17.statobj.eduasset"
-    },
-    "a587770b-8397-4a2f-12f1-815796780b39": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Metal_D.tex.eduasset"
-    },
-    "13ba8877-48ff-5b2c-c639-6b03272e2022": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-15.statobj.eduasset"
-    },
-    "993320f3-36e3-a80f-c17f-8eb104e697fb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Portal_Entry.statobj.eduasset"
-    },
-    "b17ce76c-c1f9-02fb-b08c-98e9b2749c0f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_11.statobj.eduasset"
-    },
-    "6df33521-36c1-6ac5-3198-c08239af80bf": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Heart_D.tex.eduasset"
-    },
-    "4844fb44-6e00-98a0-40dd-1df35245546b": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-20.statobj.eduasset"
-    },
-    "a419fd82-8d85-33bb-5ade-d3f38849c712": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Door_Glow.eduasset"
-    },
-    "172f814d-8781-57b1-59ac-1276ba669930": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_07.statobj.eduasset"
-    },
-    "3984cd30-750f-b3e1-fe6c-e70fa299d31c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_43.statobj.eduasset"
-    },
-    "140f42a3-4514-e33b-c352-d6f1e0d8fad7": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-3.statobj.eduasset"
-    },
-    "a2c63e98-3331-877e-2719-fc12676def74": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-25.statobj.eduasset"
-    },
-    "8b8ef5ee-1d8c-c770-40c2-f1e309883fd3": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Heart.eduasset"
-    },
-    "44f0f55e-a316-3bac-3190-094e02c44670": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_34.statobj.eduasset"
-    },
-    "96979cce-0737-0f72-4efc-ce1408642d93": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-26.statobj.eduasset"
-    },
-    "37165850-f663-2067-50e2-2ffcda5ba5a2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Trim_04.statobj.eduasset"
-    },
-    "a734f9ed-e6db-ed6c-8eb5-888b703a05bb": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Accent_D.tex.eduasset"
-    },
-    "a4c50f12-499f-6c1e-5847-ffe26e6bc10f": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Accent.eduasset"
-    },
-    "577af6c8-69ea-d294-781c-119d8c2792d0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-18.statobj.eduasset"
-    },
-    "4fd48556-51af-445b-64b3-c1193eadc973": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_36.statobj.eduasset"
-    },
-    "a783588c-3280-ad0f-5a74-7d3462f607fd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_02.statobj.eduasset"
-    },
-    "327adb16-d56a-9fb3-f916-77481255be59": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Gold.eduasset"
-    },
-    "b09b0186-24c9-8188-98e4-31b60afb05ef": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_02.statobj.eduasset"
-    },
-    "7f135919-9118-1900-9f89-b5cad2f8fb86": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-12.statobj.eduasset"
-    },
-    "5c440bc7-9ea5-b879-b94d-edfaf1c6cef7": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_27.statobj.eduasset"
-    },
-    "356515bf-7e27-041c-cd2e-57d7e3f5bafd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_02.statobj.eduasset"
-    },
-    "3d1c8645-6ef5-b838-1082-8689c577afcf": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Default-3.statobj.eduasset"
-    },
-    "c927a84b-ac06-0a77-93e2-3d1073d1f1de": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Black.eduasset"
-    },
-    "3b853cb7-8b33-0c88-3732-b7ff8dbbda54": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Wood.eduasset"
-    },
-    "6de91b2d-57eb-cc91-e091-661678a9a1bb": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Default.eduasset"
-    },
-    "bb2a113d-258b-fc15-a99e-5567552a1c29": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_04.statobj.eduasset"
-    },
-    "84ba6f50-3587-00a1-af3b-172dd882bab2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_44.statobj.eduasset"
-    },
-    "ea5643f8-fc59-5a93-b97e-fdff84239518": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Yellow_D.tex.eduasset"
-    },
-    "9d171fda-b234-50e7-46bf-5caacbeeabfc": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-23.statobj.eduasset"
-    },
-    "76b53ae4-85a7-7eaf-9f6d-715f7fb898de": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-28.statobj.eduasset"
-    },
-    "1236d239-072c-7d38-02cf-c6cbf65be9c0": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_10.statobj.eduasset"
-    },
-    "ecba60a6-5c20-166a-1777-4157e1cb3732": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-29.statobj.eduasset"
-    },
-    "f28d735e-1bb9-7445-c5f7-f1968f463066": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_04.statobj.eduasset"
-    },
-    "d348c258-f58b-d8d5-3836-a9f7beda445f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Platformer_2D_Txt.statobj.eduasset"
-    },
-    "1e5f7d7c-ce4c-3fcf-9e39-bdc4a4bf6322": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Trim_01.statobj.eduasset"
-    },
-    "f6bf56ea-d6b9-3ba9-1a8d-395c23054f45": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_01.statobj.eduasset"
-    },
-    "18302632-39a1-8d96-4135-dc3f4ee1dbb3": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalBrdf.tex.eduasset"
-    },
-    "84e2671e-347d-940a-d4c1-484f13ab56e4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Trim_04.statobj.eduasset"
-    },
-    "8385a587-c068-7d34-ba10-b94a781c1e17": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_03.statobj.eduasset"
-    },
-    "8b53fdfa-38c8-1de8-1bae-57ade0026db7": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Trim_01.statobj.eduasset"
-    },
-    "72e1e0c9-eb7a-c826-a28a-58571efdf750": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Inner_Trim.statobj.eduasset"
-    },
-    "e0504d3a-e319-8d6b-8874-5958fd8ce4e1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Trim_03.statobj.eduasset"
-    },
-    "c0414c81-72ca-4d8d-78d8-9f25b9ab8c0a": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-21.statobj.eduasset"
-    },
-    "8938c61e-4eda-c545-244e-676f6e48d13b": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_04.statobj.eduasset"
-    },
-    "5eeae3a8-ef4f-8573-0113-83cbd73a2df1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_19.statobj.eduasset"
-    },
-    "1da0b919-fad4-c465-2bbf-2e63bf037fea": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Trim_01.statobj.eduasset"
-    },
-    "732ed69c-ce95-27f9-b6bd-5d16ad75e1e4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-19.statobj.eduasset"
-    },
-    "4daca668-d9be-5f01-e275-bf2a6ce36d45": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_08.statobj.eduasset"
-    },
-    "f162053b-7fc3-37b6-5fec-ec4c7d18f25e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Inner_Trim.statobj.eduasset"
-    },
-    "28974b6f-5d97-c4c5-9398-a416eabe471f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_01.statobj.eduasset"
-    },
-    "56aeacbd-a0dc-c1c7-5c99-e27bb616d22f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_03.statobj.eduasset"
-    },
-    "08db9ea6-af30-501c-752e-d4d42bc4dd28": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_100_D.tex.eduasset"
-    },
-    "52b2a431-e48f-c1da-d503-a0c193dcf522": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_03.statobj.eduasset"
-    },
-    "ad26a848-4e06-c626-5bad-dc8eb65fc0de": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_20.statobj.eduasset"
-    },
-    "7748ca09-12bc-ae79-cfae-e7a3c9f59287": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_28.statobj.eduasset"
-    },
-    "63c1cef5-54d6-55a1-5c68-b787812bdda4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_45.statobj.eduasset"
-    },
-    "b9e32f21-aa57-40d6-215d-f353588e8705": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-8.statobj.eduasset"
-    },
-    "6181b080-0385-18e3-cc03-58fa0eb57bf5": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-6.statobj.eduasset"
-    },
-    "ba694df4-b3c0-1ebd-eab2-ec5da9533c0d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_33.statobj.eduasset"
-    },
-    "651d3960-5020-c51e-1d98-55fd5a7b8590": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_06.statobj.eduasset"
-    },
-    "875fd972-4cd8-d1c3-ecb9-fa8ac7f8ccb2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-35.statobj.eduasset"
-    },
-    "73e4d183-e96d-e3c3-c2a4-c224a80c1f3a": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-9.statobj.eduasset"
-    },
-    "80aa65f5-1c30-2587-1b10-462bdcd9474c": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Grid.eduasset"
-    },
-    "3a8a441e-4ecd-93d6-78e8-c9ddb68612c8": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Blue_Glow_D.tex.eduasset"
-    },
-    "21086510-56d0-b9d6-51e5-76e7cf5170ac": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalEnvHDR.tex.eduasset"
-    },
-    "a90d61d1-2178-db8b-c612-7fdb39c5d0bb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-10.statobj.eduasset"
-    },
-    "8d7b41e9-ff92-4bc4-7438-3b2077a3f857": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/KloofendalDiffuseHDR.tex.eduasset"
-    },
-    "65e39888-13e8-9800-8eb4-022beecab78a": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_11.statobj.eduasset"
-    },
-    "a2edf487-82ce-527b-d006-49eaf36c616b": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Trim_01.statobj.eduasset"
+    "58670776-5dde-2c21-4d72-975f0bac88fa": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Spikes_01.mesh.nasset"
+    },
+    "561aa838-6208-d5bc-d8d1-2ffa5e432aca": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset"
+    },
+    "e73e27c2-489b-0683-218d-e3933917fd7e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Input_Mapping_Txt.mesh.nasset"
+    },
+    "d86a80f1-f50f-dbc6-52f4-3e42ce98da82": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_08.scene.nasset/SM_Section_E_Coin_08.scene.nasset"
+    },
+    "fdaae688-84fe-ac00-35fe-12b7bda06ad9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_13.scene.nasset/M_Wood-28.mesh.nasset"
+    },
+    "f2e960d3-f203-d3b4-dade-cda1656877bf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_08.mesh.nasset"
+    },
+    "e3c062db-b134-f82b-456c-5a30792d45e8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_02.scene.nasset/M_Wood-2.mesh.nasset"
+    },
+    "701aa101-0203-bc1f-dd11-60d291d5c10b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_05.scene.nasset/M_Gold-21.mesh.nasset"
+    },
+    "75c8015b-0770-1906-e504-163c77f58cd0": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_01.scene.nasset"
+    },
+    "3f497de2-6991-02de-909e-5900ea4e27de": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_01.mesh.nasset"
+    },
+    "d4e9b1db-7ad0-075c-bdd8-1073e4e2a960": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_14.scene.nasset/M_Wood-29.mesh.nasset"
+    },
+    "4031f161-914e-9099-28fd-6622661e4c46": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_07.mesh.nasset"
+    },
+    "ae4ef452-e9ba-c557-1762-f9408de9aee6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Heart.mtli.nasset"
+    },
+    "55a58359-9e66-3405-941a-c63ccc23a6b9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_05.scene.nasset/SM_Section_D_Coin_05.scene.nasset"
+    },
+    "626bb98f-0cae-8481-00e1-3678e4ab15da": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_09.mesh.nasset"
+    },
+    "07df8e6d-997a-1899-1fb5-670d4a1a5d0b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/REPLACE.mesh.nasset"
+    },
+    "17ac2b94-837d-70a1-27e7-2f3b1a6cc87f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal.mtli.nasset"
+    },
+    "fa3ccc5c-0552-a01a-a0ad-a26deb34d411": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_01.scene.nasset/M_Wood.mesh.nasset"
+    },
+    "a4cff353-d7a7-c394-c405-6a2f8a99d224": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_01.scene.nasset/SM_Section_D_Coin_01.scene.nasset"
+    },
+    "cd989ab4-40cc-0aa6-fa3e-ce519e620d88": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Trim_04.mesh.nasset"
+    },
+    "d8b24f40-698a-6b79-bffa-57cd8de22f8e": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_04.scene.nasset"
+    },
+    "9f94d539-6ae6-9610-4acc-7ab534ec185c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_01.scene.nasset/M_Gold-31.mesh.nasset"
+    },
+    "bd755e23-ba03-0f4f-480a-7f4e574a54b6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
+    },
+    "6df9472a-9f91-5391-93f8-9ab5cc9a95b9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_13.mesh.nasset"
+    },
+    "82338ad9-c9c5-9b84-86da-ff1e58cd8439": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_03.scene.nasset/SM_Section_D_Coin_03.scene.nasset"
+    },
+    "516a00f4-23d2-b4af-96f3-e9c1434998f1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_02.scene.nasset/M_Gold-10.mesh.nasset"
+    },
+    "f0dd0b72-4bfd-913c-8ea8-c78907e66367": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
+    },
+    "ce89fd3a-d7e5-3df0-d84b-dbf7d33dc6ce": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Block_Moving.scene.nasset/M_Wood-7.mesh.nasset"
+    },
+    "a57761e3-d480-8e4f-38c5-0a4de49addd9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_03.mesh.nasset"
+    },
+    "e39673c5-d6dc-fbe5-f01d-bffc7d9f16b1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_03.scene.nasset/M_Gold-33.mesh.nasset"
+    },
+    "71db6286-58a7-e677-1e00-faa17f71550d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_01.scene.nasset/M_Wood-30.mesh.nasset"
+    },
+    "b50e1c84-82c4-5664-801d-3423ecc44ac1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_09.scene.nasset/M_Gold-25.mesh.nasset"
+    },
+    "bb46de4f-07c7-4ed4-c7a1-99a17ec0b85d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_06.mesh.nasset"
+    },
+    "9465d930-7d3e-bbb9-1b9b-ac7ebaf05cfc": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset"
+    },
+    "8c26db99-7a0f-cd68-8354-cece5b0785b7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Coin_01.scene.nasset/SM_Section_C_Coin_01.scene.nasset"
+    },
+    "e1122b2f-7e95-b30a-addb-0e10342f8dfd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_14.mesh.nasset"
+    },
+    "c60ee4fe-3887-2d3b-1347-682fc350a1e2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_04.mesh.nasset"
+    },
+    "f120c436-ad3b-9014-5513-c067a0cc5b7b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_47.mesh.nasset"
+    },
+    "0e14244d-814e-6f1f-7584-e7acc7f94786": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_03.scene.nasset"
+    },
+    "7a939ec0-9803-2ea7-9dec-ab0d77c56449": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_06.scene.nasset/M_Gold-14.mesh.nasset"
+    },
+    "9f63e1c6-0739-d600-fc0a-acd82dedabe3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_10.scene.nasset/M_Wood-25.mesh.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "49949d30-3f20-e303-ea7c-1e8a5b148f91": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_02.mesh.nasset"
+    },
+    "7f24eef2-710a-a889-aada-5ed242470a92": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Trim_02.mesh.nasset"
+    },
+    "5ccd59eb-2f46-4055-5f86-725d7cedbee5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_07.scene.nasset/M_Wood-15.mesh.nasset"
+    },
+    "5ccd4c7b-44d2-f10b-a992-e0f516046372": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_07.scene.nasset/M_Wood-22.mesh.nasset"
+    },
+    "08cf480a-162d-97cd-2f9c-7c45f573777c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_11.mesh.nasset"
+    },
+    "d56dbda6-54b1-35ea-ecb2-ed9b36467b49": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Camera_Frustum.mesh.nasset"
+    },
+    "4f8e5b4e-9df9-1174-3e94-66d1e4a61651": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_03.scene.nasset/M_Wood-3.mesh.nasset"
+    },
+    "de3e4f51-2b81-5c71-5ecf-85398d15c7bb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Trim_03.mesh.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "4850b838-e22a-619d-2f2f-cf1f68f41b7b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_04.mesh.nasset"
+    },
+    "88e2f680-f265-5351-f24d-c7b0b551c50e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_07.mesh.nasset"
+    },
+    "fc322227-f1d1-f4e8-9ef0-622bc0f5d60d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_Red_01.scene.nasset/SM_Section_E_Block_Red_01.scene.nasset"
+    },
+    "8729296d-bdd6-7cec-3288-d7fe1c744295": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_14.scene.nasset/SM_Section_E_Coin_14.scene.nasset"
+    },
+    "ada09e5d-f85f-b2ca-8215-c5659911aae7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Start_Trim_03.mesh.nasset"
+    },
+    "a0102390-0c6e-d5ee-3c91-68944d4ffd74": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Trim_01.mesh.nasset"
+    },
+    "be2e25c7-3b04-9851-2a5c-5c5c4709155e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Dark_Grid_D.tex.nasset"
+    },
+    "16e1f9c3-967b-670f-76fe-843731895791": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_04.mesh.nasset"
     },
     "e444ca4a-d061-28bd-cdd0-2e8fc53f4270": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Platformer_2D_Thumb.tex.eduasset"
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Platformer_2D_Thumb.tex.nasset"
     },
-    "24902c9c-826a-9386-0e7e-c6c4e39fa704": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-15.statobj.eduasset"
+    "f5f707ec-31f7-9389-18ec-a1c7a52cf102": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_16.mesh.nasset"
     },
-    "c979179a-7689-1138-e8ce-3211a82e23b2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-13.statobj.eduasset"
+    "0703fb07-66e9-6bd9-6bfd-5a8ddedc4aa9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_03.scene.nasset/M_Gold-11.mesh.nasset"
     },
-    "a02ae9e4-8f0f-f538-932d-25efc6775d30": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_38.statobj.eduasset"
+    "80bace3b-80c5-8eb6-e179-311f4dca6efb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Inner_Trim.mesh.nasset"
     },
-    "b8010d2e-cf36-9815-5632-ed29c14078be": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_46.statobj.eduasset"
+    "f1d56cdf-7d27-870a-532b-5eb6dd3eb0c9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_02.mesh.nasset"
     },
-    "c31896ef-579c-3d20-bccb-d2e483958781": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.eduasset"
+    "b84309a3-623d-7ba4-738b-180368186b9a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Trim_02.mesh.nasset"
     },
-    "e69ce316-2fbb-01d5-7d27-973838aed9eb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-14.statobj.eduasset"
+    "8640a9ce-c116-5325-343c-56c7295a644d": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_02.scene.nasset"
     },
-    "efa5db29-81df-7b95-4bf7-391be0fc999e": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Metal.eduasset"
+    "0f2d054d-380b-ce3d-28c6-c27415329bbe": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Portal_Entry.mesh.nasset"
     },
-    "1d75179c-c005-823c-9f1e-6d0a2a686864": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-5.statobj.eduasset"
+    "87e9c56d-16d9-a96b-3d66-ce6eb031e58d": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_12.scene.nasset"
     },
-    "856cff7a-d3e3-05e6-107c-bd23360ccf62": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_16.statobj.eduasset"
+    "d93be521-fe06-a781-8e1a-25729f70cc72": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Trim_01.mesh.nasset"
     },
-    "0e941105-027b-78ff-1181-e16b3e53f8f2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-5.statobj.eduasset"
+    "9a13705c-2302-f688-9224-a7ad3fceb640": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_01.mesh.nasset"
     },
-    "c0db91ee-456f-480b-bdb3-16c6851b6c39": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Trim_03.statobj.eduasset"
+    "14ad91f0-2d95-b46c-3bfc-d320334d0a50": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_02.mesh.nasset"
     },
-    "b35a7a10-01b9-1836-5b2b-d72a7ff045e7": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Inner_Trim.statobj.eduasset"
+    "b907c3f6-659e-a47f-91d1-3fe1e30bd312": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_Red_01.scene.nasset/M_Gold-34.mesh.nasset"
     },
-    "5ab0987a-e1b2-5f50-3ed0-348946f174a2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Start_Inner_Trim.statobj.eduasset"
+    "3fe7bd08-198c-9554-2d5a-a225d2bf62cf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_08.scene.nasset/M_Gold-24.mesh.nasset"
     },
-    "db8851f2-8ab0-d29b-df34-1a20bd0fbf34": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-24.statobj.eduasset"
+    "a6261b92-4db7-3b11-0f2f-e169dd516f18": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_05.mesh.nasset"
     },
-    "59c2ed17-b413-096a-d557-7d8624a455eb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_White-3.statobj.eduasset"
+    "cc5bd0e5-d292-60a2-29d2-bba5e1bdbaf2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_14.scene.nasset/M_Gold-30.mesh.nasset"
     },
-    "afd2a98a-cf4d-b819-d576-7301e7fc9ed1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Platform_02.statobj.eduasset"
+    "8a305867-ab22-297e-59f9-84070d0aecd7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_23.mesh.nasset"
     },
-    "93a24726-1a9a-3794-3c10-d456b8e7d1bb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Spike_04.statobj.eduasset"
+    "b0cd90ce-c967-4005-8cc1-560c154543c1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_24.mesh.nasset"
     },
-    "26825986-8b4a-5cb6-4c0e-ec2b9046c9b1": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold.statobj.eduasset"
+    "50327716-b0bf-d1b9-606a-becdf59185e8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_25.mesh.nasset"
     },
-    "39c3aac1-82bb-a503-a7e8-efc5e7a1bd22": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Black.statobj.eduasset"
+    "89c5dd77-e834-1d75-ff96-eb5c66cc3f46": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid_Default.mtli.nasset"
     },
-    "299fbc10-e353-be10-5d9a-3bd9b331979c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Trim_02.statobj.eduasset"
+    "d9fcd420-9f57-6668-5b89-422949cffbcd": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Block_Moving.scene.nasset"
     },
-    "97549ffa-8a23-1c6f-419a-d9181a8c2f84": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_18.statobj.eduasset"
+    "384d560a-aded-fd44-69a4-0eb2377d07ff": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_01.mesh.nasset"
     },
-    "2c1249b0-f76d-b39b-574a-7da2daa2e824": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Input_Mapping_Txt.statobj.eduasset"
+    "4d241150-f8cb-8a47-4b24-d5133ce4fdb8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_03.mesh.nasset"
     },
-    "e0a69920-ba5d-7a9e-b50d-d0829b2aed42": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-2.statobj.eduasset"
+    "12f3dccf-8484-c19d-4cef-6abab30c0a19": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Environment_Probe.scene.nasset/SM_Environment_Probe.scene.nasset"
     },
-    "a8dd1a7b-c646-f2ea-82f9-87c629551e02": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-19.statobj.eduasset"
+    "b772becd-4171-6402-4b51-5534c3cf35bc": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Player_Start.mesh.nasset"
     },
-    "36c08db6-5b52-45cb-15b4-a597ffde425e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_02.statobj.eduasset"
+    "20dbdad8-1500-8c50-992b-245439186a0f": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_Red_01.scene.nasset"
     },
-    "628dba38-12e7-d269-8c8e-82f4b672bb06": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Trim_03.statobj.eduasset"
+    "9ce9c268-d3f8-f358-d40a-2450e2e7f45e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_28.mesh.nasset"
     },
-    "6717196e-a264-9427-b3d8-8e39cc736c6d": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Platform_05.statobj.eduasset"
+    "e72d9de9-b827-5544-f5dc-f038fe2996b8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_05.mesh.nasset"
     },
-    "6b52d411-8ed0-6d12-90b5-ee9b0dc83c8f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_C_Trim_02.statobj.eduasset"
+    "5de91f46-dbc6-540c-d08f-2e5cd712df23": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_04.scene.nasset/M_Wood-19.mesh.nasset"
     },
-    "e12abfec-1146-7dab-0fdc-4d64e99e79a4": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-4.statobj.eduasset"
+    "994a097e-f3dc-8793-1e7b-bab8811284f2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Inner_Trim.mesh.nasset"
     },
-    "9860c2a8-b331-dacb-d2dd-2c3d322b5f8e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-20.statobj.eduasset"
+    "e80e585d-3d12-a259-b0c5-839c4f8d4094": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Portal_Exit.scene.nasset/M_Metal.mesh.nasset"
     },
-    "e199f986-9cd9-6d20-e287-55b986bfad56": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_01.statobj.eduasset"
+    "16068320-6f90-d9bb-244a-3a0fea3e0fb9": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_01.scene.nasset"
     },
-    "3163dd04-ffc2-efd9-b15a-4220ab6215cb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-31.statobj.eduasset"
+    "33eac2cd-8016-62f3-44a4-48a4569fd779": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_02.mesh.nasset"
     },
-    "09d6341a-13da-6340-305e-9c2376bf343c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_47.statobj.eduasset"
+    "e38e772f-5e71-9942-a84b-584d2583d3e1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Trim_04.mesh.nasset"
     },
-    "2b5c811d-aa4d-9b2d-be82-4cfcf143397f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_29.statobj.eduasset"
+    "3dd9ea2b-0220-0cdd-d63c-2fd922390afc": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Coin_01.scene.nasset"
     },
-    "0471fff5-1bb5-b32f-e749-701e79be3fbb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-25.statobj.eduasset"
+    "8ef03a43-481e-e1d5-77fc-a0ee284872b9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_11.mesh.nasset"
     },
-    "8ce9ab40-1493-31b2-7e1e-0ea5470f8488": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_White.statobj.eduasset"
+    "90ce4267-b037-be23-9d98-40e2dfe0c4fd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_11.scene.nasset/M_Gold-27.mesh.nasset"
     },
-    "a6841184-7867-fb08-00dd-46f057042697": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_21.statobj.eduasset"
+    "d4121d44-05c7-c101-da2c-093206631d20": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Coin_01.scene.nasset/M_Gold-6.mesh.nasset"
     },
-    "56dbfc06-b605-1a2e-6a11-d899488bc0b3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_51.statobj.eduasset"
+    "2c542757-2cbe-23e9-26a1-67f29a6c2a56": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_44.mesh.nasset"
     },
-    "3af6f1bc-3721-7800-637d-5951f84af2e3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-16.statobj.eduasset"
+    "e042898f-1dc3-ed61-6cba-8084447abfc3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Coin_01.scene.nasset/M_Wood-6.mesh.nasset"
     },
-    "eed3a5cc-f49d-246a-a5bf-3243cf1c7f7f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-33.statobj.eduasset"
+    "51ceb0da-7e2f-f0e5-8ae4-ff04612bff4c": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_03.scene.nasset"
     },
-    "14f59a8f-6d62-46ef-0440-97b7dd160b95": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-17.statobj.eduasset"
+    "e6780e98-94a7-5ec8-d99b-f9af16472bfb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_02.mesh.nasset"
     },
-    "250d3767-fd9a-f2b3-8542-7eb64d098ad3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Trim_02.statobj.eduasset"
+    "f3432873-27ff-0c5e-32f4-6b00d4c52d58": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_03.scene.nasset"
     },
-    "6eb8d2a8-9de5-2767-f5dc-80c96c08a4e4": {
-        "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.eduasset"
+    "7eb6fc73-54f0-1d83-e032-77caf83f15ff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Coin_01.scene.nasset/SM_Section_B_Coin_01.scene.nasset"
     },
-    "5fa2e6dd-37dc-48ef-db3a-46682137be9f": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_D_Spike_07.statobj.eduasset"
+    "4c5e9d5b-4ea6-3724-81ff-907ad9dfef63": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Block_Moving.scene.nasset/SM_Section_C_Block_Moving.scene.nasset"
     },
-    "1fa69cc7-9a0e-68f8-9886-2d14499552cb": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-31.statobj.eduasset"
+    "68dead48-1d17-ca53-954b-24f8d2569d19": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Block_Moving.scene.nasset/M_Gold-7.mesh.nasset"
     },
-    "61e7210f-8c94-3c4b-16f1-50e08cb0c617": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Spike_03.statobj.eduasset"
+    "1d8d41df-fd70-1c6a-f769-0083c16f4300": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_08.mesh.nasset"
     },
-    "37de7993-7e77-360a-53d1-2acc3d1f8300": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_B_Platform_03.statobj.eduasset"
+    "cae751ea-ae45-58c8-7996-90befaad3a79": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_12.scene.nasset/M_Gold-28.mesh.nasset"
     },
-    "53df5885-9849-06c3-43b9-32d0ece98db3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-28.statobj.eduasset"
+    "4a900e74-689e-3a46-a257-760c1e820fb3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_41.mesh.nasset"
     },
-    "12ebd706-9b92-1b83-190a-f4165f5082ec": {
-        "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Default_D.tex.eduasset"
+    "c50ce761-d4a5-4067-5fd6-cd5f27c7f004": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_01.scene.nasset/M_Gold-9.mesh.nasset"
     },
-    "aafe04b3-1496-d2b9-99ef-788c2a3cd52c": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-34.statobj.eduasset"
+    "aa769686-44d8-e44f-7ef6-5da87bf24b5e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_06.mesh.nasset"
     },
-    "03d74404-f2ca-bf63-7242-e40d742cb168": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_42.statobj.eduasset"
+    "e92902df-3ac5-a317-ca07-569f3718866c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_01.scene.nasset/M_Wood-17.mesh.nasset"
     },
-    "636beb55-67f7-a3ed-9bec-4c20a94d2ecd": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/REPLACE.statobj.eduasset"
+    "853064bb-37b0-a621-7933-a4e2d608eacd": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_02.scene.nasset"
     },
-    "d21e654a-b47a-9eb4-005d-d0b0a16cf947": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-11.statobj.eduasset"
+    "57bbe25f-e5b4-7d0b-27ef-eb58336aabc1": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_10.scene.nasset"
     },
-    "b3cfe1ee-648b-b062-b9c3-43ae4a5d1d4e": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-22.statobj.eduasset"
+    "cda42b00-b9e2-8b78-82ac-491876b246d7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_10.mesh.nasset"
     },
-    "94823367-c8c3-94ed-5d86-b66039cea091": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_E_Spike_50.statobj.eduasset"
+    "853e6768-19b7-93c3-aa9b-1be62f07394f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset/M_Gold-35.mesh.nasset"
     },
-    "17a9ae41-36c0-5567-4e9d-73739ed879e2": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Section_A_Platform_06.statobj.eduasset"
+    "a71cda0b-54b2-7755-0b74-43397c29a340": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Inner_Trim.mesh.nasset"
     },
-    "ea55f2d2-0f8d-0d17-1c84-19407810a622": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Wood-33.statobj.eduasset"
+    "0be36751-b69a-c48c-1ef5-db69899fea0e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Trim_02.mesh.nasset"
     },
-    "66e85947-e491-fadc-58cb-6a2c6efdbbda": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/SM_Camera_Frustum.statobj.eduasset"
+    "5568e671-e87c-35c1-01c2-12478b548d0b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Portal_Exit.scene.nasset/M_Door_Glow.mesh.nasset"
     },
-    "534fb1cd-3b25-933a-e9ed-6d9eb2b82eb3": {
-        "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Platformer_2D.statobj.eduasset/M_Gold-7.statobj.eduasset"
+    "e7c28707-d2e7-120a-9b60-01b2f6d3ea38": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Platformer_2D_Txt.mesh.nasset"
+    },
+    "d2fc9875-abd7-a89c-aed5-f46cb7b3df79": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_51.mesh.nasset"
+    },
+    "ae13ed04-3f1f-71ea-4538-95636f53e4e7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset/M_White-7.mesh.nasset"
+    },
+    "6f5a9d39-b276-b970-8dbb-23c859a749b8": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_04.scene.nasset"
+    },
+    "b2f4a8c6-8be1-624b-b961-0098d92ebc9f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_40.mesh.nasset"
+    },
+    "3fefe01a-c100-ccfb-47ef-b88e3a27d05d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Input_Mapping_Border.mesh.nasset"
+    },
+    "55959649-0a51-89f6-e077-2e5c488b0137": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_43.mesh.nasset"
+    },
+    "4e0c1c1a-2271-18e0-59e0-001ad749e4ba": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "ae19915c-6b6e-ecc8-ddbe-726731039cd2": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_14.scene.nasset"
+    },
+    "8966b682-0824-987b-b3c5-a90c8e9d1c3b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_03.mesh.nasset"
+    },
+    "a03b0c3f-13e8-44d8-2132-069cb7396617": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_03.mesh.nasset"
+    },
+    "e6102d5a-513d-a5d5-4fd6-8626ee3ebad9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_04.scene.nasset/M_Gold-4.mesh.nasset"
+    },
+    "f40db0f5-bdd9-60c2-d470-5ec652fbcc92": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_01.scene.nasset"
+    },
+    "b50f7b1d-5eac-d570-fdf7-d32390578114": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Trim_04.mesh.nasset"
+    },
+    "4c9b4dc2-04eb-213d-bdc8-2d7f0bf22b6d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Environment_Probe.scene.nasset/M_White.mesh.nasset"
+    },
+    "37216c35-eb30-f8b9-ad5d-05a6ba39b3cd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_10.mesh.nasset"
+    },
+    "b8e44768-2377-7384-130d-fd358ab9b727": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Camera_Body.mesh.nasset"
+    },
+    "f03c79b6-0526-e509-91be-b98a29391c77": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_12.scene.nasset/SM_Section_E_Coin_12.scene.nasset"
+    },
+    "2299693b-585a-5896-235b-0940f24cb27e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_22.mesh.nasset"
+    },
+    "4b0cf233-4464-9cd7-bb3f-c34e91a92d35": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_04.scene.nasset/M_Wood-4.mesh.nasset"
+    },
+    "9e25b39e-6648-671b-becd-7ceca43bd65c": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Coin_01.scene.nasset"
+    },
+    "a8474ba9-b97a-18c8-27c0-aa05add4354e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_03.scene.nasset/M_Wood-3.mesh.nasset"
+    },
+    "e406cc3b-b88c-f71e-a64b-85e27d9f9799": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_03.scene.nasset/SM_Section_A_Coin_03.scene.nasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "38bf64c7-43bd-ae53-ef7d-59c5cdd41c3b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_03.scene.nasset/SM_Section_E_Block_03.scene.nasset"
+    },
+    "11f807eb-f534-3784-e7bc-a07970726e78": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_04.mesh.nasset"
+    },
+    "3b5e935d-21a2-98ba-6230-84ef56ad43d0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_32.mesh.nasset"
+    },
+    "dce649af-3380-9e28-26ee-89e9e09801a9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Inner_Trim.mesh.nasset"
+    },
+    "c24603df-a005-250b-1616-df41fb32e5c4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_50.mesh.nasset"
+    },
+    "ac1197e7-1b44-8a2a-3c9e-848fac04853e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_03.scene.nasset/M_White-6.mesh.nasset"
+    },
+    "da2659da-a24e-c4ee-b6fd-e1ef958ac076": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_42.mesh.nasset"
+    },
+    "4b3cea88-8501-0e81-ebc9-87175a2645bd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_02.scene.nasset/SM_Section_E_Block_02.scene.nasset"
+    },
+    "97058a3a-3bae-8861-84e4-12e81b058e6e": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_02.scene.nasset"
+    },
+    "ed0d1d03-17e4-278a-e53d-3f7f0e0437f8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_04.scene.nasset/M_Gold-20.mesh.nasset"
+    },
+    "dc54a032-d1a6-1f15-172d-e0c50dc97ee6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_35.mesh.nasset"
+    },
+    "e300a251-dc79-d695-d4c4-aa08e3ab5401": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_01.mesh.nasset"
+    },
+    "8098f5ee-8f86-989a-5700-a6600894f96c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_27.mesh.nasset"
+    },
+    "24a6b5d0-da8f-a48b-087c-0aa2c7dbbac5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_02.scene.nasset/M_Gold-2.mesh.nasset"
+    },
+    "80e41f52-ad01-5201-4b52-319239cf0e41": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Trim_02.mesh.nasset"
+    },
+    "8374ce57-893b-fd77-c323-bc6684078ba8": {
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/Platformer_2D.scene.nasset"
+    },
+    "25e57e7d-0af4-1615-c34d-8dfa385790c1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_05.scene.nasset/M_Wood-13.mesh.nasset"
+    },
+    "a24ea664-59c0-3b24-9130-9689d895dee2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_09.scene.nasset/M_Wood-24.mesh.nasset"
+    },
+    "1c941d88-5847-c7e2-db13-9fafc3973487": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_11.scene.nasset/SM_Section_E_Coin_11.scene.nasset"
+    },
+    "eabd5c5e-6d9f-1351-ef1e-29a375ab3b82": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_12.scene.nasset/M_Wood-27.mesh.nasset"
+    },
+    "99e5226c-b03c-43af-e7d5-789430a1021a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_46.mesh.nasset"
+    },
+    "3b5a2124-fcc6-910d-4328-8eaf3f9651bc": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Platform_03.mesh.nasset"
+    },
+    "ad5b8923-8fb9-e478-8530-3b3f80457f6d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Platform_01.mesh.nasset"
+    },
+    "5bc39a6c-31fc-a71c-75e6-f4e7e9c50b73": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_52.mesh.nasset"
+    },
+    "c15826e6-419d-c872-a77b-73daa2773166": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Trim_03.mesh.nasset"
+    },
+    "03205bab-cbf6-1e55-349d-b206d2a595ca": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Trim_02.mesh.nasset"
+    },
+    "dcdcf5c6-6d51-3706-31a5-26031b912bfa": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Inner_Trim.mesh.nasset"
+    },
+    "6a550f9a-6a14-4c8f-c29f-7b34fe7f7a4f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_06.mesh.nasset"
+    },
+    "09b26067-6679-56a6-eb1f-29069a063746": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_07.mesh.nasset"
+    },
+    "b80752a9-9317-8156-906e-2d02821d868f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_01.scene.nasset/SM_Section_E_Block_01.scene.nasset"
+    },
+    "25b66651-b78e-0bf2-57d0-60238b6e9110": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_08.scene.nasset/M_Wood-16.mesh.nasset"
+    },
+    "39b71f56-4e9d-4e61-253b-436cc9ff7d76": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_10.scene.nasset/SM_Section_E_Coin_10.scene.nasset"
+    },
+    "1e2ff6c5-9e3f-4962-ae83-0206acdf8586": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_21.mesh.nasset"
+    },
+    "34a43ef3-8ac1-b45f-12c9-d9f5d1acec09": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_07.scene.nasset"
+    },
+    "2d4b019a-ebc6-bb56-f33f-d323f2fc596e": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Portal_Exit.scene.nasset"
+    },
+    "525c3fe2-1009-111d-97d1-0457d8c299c1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Trim_03.mesh.nasset"
+    },
+    "13fcb732-79c8-9005-e438-09680f53a346": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_02.scene.nasset/M_Wood-10.mesh.nasset"
+    },
+    "ac6a2458-d2f9-64d6-c7ec-c0ff2c0f9d59": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset"
+    },
+    "67cd9410-5693-c149-75d0-4b812a40137b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_01.scene.nasset/M_Gold-17.mesh.nasset"
+    },
+    "40b3b097-67b5-0bdb-d96c-27b0773487c4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_01.scene.nasset/SM_Section_E_Coin_01.scene.nasset"
+    },
+    "d8e4af88-d97b-55fd-3754-2a5a8b7289c4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_37.mesh.nasset"
+    },
+    "cf42b4a5-f44e-4004-3a9b-14dde976fa22": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Start_Inner_Trim.mesh.nasset"
+    },
+    "0321faad-7b62-f12b-16b6-6b0fb3e1d2c6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_06.scene.nasset/SM_Section_E_Coin_06.scene.nasset"
+    },
+    "d4716744-103e-5b88-6202-039c249ee353": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_05.mesh.nasset"
+    },
+    "317850c6-9b67-560d-82dc-e2a0914dace4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_19.mesh.nasset"
+    },
+    "06612ffb-bbd7-8986-c16c-ecaffeb6b5f1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Trim_04.mesh.nasset"
+    },
+    "ed58bfe2-4da2-22da-6bad-176f7f3b405d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_03.scene.nasset/M_Wood-11.mesh.nasset"
+    },
+    "6c5bd89c-d792-795a-3a7d-59c305db85db": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_11.scene.nasset"
+    },
+    "1b36e954-7462-01ed-10db-392674165c9b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_05.scene.nasset/M_Gold-13.mesh.nasset"
+    },
+    "88160bec-8bb6-35da-a8b3-96fa34e545c1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_17.mesh.nasset"
+    },
+    "612edc10-8205-be35-4ac6-718c53d5dca6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_01.scene.nasset/M_Gold.mesh.nasset"
+    },
+    "0a4262b9-c25a-1aaa-7ca3-1a08ae891943": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset/M_White-3.mesh.nasset"
+    },
+    "4467deae-4f5f-599d-434c-477ac07da4f2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_49.mesh.nasset"
+    },
+    "47e25a10-a1cd-65e2-e9c9-e4acae20e7ac": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_02.mesh.nasset"
+    },
+    "775da236-c5d5-2845-ec62-de9335722f36": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_01.scene.nasset/SM_Section_A_Coin_01.scene.nasset"
+    },
+    "69347e7a-4349-dbeb-eb68-185e17f9062c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_02.scene.nasset/M_Wood-18.mesh.nasset"
+    },
+    "9b7debf4-db9a-2b61-b512-37652cd532d3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Start_Trim_02.mesh.nasset"
+    },
+    "e46cf221-7b0d-6ac3-31a6-5e17aac4d0ad": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_03.scene.nasset/M_Gold-19.mesh.nasset"
+    },
+    "68a0ba49-c54c-8fa3-ada9-dcd96bdbec35": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_02.scene.nasset/M_Gold-18.mesh.nasset"
+    },
+    "d5d4cdff-b294-6fb9-1f49-ad8c372fc069": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_04.scene.nasset/SM_Section_D_Coin_04.scene.nasset"
+    },
+    "4dfcb2aa-6d04-950e-0dd9-0b6322ccd19b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_11.scene.nasset/M_Wood-26.mesh.nasset"
+    },
+    "60e9f7e4-d358-f3b3-ad61-05bf8591d902": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_07.scene.nasset/M_Gold-23.mesh.nasset"
+    },
+    "c8924d99-6ce9-4681-4980-233832bbf80c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_48.mesh.nasset"
+    },
+    "5b3e6566-f211-98fd-b864-aa95ea7b93c3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset/M_Gold-8.mesh.nasset"
+    },
+    "70e62fff-8cd6-8022-02b0-133eabb82428": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_45.mesh.nasset"
+    },
+    "9226700b-f675-16d7-8cbb-44c144b920ea": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_01.mesh.nasset"
+    },
+    "c4708c73-8649-e8cf-876b-0c657fdf8dce": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_10.scene.nasset/M_Gold-26.mesh.nasset"
+    },
+    "3e44a907-437f-8313-74a5-abb3905df5d4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Trim_01.mesh.nasset"
+    },
+    "46af9511-0876-1225-049e-18aebaaf0de6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_06.mesh.nasset"
+    },
+    "dfc39c68-4fac-97de-739b-190d0e7e66fb": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_09.scene.nasset"
+    },
+    "4f209b7a-7fdf-0200-aca9-fff36dbaf434": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Trim_03.mesh.nasset"
+    },
+    "caf7736f-815e-42e1-9e62-602d2d70e016": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Template_Platformer_2D.nproject",
+        "thumbnail": "e444ca4a-d061-28bd-cdd0-2e8fc53f4270"
+    },
+    "f3d88207-c138-b170-f0f0-73d8d07e0892": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_04.scene.nasset/M_Gold-12.mesh.nasset"
+    },
+    "bba6530e-3e9e-1316-7615-ce78c9ebb6f1": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_07.scene.nasset"
+    },
+    "06911209-f926-bbe7-2a64-2297b30862f9": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_05.scene.nasset"
+    },
+    "bdd65324-f977-b9e7-c36d-a3703efcd869": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_13.scene.nasset/SM_Section_E_Coin_13.scene.nasset"
+    },
+    "706df023-f1a5-0375-da01-b671773f3e15": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_06.scene.nasset/SM_Section_D_Coin_06.scene.nasset"
+    },
+    "b522b613-24bf-ca9a-02dd-e7cee4d31b75": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_02.scene.nasset"
+    },
+    "515c555b-2c78-5bb4-48e8-d903161d6d0e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Block_Moving.scene.nasset/M_White-2.mesh.nasset"
+    },
+    "cf1e3e98-1e8a-93c6-11ca-c675544940a7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_Red_01.scene.nasset/M_Heart.mesh.nasset"
+    },
+    "5f87f233-c3ca-4c6b-5115-fb5ab60838ff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_04.scene.nasset/SM_Section_E_Coin_04.scene.nasset"
+    },
+    "3b791293-001e-623a-957e-709aafd3a257": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_05.scene.nasset/M_Wood-20.mesh.nasset"
+    },
+    "92c59157-22be-e79f-27dd-70eea229e485": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Wood.mtli.nasset"
+    },
+    "3a0957da-fa81-261d-3967-8a32ece3dbe5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_04.scene.nasset/M_Wood-12.mesh.nasset"
+    },
+    "e08c7513-311b-5b07-dc90-c32ee8c29d72": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_08.scene.nasset"
+    },
+    "351967cf-983c-2c38-28de-6a1389ec1865": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Accent_D.tex.nasset"
+    },
+    "6c024a51-bcf4-4c41-1a08-1bd242628667": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_05.mesh.nasset"
+    },
+    "93ef6150-979f-bd7e-c61c-199f7ca422a1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_06.mesh.nasset"
+    },
+    "1978fb49-0cc6-d7ff-5a15-5b39041385e3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset/M_Wood-8.mesh.nasset"
+    },
+    "e11c6d43-4e61-06c7-6812-937ad9f646af": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset"
+    },
+    "2cc86ede-2e81-65b5-b8bf-23cb6362bd77": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_07.scene.nasset/M_Gold-15.mesh.nasset"
+    },
+    "5e4aaf3d-5db1-a91f-60b4-02a74c2ecb89": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_05.scene.nasset"
+    },
+    "664d099c-e3c7-95ca-e961-d7bfa80f781d": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_13.scene.nasset"
+    },
+    "8be3ed7e-3bf1-aba6-aef7-7e0c2e21fa42": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_13.scene.nasset/M_Gold-29.mesh.nasset"
+    },
+    "79389e15-e68a-42ea-9232-c0328fa43197": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/SC_Template_Platformer_2D.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "b24d41ec-d0f0-aad0-b930-4924b0ea6f1c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Dark_Accent.mtli.nasset"
+    },
+    "952a358b-36e3-8360-af3b-7e0cb8e559f5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_04.mesh.nasset"
+    },
+    "ea980138-9b47-3283-2f88-18c8376808ea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Door_Glow.mtli.nasset"
+    },
+    "f751082d-413f-5c2b-0eaf-b1e79b92eec0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_06.scene.nasset/M_Gold-22.mesh.nasset"
+    },
+    "db1eae25-8885-260d-080c-217e6ed06bfa": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_15.mesh.nasset"
+    },
+    "fc1b984e-5403-478a-d29b-f9cc500e9b62": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Dark_Accent_D.tex.nasset"
+    },
+    "eb98d912-76cd-9416-fa87-f39607d3c517": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Coin_01.scene.nasset/M_Gold-5.mesh.nasset"
+    },
+    "40880f34-f38c-ad19-47a5-a3ebb0256ea9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Spike_03.mesh.nasset"
+    },
+    "0716e2cf-28c8-cf73-0fcb-f7206f68f860": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_02.scene.nasset/M_Wood-31.mesh.nasset"
+    },
+    "0ab860e7-1536-6723-73c4-539754d5c6b3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_12.mesh.nasset"
+    },
+    "d1395dd9-9d42-2f84-e1e1-16d59f4c9686": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_34.mesh.nasset"
+    },
+    "808a24fe-dbb1-3715-dc60-58e9b7c84af8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_LG_01.scene.nasset/M_Wood-33.mesh.nasset"
+    },
+    "4524105e-870a-0d6e-e05c-c764bcf3cbee": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_06.scene.nasset/M_Wood-14.mesh.nasset"
+    },
+    "aa45532e-bd0a-db25-8b54-7cfd9d311076": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Platform_02.mesh.nasset"
+    },
+    "e32ea5b2-9b8c-0367-22c8-1577bb834901": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_08.scene.nasset"
+    },
+    "484c535a-e1fe-c60f-aa74-f97dc7db7529": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_07.scene.nasset/SM_Section_E_Coin_07.scene.nasset"
+    },
+    "ff5ca73b-0f09-5341-bf8a-83bc131eb868": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Environment_Probe.scene.nasset"
+    },
+    "47a2d012-f1be-306c-31e2-4e38c9e9303e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_30.mesh.nasset"
+    },
+    "46a31338-2c75-89a7-d1a3-b181d928b6c4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Directional_Light.mesh.nasset"
+    },
+    "f4608c92-871e-c102-6138-cf504b9cd455": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset/SM_Section_D_Block_Moving_LG.scene.nasset"
+    },
+    "bfd304cd-4c7c-c271-1411-870e78656d4c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_02.scene.nasset/M_White-5.mesh.nasset"
+    },
+    "08f28c0c-8368-5a4e-76f2-ed35fb61195d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_03.scene.nasset/M_Gold-3.mesh.nasset"
+    },
+    "7cd4c062-0b7f-0752-c6a1-075d7b29e16e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_04.scene.nasset/SM_Section_A_Coin_04.scene.nasset"
+    },
+    "4fe1742e-2803-3528-db11-c80fc68a9fb8": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_06.scene.nasset"
+    },
+    "a6b9bdcd-6bf8-123d-7916-4ad0fc68d7de": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Coin_02.scene.nasset/SM_Section_A_Coin_02.scene.nasset"
+    },
+    "395a06de-07a3-5fb9-53f7-2d4b136ee80a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_20.mesh.nasset"
+    },
+    "0c1de59c-eec5-84f8-a0e3-ae72deb3edbd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_38.mesh.nasset"
+    },
+    "4ee749f6-f9fc-fb79-250f-ee35d7327370": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_01.mesh.nasset"
+    },
+    "e0ccfea7-9bae-b079-b523-a124cb002f59": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_07.scene.nasset/SM_Section_D_Coin_07.scene.nasset"
+    },
+    "310c72a3-a8e8-a8d1-40d9-8cf330e82075": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Portal_Exit.scene.nasset/SM_Portal_Exit.scene.nasset"
+    },
+    "806b975d-ccd4-bedc-e804-9aa64b1f25e2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_02.scene.nasset/SM_Section_E_Coin_02.scene.nasset"
+    },
+    "3bba90db-86a3-98df-9e08-5406ae383675": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_02.scene.nasset/SM_Section_D_Coin_02.scene.nasset"
+    },
+    "931f3b55-0b41-52d6-3d10-ef4cad816837": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Trim_01.mesh.nasset"
+    },
+    "4cefccdc-c445-ecd3-af92-85f027329f73": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_03.scene.nasset/SM_Section_E_Coin_03.scene.nasset"
+    },
+    "863c6c1c-09ee-5f77-0de9-2fb799e0349b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_18.mesh.nasset"
+    },
+    "bf460b3b-eeab-168d-4ab1-12ea2459d344": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Dark_Grid.mtli.nasset"
+    },
+    "f0c6881f-402c-c375-01fa-77364db5be09": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_39.mesh.nasset"
+    },
+    "24736069-6a89-d30d-388e-3068660bfe4c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_01.scene.nasset/M_White-4.mesh.nasset"
+    },
+    "51d6daf5-7369-7eab-0645-7cfd43370f25": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Environment_Probe.scene.nasset/M_Black.mesh.nasset"
+    },
+    "b0cb6dc0-4072-be73-1abe-1d1450b032e3": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_03.scene.nasset"
+    },
+    "940eda5d-25e0-a5c2-e637-bf07a4c8ddce": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Gold.mtli.nasset"
+    },
+    "9bee0d3b-eea7-7ca8-949d-5f2c981ca72e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Trim_04.mesh.nasset"
+    },
+    "722bf78a-3c22-3747-64ca-9d891ae45cbf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_C_Spike_06.mesh.nasset"
+    },
+    "e52c76e2-7610-d50e-75d5-0e065ab6a056": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_07.mesh.nasset"
+    },
+    "a64eb9d8-b58f-4b9e-ec4d-e9b8125a4e61": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Start_Trim_04.mesh.nasset"
+    },
+    "02753418-513f-3d92-5786-6fe0e375d9d2": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_01.scene.nasset"
+    },
+    "2339d434-5da1-1f67-e466-891305cbfa42": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_07.mesh.nasset"
+    },
+    "3f18ca93-9fc7-455d-6638-e6dd52a35f62": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_26.mesh.nasset"
+    },
+    "e5fbdb56-3948-0aac-0515-9d10588b84e3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_31.mesh.nasset"
+    },
+    "e68bbd4d-1f1a-3f7e-8604-f6929e0a53ad": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_08.scene.nasset/M_Wood-23.mesh.nasset"
+    },
+    "1fdb88b1-9d2b-43f2-e42d-db601e4eeba5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_B_Coin_01.scene.nasset/M_Wood-5.mesh.nasset"
+    },
+    "985ba2c2-7e8a-d5c2-6d60-051092e66783": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Platform_04.mesh.nasset"
+    },
+    "806677fa-2c0e-1f8d-8f74-286dc96429f7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_A_Trim_01.mesh.nasset"
+    },
+    "25e760b1-8e25-4960-91ef-2d18d1dea8fa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_08.scene.nasset/SM_Section_D_Coin_08.scene.nasset"
+    },
+    "0a7ea49e-52ad-cba7-f955-2a8d1f84c7ce": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Trim_03.mesh.nasset"
+    },
+    "ad0c56d1-e04e-729e-116a-9939e1af7499": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_02.scene.nasset/M_Gold-32.mesh.nasset"
+    },
+    "914ad8b2-e9eb-bf5a-49e4-cbb1f02b846d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Block_03.scene.nasset/M_Wood-32.mesh.nasset"
+    },
+    "a3554bc8-531b-861f-3148-60213dfa58c3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_01.scene.nasset/M_Wood-9.mesh.nasset"
+    },
+    "a428e4ba-4451-eae2-a1dc-fa9b6e61d11d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_05.scene.nasset/SM_Section_E_Coin_05.scene.nasset"
+    },
+    "6a6cc0b4-2349-02e8-5751-a5f81d2ff137": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_08.scene.nasset/M_Gold-16.mesh.nasset"
+    },
+    "65e524c1-1e50-bc56-1906-64a177deda8c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Platform_05.mesh.nasset"
+    },
+    "c6c1d049-f84f-6d7c-cf53-c342a15fa6b5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_03.mesh.nasset"
+    },
+    "dc498168-6f6c-ded7-c11b-5c8e4ac542cb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_33.mesh.nasset"
+    },
+    "da3b4ad4-c861-c8b3-b35f-dfbb25bea4ab": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_04.scene.nasset"
+    },
+    "412e0293-19dc-13eb-2522-26a70a053b63": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_06.scene.nasset/M_Wood-21.mesh.nasset"
+    },
+    "e17a029d-ac59-2f76-85f5-36162daea984": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_36.mesh.nasset"
+    },
+    "9ad6cc56-05fa-0b95-3546-269c5e787a8f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Start_Trim_01.mesh.nasset"
+    },
+    "00a5578c-dbe5-606d-35ab-c416006039e9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Spike_05.mesh.nasset"
+    },
+    "70069120-2fdb-bba0-776f-aa0d2382ce76": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_09.mesh.nasset"
+    },
+    "096a8ee3-1c5d-048a-181a-a6a89bd8c72e": {
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_D_Coin_06.scene.nasset"
+    },
+    "80cbb853-8151-768e-d0d2-8cae9a0a6d4d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Coin_09.scene.nasset/SM_Section_E_Coin_09.scene.nasset"
+    },
+    "9d823073-791f-549f-2828-b000929072a2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid_Accent.mtli.nasset"
+    },
+    "23d88b1b-d6f2-d31e-f68f-ab03900cd0ab": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Platformer_2D.scene.nasset/SM_Section_E_Spike_29.mesh.nasset"
     }
 }

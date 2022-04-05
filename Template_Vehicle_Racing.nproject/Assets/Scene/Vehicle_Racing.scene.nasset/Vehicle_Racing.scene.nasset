@@ -1,0 +1,2506 @@
+{
+    "guid": "1ad89692-732f-f3c6-93dd-0c219dfcb22a",
+    "source": "../Vehicle_Racing.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4f94ce5c-5148-1170-8b88-1a1736552052",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle_Racing"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "instanceGuid": "2cf276f7-2ff5-a9c5-793a-ae1f9ac6c202",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "GRP_Section_Start"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "75b210a9-50ca-8cfb-0e28-5e760d2a75b6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Vehicle_Template_Txt"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "f25b067f-36d6-c3e7-29fd-a0051184f99b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "2eaabc7d-a59d-0fa9-1464-4e7278fc87c3",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "1dc935d3-77fc-f879-583b-ba4519566253",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "693d1b5e-aaea-7215-713c-f3472c3ef3c1",
+                                                "material_instance": "5eb8cd86-d395-76e1-e1cf-6d437ae08c63"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "693d1b5e-aaea-7215-713c-f3472c3ef3c1"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "ab229ddb-19e8-c361-bb35-706c90a8bc5c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Input_Mapping_Border"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "dc988511-33b3-47a2-9afa-96d3ab455b1e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "b340ab64-6357-cdd4-2c29-fa84e234efca",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "94f64ea1-7f8a-84d9-7ff1-17fe4c7f9323",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "6764092f-f955-9955-906c-9d6861c21493",
+                                                "material_instance": "5eb8cd86-d395-76e1-e1cf-6d437ae08c63"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "6764092f-f955-9955-906c-9d6861c21493"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "4bf8b704-2a12-bd43-ef01-8e5649659851",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Input_Mapping_Txt"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "aa567f71-3c24-289e-8a16-9076e7fdd3d1",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "cc153d5d-7c73-8ca4-5dd8-dcdd55d3361b",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "c5bec613-1883-de0f-2f3c-3d1c9dc8121d",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "bcef9b51-c3f3-0f85-c02e-fb12fde09fce",
+                                                        "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "bcef9b51-c3f3-0f85-c02e-fb12fde09fce"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "54ed84b6-486d-1366-a5b4-59191a22a864",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Input_Forward_Txt"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "91571ee7-e5c2-8879-5a48-23bb71185006",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "5d24faa3-feee-9fbf-5df0-10998563786a",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "892905d5-ddcb-e43c-1ca3-dc2a3f299a1e",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "7064e7d3-bace-4381-0387-3197f2b68b1c",
+                                                        "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "7064e7d3-bace-4381-0387-3197f2b68b1c"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "5d1f16eb-100f-1597-1a88-62fcae3a9cf2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Input_Left_Txt"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "fac74def-0b09-8613-83d8-3f427d3b204f",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "0ee1ce38-ad0f-cb17-41ba-f3d89897cbcc",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "4140eb69-5aff-1d8b-a054-e68ff9c7a78b",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "f8d7c98c-1f7b-fb33-e231-8f7fc7b1326c",
+                                                        "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "f8d7c98c-1f7b-fb33-e231-8f7fc7b1326c"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "instanceGuid": "7667ab92-2c10-b648-28c6-4e49f9f99eae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "GRP_Components"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "c3bb8e7d-7361-f72d-aed7-805cb7691204",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Kart_Body"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "9548951b-3c45-c13d-69aa-0b9ca6c27db2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Kart_Wheels_Back"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -7.8169,
+                                    -120.3418,
+                                    5.1081
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "250d6fc1-fe1a-e620-5061-42d22c569634"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "b0a0e7b6-9182-15b8-9d66-268c296664ec",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Kart_Wheels_Front"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -7.8169,
+                                    -120.3418,
+                                    5.1081
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "ee1bc7ea-76bf-2790-b158-e528a651717b"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "4e5affd4-fa4a-d119-2e69-36a7768c70c5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Kart_Steering_Wheel"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -7.8169,
+                                    -120.3418,
+                                    5.1081
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "6993ff07-609d-a1cf-357f-fc7fbe5a123f"
+                            }
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "127dcd86-96a3-833a-22d2-e150aec70dfc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Camera_Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "7b795192-261f-833e-8ae0-74d8499a0811",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "2716ab3d-886e-7c1d-e2cd-5e7da762a6d2",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "a60016d9-2302-b765-b5e2-aa843992edc8",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "a661462f-0748-f81d-02ad-1650a4e66ba6",
+                                                        "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "a661462f-0748-f81d-02ad-1650a4e66ba6"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                                    "instanceGuid": "43beaa6c-c650-9aa4-c2e1-555ebcbfc9aa",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Camera_Frustum"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                            "instanceGuid": "718c4ba0-c512-226f-f8ff-cc3c73bef667",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Physics Body"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "c6c00ff8-bf0a-9d14-6e5d-aab5446dfa89",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh Collider"
+                                                        }
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                            "instanceGuid": "1a3b70ef-41d0-a70d-a179-008787f32082",
+                                                            "data_components": [
+                                                                {
+                                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                    "name": "Mesh"
+                                                                }
+                                                            ],
+                                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                                "stages": [
+                                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                                ]
+                                                            },
+                                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                                "mesh": "9495f108-dad8-28c6-40cb-8a510de981f0",
+                                                                "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "9495f108-dad8-28c6-40cb-8a510de981f0"
+                                                    },
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -7.8169,
+                                            -120.3419,
+                                            5.1081
+                                        ],
+                                        "rotation": [
+                                            0.0,
+                                            -0.0,
+                                            0.0
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                                    "instanceGuid": "1cdfab40-62cb-978c-1a9f-890c782bb2e0",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "CAM_MAIN"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -7.8169,
+                                            -100.2893,
+                                            11.9819
+                                        ],
+                                        "rotation": [
+                                            -15.0065,
+                                            0.0,
+                                            -179.9786
+                                        ]
+                                    },
+                                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                                        "fieldOfView": 81.2025,
+                                        "nearPlane": 10.0,
+                                        "farPlane": 65536.0
+                                    }
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -7.8169,
+                                    -120.3418,
+                                    5.1081
+                                ]
+                            }
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -7.8169,
+                            -120.3418,
+                            5.1081
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "68815d5a-86b3-9dc8-e056-4ff3a7c31f31"
+                    }
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "45de1170-2ae7-9d65-f552-36dc916f2ea5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Directional_Light"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "1e2d048e-66fe-d18b-eb1c-eeb1515869d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "22570e2c-0bb3-6b6e-bef7-665ab9f721c4",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "2c10c1de-ad75-ce44-8646-32b52c7bf06e",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "e5daf8cc-c94e-09c9-4da1-3ffb27063894",
+                                                "material_instance": "6319a79e-a588-7aca-c9fa-0225c81ea523"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "e5daf8cc-c94e-09c9-4da1-3ffb27063894"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "d1a2af7f-db22-52b9-9c2f-d079d726325a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Environment_Probe"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "d1ee9328-b2bf-3cfe-6e74-943028178f5d"
+                    }
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+            "instanceGuid": "ec21a729-1c6d-7012-4eb2-567ce17eedf2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "GRP_Scene"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "121e1a83-a43a-27bc-69cd-1cff99e29eda",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Ground_Floor"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "3de45c9e-4950-a6d0-6683-08a77b98318d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "d5ac5d3c-0542-27a3-a466-24042f7f6f0e",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "fe990ebe-4a64-d5a3-d4d1-055ed52af322",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "70d54700-32c5-117c-9924-dd274ac9f2ce",
+                                                "material_instance": "bc163210-7da6-2a93-db29-3c4857b246a7"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "70d54700-32c5-117c-9924-dd274ac9f2ce"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "ff5fca53-de3f-61d8-d057-49d871a10bf0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Track_Loop.001"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -19.9902,
+                            69.9658,
+                            0.0
+                        ]
+                    },
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "9c6cceee-a164-72ad-ebf8-5f4a15861754"
+                    }
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "ef67135a-a901-8b60-78c7-41c1b9860b7f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Track_Straight"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "1b142c64-788a-86dd-6ab3-91c90f911d55",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_01"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    9.9975,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "f98d73b1-183a-a68c-2536-d70c5e723c95"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "2b404b88-41b0-2f62-9cd1-fe9775b9d7db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_02"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -89.9779,
+                                    -29.9926,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "a20aa98e-1d3a-8376-ea8a-399c09e0f46e"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "a4893580-2b68-3cf7-67ae-6c04791238c4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_03"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -79.9804,
+                                    -29.9926,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "0d575137-ff36-08ef-a7ce-61bcd55a7a94"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "3618159e-94e7-4c51-0df7-87440e48b8ac",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_04"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -69.9828,
+                                    -29.9926,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "929ed943-5f83-2af3-b171-ed067ea50549"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "dfe366ad-c3db-97f9-7f86-896a222f1a08",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_05"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -59.9853,
+                                    -29.9926,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "110c9f21-42b5-3ff9-7163-c53f726318bd"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "8d4ed286-50fd-3cb2-0c0e-76a94b6e73de",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_06"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    -29.9926,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "4309e62f-0633-f0eb-f7b4-e1d91e29c3bf"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "2ac634eb-038b-1d5d-cdfc-92785d903a4f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_07"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    0.0,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9a3b6d4b-43c4-5228-d605-320a3ce2ae20"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "697dfe2e-b8e5-c026-8adb-17c10b9eaece",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_08"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    9.9975,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "f62a00e4-bcb6-b19a-23e9-7e057712c0ea"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "5999e788-4549-49dd-4e0a-8b1f7281c33d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_09"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    19.9951,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "16924d2c-5684-82e0-f11f-56b358998125"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "444e1ea1-33c1-99be-cb18-d9d1802f9da1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_10"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    19.9951,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "dc17ede3-a831-c6f1-4ff8-edbd56b288c2"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "31ccebae-4d88-08f5-8d30-d598adc79c4f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_11"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    -179.9559,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "8b397fdf-9429-f7ee-2612-8ec4a9c8d49c"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "50a2a4d5-a1ea-62eb-31cf-446d3a6d667f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_12"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    -189.9535,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "c9a30549-096f-fddd-ab10-b56915e16f04"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "6ea9befe-c4aa-a3d7-9171-c0c156cc19ff",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_13"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -79.9804,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9c37fc31-dadb-9f23-f87d-c3dbdef20793"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "24e7ea56-048e-3cdb-5d8a-11938abc8c6c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_14"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    -189.9535,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "4ed758eb-b986-6f1f-222c-174b8be58556"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ce607198-f0d8-4363-a12e-e7d098c52c6d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_15"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    -179.9559,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "f96d03c4-eac7-f268-67d3-15c3a1c61e21"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ed0d4b45-cfec-ce50-de3e-86f9cb30380e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_16"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    -169.9584,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "0041e656-a4bd-0fcf-cae3-003e3b38829a"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "605d0ec5-5044-af3c-9c28-b90546b36d59",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_17"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -89.9779,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "75cdd6e1-f993-61f3-6446-5b560fbbe568"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "a63c61c7-4604-5015-6d65-d45a142fe0ab",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_18"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -79.9804,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "b5fef87a-b94d-daa9-4e0f-84698060c0a6"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "285b2c56-234d-c4bc-50ac-27dd86d239dd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_19"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -69.9828,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "311ef7b8-0ba6-458a-5188-e88dea95013e"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "c5a0ee43-b627-cdb0-1d13-8bef88a5a5ac",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_20"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -29.9926,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "2b3aaa18-14cd-13eb-62a9-ebf59748910c"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "e027bc3c-b552-dda7-cfb8-4ea37ec95474",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_21"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -39.9902,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "4db8d09b-6024-8ff8-a14f-4261006a28a1"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "54455734-7e0c-dfbd-32d7-47200575c138",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_22"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -119.9706,
+                                    -149.9633,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "c8194ea4-fb8b-8daf-c45f-e4eaf69704c2"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "90bc6ec7-63f3-34ec-5a84-89a0ace58b46",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_23"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -89.9779,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "d12eeaae-8862-f5af-ba82-594358266a72"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "1a024f06-f2ee-7410-7acc-82512363cb6b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_24"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -79.9804,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "f865ce34-4aa8-bc60-4f39-78ff76c62e05"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "482f3b4a-0ad1-7a92-a515-f58052179013",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_25"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -69.9828,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "8e35b9c8-d894-96f6-224d-b4c914088b06"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "862559b0-7941-2c5e-6abb-210f36bb7771",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_26"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -59.9853,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "5a4c2d14-a2db-01bd-25eb-315ae415aecc"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "85407b44-deb7-a116-cbed-12ae5d8f9e2e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_27"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "2d32adfe-0e5f-3bcb-1bf2-b994acb44289"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "13fc3e70-2cbd-fa9a-0653-3b4777bcaca7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_28"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -39.9902,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "cac2cc9a-a845-2883-faf3-1bf8d7b8ca15"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "9bf86e5b-e65d-aca5-a5a5-417dc1e5e086",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_29"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -29.9926,
+                                    79.9804,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "be217c15-7799-d32e-f8b4-6357c5ee50a1"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "db5c3583-4294-2a3c-ee75-95106d82efe2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_30"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    29.9926,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "422ebcda-5697-d9f7-2db8-a32c449e9f68"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "50e526b8-3a7e-e0d0-3c8a-41187b7ab5ad",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_31"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "eef83a01-cf88-a437-3ee4-fc0effaa8a84"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "aa3ef96c-5159-85dd-5a18-21b4f1e67206",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_32"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "c645b4a9-fda8-b385-fd85-337c1d1a4b14"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "e2cd5a20-a8c7-eb68-8d6b-b173c4294465",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_33"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    19.9951,
+                                    -89.9779,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "8b742200-e28a-fd63-ad50-1deaaa050388"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "e7d48cae-a852-edca-a198-f246e988d318",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_34"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -29.9926,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "86e54223-72e8-b328-4889-3cee7a19171b"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "d80dffb0-5658-c3e8-002b-6f6845d571a0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_35"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -19.9951,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "bbc8279f-fac7-bcf9-edf7-7578b6fe08ec"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "74215baa-ff81-c4c6-60f2-eebdcfefe117",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_36"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -9.9975,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "2060f4bd-27e1-e95e-c92c-ce7e17883296"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "e392a44a-c64c-487c-d558-2c97ef618daf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_37"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "548e1cff-341c-13f5-b131-06560a2076fe"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "d7106c72-610b-d071-e390-69a85e337bcd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Straight_38"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    19.9951,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "1bac29d0-28c3-2b69-2ecb-f01e16250bf8"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "b9b54e14-d1ed-ba34-3abb-c827286f6214",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Track_Curve"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "1513319a-bb83-5c17-4022-f73c5494576c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_06"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -89.9779,
+                                    -169.9584,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "f35c03e4-2b3d-fb5d-5853-7daa6887d7aa"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "a85efc6b-6940-af4c-1287-f7d3f1473336",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_07"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -29.9926,
+                                    29.9926,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9230b49a-5dce-751e-507d-d40807dbe9ec"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "f3f78dbe-f64f-63e1-d500-aa175db329b0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_08"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -39.9902,
+                                    29.9926,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "427a1a20-31ef-8105-478e-93d6b6cd59be"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "9e1ed709-1cf8-c295-18ff-7c8d6f3370e3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_09"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -39.9902,
+                                    -9.9975,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "e937abd5-f75a-dc3c-c254-7b238dd2e61a"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "09dd6373-a005-d08a-a22e-f57372601570",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_10"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -59.9853,
+                                    9.9975,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "264a867d-9c93-7bf7-80a1-63a2b3790bbb"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "69d81c48-6b59-3a38-bb6a-e95f172880a0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_11"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -69.9828,
+                                    9.9975,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "c433a4d8-7224-b2de-2502-9933ea64caa9"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "0de5c422-77ac-e8d3-43ba-e59a84fc3b6e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_12"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -89.9779,
+                                    19.9951,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "89f9397d-5dcf-b4e4-eea3-c76f8bc31499"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "8738c084-28cf-11f6-ccee-3e3b92a767d7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_13"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    -59.9853,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "078fa677-45e9-2b2b-817a-d5613327d864"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "fc212aea-6547-07ad-da48-223640043489",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_14"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    -49.9877,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "3c5f02b7-b990-ee27-78a5-f88b02c409c3"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "aa0c7dc2-4c8d-398d-1da9-3be5255a4a8d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_15"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -29.9926,
+                                    -199.951,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "75087d04-290a-0f12-4e5d-4bd6d9e12590"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "7eb2a2d3-a811-47e6-22a5-bc687aa5818a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_16"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -39.9902,
+                                    -199.951,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "2ec65e50-7609-c7d5-8794-22fe4d8e3dce"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "38eae202-5876-f233-ded7-6a61b1447309",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_17"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -29.9926,
+                                    -69.9828,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "ed2b3196-551f-d0f0-2e17-214c6f0cf481"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "48fd6f66-6ccd-b54b-4c6b-92bf2a0fee91",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_18"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -59.9853,
+                                    -159.9608,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "7465e64a-653e-f55c-3758-73b2defddcac"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "0c445ee9-0108-1be6-086b-e1774c36ba06",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_19"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -69.9828,
+                                    -159.9608,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "e0c96d1c-9701-f759-5a62-a3b662c02701"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "5206fd89-349d-28c0-5b2b-424ade8cd94c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_20"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    49.9877,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "7ed02a3d-d5f0-442a-2a52-50c8e61a963b"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "c9a53f32-0c26-d008-3fd0-799320fbe8d5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_21"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    59.9853,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "cfe449b2-97a8-6ade-8de7-d3c0784057c5"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "48d06619-e135-ec20-d746-db06ac3f3f8d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_22"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    -159.9608,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "e1b7ee94-33ee-f13a-4f2c-354c747070bf"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "39900c3c-8a94-05e7-9b08-edb61310019f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_23"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -99.9755,
+                                    -139.9657,
+                                    -0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "d327e361-a87e-cee0-92be-010f763a6a57"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "47bb45c6-40f6-4544-e9a8-f85583205f72",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_24"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -19.9951,
+                                    39.9902,
+                                    0.0
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -0.0,
+                                    -90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "978d5907-8fdf-8e6d-c615-b0fa74a9917c"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "2089f1cd-ff22-9be7-93c3-530c50618714",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_25"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -159.9608,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "b8b87b27-718d-d68a-edc5-b61bffab0072"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "628dd339-5499-3326-e81b-297e5004cb4a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Curve_26"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -99.9755,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "1f9b2b45-057a-2a8b-61a6-f5f6eab0dd66"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "d3e17970-c677-ca81-5b39-98970f966c56",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Track_Ramp"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "5d54d172-f2b6-9986-ca99-fc6fcddf3f1f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_05"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -89.9779,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "3999dfb7-d40d-f27b-8faf-6234a8e89879"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "d8194717-adaf-5d57-e7d9-17def1fe390d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_06"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -129.9682,
+                                    3.2167
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "3d47ebf5-ecec-1be3-7ba0-309dfa2078ca"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "b98b7d56-40ed-9971-681b-baf08a685705",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_07"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -119.9706,
+                                    3.2167
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "4ed9ca5f-2f42-7972-c316-83ab6f5b3aa7"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "69a639b5-46ee-65e9-db9d-1fc145174980",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_08"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -109.9731,
+                                    3.2167
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "6fd90983-1088-988c-b755-891231111e80"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ecf1f0c5-4af0-527a-5697-0b9a894bb4b2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_09"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -99.9755,
+                                    3.2167
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "b50f1f51-3520-cad1-0fbc-83bdbccdb2e2"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "9d6a4155-c53e-404c-f696-da30a709a7ab",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_10"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -149.9633,
+                                    0.0
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "4a36c0e3-0bed-9ddc-e3e3-7092b1a7e3a3"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "52e11b30-0844-5f4c-6207-9a5858052798",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_11"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -9.9975,
+                                    -139.9657,
+                                    3.2167
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "81933cbd-a032-d710-8f02-d07e2bac8755"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ee8c2bd6-4b29-c870-0a8b-1a4ecb8f87ed",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Ramp_12"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -49.9877,
+                                    -119.9706,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    90.0069
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "8e1baefc-2aa9-1a3a-29e5-0dcb95b1213c"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "008d5491-762d-b568-0cbc-7f23266f3c12",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "GRP_Track_Angle"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "ee144535-aeb0-cbf3-ae7c-2e577d3a6944",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Angled_01"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -59.9853,
+                                    -59.9853,
+                                    -0.0
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -179.9999
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "a3e801a9-e6ac-74a9-0a14-d55b4c7aaa0f"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "8c4caff9-ea9f-f410-7a9f-b24b113f0892",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Angle_Transition_04"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "35b3b9c3-da8e-1df1-48c8-73b3f0510cd6"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "f0f246b3-861f-2c6f-c5b9-60ab765dfab5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Angle_Transition_03"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9213a36e-a97f-0f89-7a01-c92b8e0a1911"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "f2eca162-7cc7-5596-f0ce-9285d6d28bba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Angle_Transition_02"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "aae20709-8c12-a27e-ad86-1cde4bed8fee"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "6182c397-a5a0-422f-0cff-6e73862767be",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Track_Angle_Transition_01"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "ba0ea51b-9c4e-e6d5-c8e5-b9cfa9ad39f0"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "3d842433-8c0d-453f-2072-2f8a1676fc8b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sun"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    90.0261,
+                    -0.0,
+                    180.0
+                ],
+                "scale": [
+                    100.0151,
+                    99.9663,
+                    99.9663
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": [
+                    2.0
+                ],
+                "cascades": 4,
+                "cascade_quality": 0.9499
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1ad89692-732f-f3c6-93dd-0c219dfcb22a"
+    }
+}

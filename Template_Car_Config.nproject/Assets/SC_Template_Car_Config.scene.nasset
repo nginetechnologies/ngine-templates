@@ -11,7 +11,7 @@
             "instanceGuid": "435910ac-f369-8c63-c824-40b5e2b1d7f7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
-                    0.999755859375
+                    1.0
                 ]
             },
             "data_components": [
@@ -31,7 +31,7 @@
                         }
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "df5179f2-08fc-4272-cb8b-b9804aa5b8a1"
+                        "scene": "5913753f-7aca-d521-522c-e9d11ac0f946"
                     }
                 }
             ]
@@ -53,14 +53,15 @@
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+					"DFCA0EF8-EDED-4660-8ADB-43C0AA8F4E60"
                 ]
             },
             "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
                 "color": [
-                    1.0,
-                    1.0,
-                    1.0,
+                    3.0,
+                    3.0,
+                    3.0,
                     0.0
                 ],
                 "cascades": 4,
@@ -90,7 +91,8 @@
 			},
 			"9f750482-b822-4d4b-be6a-9c135c614328": {
 				"stages": [
-					"f141b823-5844-4fbc-b106-0635ff52199c"
+					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
 				]
 			},
 			"7be15c72-f784-4f5e-b895-7cc2fbef6355": {

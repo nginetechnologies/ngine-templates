@@ -1,8 +1,8 @@
 {
-    "guid": "3ae4ada4-3227-e0f5-11e5-2b1493598ba3",
+    "guid": "60d5b1b3-1b1e-f142-81d3-d90c1eb438b6",
     "source": "../Product_Template.fbx",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "a0efd69a-b035-d166-9e98-2357dbe845ed",
+    "instanceGuid": "98074bd1-ef5a-047f-6a2b-46749c447f36",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -12,7 +12,7 @@
     "children": [
         {
             "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-            "instanceGuid": "285cace1-b30d-b738-f9c2-37a4217876ea",
+            "instanceGuid": "a65214fa-0941-5fe1-59e5-a7ad63c139c8",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,163 +21,415 @@
             ],
             "children": [
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "b0fd0f22-33b0-f7a8-d785-1739d4855470",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SM_Pedal_Right"
-                        }
-                    ],
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "scale": [
-                            3.474301338195801
-                        ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "4ad3f334-5594-e4b6-82da-8a11e99a15a7",
-                        "material_instance": "9cde1821-8c21-2c41-da72-e198d799e33e"
-                    }
-                },
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "2ccb5bae-2569-9326-74e1-3bebca5eb029",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SM_Pedal_Right_Fork"
-                        }
-                    ],
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "scale": [
-                            3.474301338195801
-                        ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "5111d272-bcf4-0b4c-4c15-7fc6104d601f",
-                        "material_instance": "9cde1821-8c21-2c41-da72-e198d799e33e"
-                    }
-                },
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "26521511-199a-d920-9f4f-dd1d18247348",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SM_Pedal_Left"
-                        }
-                    ],
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "scale": [
-                            3.474301338195801
-                        ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "62387bfc-6011-9efe-294c-52fab9d2ce0a",
-                        "material_instance": "9cde1821-8c21-2c41-da72-e198d799e33e"
-                    }
-                },
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "1ee99ef0-f0a6-b2d0-25da-e6e747745f9c",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SM_Pedal_Left_Fork"
-                        }
-                    ],
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "scale": [
-                            3.474301338195801
-                        ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "5e8627a9-dd43-7c21-7af3-71a2921e2b11",
-                        "material_instance": "9cde1821-8c21-2c41-da72-e198d799e33e"
-                    }
-                },
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "bb652845-0d54-8306-04d3-0f046c00abf9",
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "e046900a-d767-2ba3-49a8-5918a2326c86",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "SM_Crank"
                         }
                     ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "792e978b-34e1-844a-2d45-6887a5dd78c9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "caf600a6-100e-94af-88a6-7673589e032e",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "7917890e-6237-0af1-c7fa-987cbccaa391",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "14d45f78-c0ba-3650-8337-ad45444ee636",
+                                                "material_instance": "0b1761d2-a319-10ef-1c76-12beeff309b0"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "14d45f78-c0ba-3650-8337-ad45444ee636"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "02cf6167-08a4-d217-1bdd-84b075878f1a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Pedal_Right_Fork"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "de7f0a8e-921b-fce1-9dce-bad80deb2780",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "ec5f9ac4-731d-1396-8d65-0f3c945e5d51",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "9ceb6a5d-c686-1f56-d936-6e4a072b8d60",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "61353e50-2f88-c1b0-98c4-86987398ae51",
+                                                        "material_instance": "0b1761d2-a319-10ef-1c76-12beeff309b0"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "61353e50-2f88-c1b0-98c4-86987398ae51"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                                    "instanceGuid": "871afc50-ff5e-1e4b-84ee-2bceb949077d",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Pedal_Right"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                            "instanceGuid": "73acb5ce-8aac-b367-3b7c-d96364932a78",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Physics Body"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "b921d498-7aa5-b12a-c980-8fd963aa8da3",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh Collider"
+                                                        }
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                            "instanceGuid": "24ae7f22-a772-a156-df5a-0ce456e1f693",
+                                                            "data_components": [
+                                                                {
+                                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                    "name": "Mesh"
+                                                                }
+                                                            ],
+                                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                                "stages": [
+                                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                                ]
+                                                            },
+                                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                                "mesh": "e68a1cb3-21d8-1896-a7bf-4b30b28c6634",
+                                                                "material_instance": "0b1761d2-a319-10ef-1c76-12beeff309b0"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "e68a1cb3-21d8-1896-a7bf-4b30b28c6634"
+                                                    },
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            3.474
+                                        ]
+                                    }
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    3.4737
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                            "instanceGuid": "1f6ebd1c-26b6-0128-cb6b-86c93a8df0ba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Pedal_Left_Fork"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                    "instanceGuid": "35a5eeff-7e00-d706-670b-6a6bc42b5cbd",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Physics Body"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "04b95a14-cbe9-e2ff-2630-bc13e9ef55c7",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh Collider"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                    "instanceGuid": "66fdbd4c-3e3f-2ec5-b956-2c6b686ae855",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh"
+                                                        }
+                                                    ],
+                                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                        "stages": [
+                                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                        ]
+                                                    },
+                                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                        "mesh": "43545f09-1c39-2e67-41e2-0d7b8ec38b02",
+                                                        "material_instance": "0b1761d2-a319-10ef-1c76-12beeff309b0"
+                                                    }
+                                                }
+                                            ],
+                                            "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                "mesh": "43545f09-1c39-2e67-41e2-0d7b8ec38b02"
+                                            },
+                                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                                    "instanceGuid": "e714c537-0295-165b-69ba-4a8af2f90167",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SM_Pedal_Left"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                                            "instanceGuid": "98b9736e-ead7-bb52-705f-c6ff80d8eb21",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Physics Body"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                                    "instanceGuid": "0dfa8626-0cd0-f268-5861-ee3a4a2c53f6",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Mesh Collider"
+                                                        }
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                                            "instanceGuid": "a24ac4c0-c379-c89e-94d4-a16c6a901d9c",
+                                                            "data_components": [
+                                                                {
+                                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                    "name": "Mesh"
+                                                                }
+                                                            ],
+                                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                                "stages": [
+                                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                                ]
+                                                            },
+                                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                                "mesh": "ab10e50e-1199-d14d-65e6-b4c6ffd26d52",
+                                                                "material_instance": "0b1761d2-a319-10ef-1c76-12beeff309b0"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                                        "mesh": "ab10e50e-1199-d14d-65e6-b4c6ffd26d52"
+                                                    },
+                                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "scale": [
+                                            3.474
+                                        ]
+                                    }
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    3.4737
+                                ]
+                            }
+                        }
+                    ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "scale": [
-                            3.474301338195801
+                            3.4743
                         ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "75570e5e-7337-6de3-6b4b-8c254b855cf3",
-                        "material_instance": "9cde1821-8c21-2c41-da72-e198d799e33e"
                     }
                 },
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "c69eda75-bf4f-38b8-d60e-6dad43e6ddf5",
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+                    "instanceGuid": "d451c6bb-d1cb-83d2-81e5-b6271dc89b96",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "SM_Chain"
                         }
                     ],
+                    "children": [
+                        {
+                            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                            "instanceGuid": "06ab10af-856a-5b19-333a-3dfb84aea0af",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Physics Body"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                    "instanceGuid": "839ca01f-df8a-ec32-f6b6-47ba8421487a",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh Collider"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "7c0a9406-d50b-71b1-c8c7-fce2e34791f5",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Mesh"
+                                                }
+                                            ],
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "d520553a-a715-b3d6-6e3e-84bc7b54d09b",
+                                                "material_instance": "87449319-4a0c-682f-3493-0226a12b87bb"
+                                            }
+                                        }
+                                    ],
+                                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                                        "mesh": "d520553a-a715-b3d6-6e3e-84bc7b54d09b"
+                                    },
+                                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            -0.5008820295333862,
-                            -0.06008800119161606,
-                            0.30670273303985598
+                            -0.5008,
+                            -0.06,
+                            0.3067
                         ],
                         "scale": [
-                            3.474301338195801
+                            3.4743
                         ]
-                    },
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "3127fd4d-83e7-1e4d-1df6-e9c7dbf5c496",
-                        "material_instance": "4dabc73f-24ef-b16b-1b19-1704b0e9eca0"
                     }
                 },
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "12bef34c-9f7f-f147-05b1-27198eded9d2",
+                    "instanceGuid": "689d92b3-aa3b-9c06-1686-021038c9422b",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -186,72 +438,74 @@
                     ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "scale": [
-                            3.474301338195801
+                            3.4743
                         ]
                     },
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "776711eb-4483-de6c-a7ee-1ec41cb89a19"
+                        "scene": "212f6f76-2619-d5bd-9836-8765f664b32c"
                     }
                 },
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "22ace32f-8cf3-db82-cc99-97eaa3b4ce50",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SM_Tire_Front"
-                        }
-                    ],
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "position": [
-                            0.2699938416481018,
-                            -1.9745902893867795e-15,
-                            -0.10288319736719132
-                        ],
-                        "rotation": [
-                            0.0000064551290961389899,
-                            -16.003337860107423,
-                            -0.000001287168402086536
-                        ],
-                        "scale": [
-                            3.474301338195801
-                        ]
-                    },
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "006ed395-149f-0ffc-91d4-eec6cf958064"
-                    }
-                },
-                {
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "1c5267ab-522a-3b1e-05a3-08b2f665ad2b",
+                    "instanceGuid": "6df4b067-3389-8b58-b7bf-8acbb3374910",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "SM_Fork_Front"
                         }
                     ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "91aa4552-05c4-d18a-ce7a-99947621c68d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SM_Tire_Front"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.2699,
+                                    -0.0,
+                                    -0.1028
+                                ],
+                                "rotation": [
+                                    -0.0,
+                                    -16.004,
+                                    0.0
+                                ],
+                                "scale": [
+                                    3.4737
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "d4d7b474-394f-b275-f830-5976524a7b2f"
+                            }
+                        }
+                    ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            0.2699938416481018,
-                            -1.9745902893867795e-15,
-                            -0.10288320481777191
+                            0.2699,
+                            -0.0,
+                            -0.1028
                         ],
                         "rotation": [
                             -0.0,
-                            -16.003339767456056,
+                            -16.0033,
                             0.0
                         ],
                         "scale": [
-                            3.474301338195801
+                            3.4743
                         ]
                     },
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "e4e86533-0ad3-8066-36e5-5e0af5356d2d"
+                        "scene": "5dadc50a-89ee-6978-2b59-ed5d2c3ac23c"
                     }
                 },
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "2b44743e-d60a-f100-05af-2b5a4e22b6d3",
+                    "instanceGuid": "7aa1f76b-e6a4-3eb1-f46b-aa2a1d6be704",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -260,27 +514,22 @@
                     ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "scale": [
-                            3.474301338195801
+                            3.4743
                         ]
                     },
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "2dd1cb5d-3e84-58c3-deb5-01f5eba5fdcd"
+                        "scene": "99938257-1ed8-cca9-75e3-7bedcf33942e"
                     }
                 }
             ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
-                    3.4745843410491945
+                    3.4745
                 ]
             }
         }
     ],
-    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-        "scale": [
-            0.999755859375
-        ]
-    },
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "3ae4ada4-3227-e0f5-11e5-2b1493598ba3"
+        "scene": "60d5b1b3-1b1e-f142-81d3-d90c1eb438b6"
     }
 }

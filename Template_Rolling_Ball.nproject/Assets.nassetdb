@@ -1,1207 +1,599 @@
 {
-    "d023c3f6-02dd-2727-412d-b20eb3cd3395": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_Start.scene.eduasset/M_White.mesh.eduasset"
+    "2c0c21d7-67f7-0737-7075-7a7d296be07c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_21.mesh.nasset"
     },
-    "d372f32c-362c-07fd-5021-3707a9b39171": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.002.mesh.eduasset"
+    "a41b9da3-3006-5ec8-d359-9457cecdf532": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_33.mesh.nasset"
     },
-    "47c197ef-c3e0-2f95-54b3-13b81b43fe10": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_06.statobj.eduasset"
+    "57e4e2af-5a0f-953c-5796-668cfdc9c9e4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_09.mesh.nasset"
     },
-    "5fb02503-1057-b983-a083-62949d88a9c5": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Accent.mtli.eduasset"
+    "331bec67-7a8a-eda4-8a35-c58b39560667": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_21.mesh.nasset"
     },
-    "28925137-69a3-7a62-10c0-bc0950daa4ad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/SM_Rolling_Ball_Proxy.scene.eduasset/SM_Rolling_Ball_Proxy.mesh.eduasset"
+    "6491c218-7b2c-2569-4a6a-11ed52da1c14": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_Start.scene.nasset/SM_Ball_Start.scene.nasset"
     },
-    "558571a9-bb60-7d15-4c16-23645c9ac7b8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.101.mesh.eduasset"
+    "653b8869-149b-725e-5f1f-0bf30a8e1847": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_02.mesh.nasset"
     },
-    "c67772db-1c8a-34c7-884e-e446025fd626": {
+    "a8fa80be-0c69-40da-a830-d85944d64503": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_25.mesh.nasset"
+    },
+    "811819c2-c237-7acb-74eb-d9e5f61fd785": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_05.mesh.nasset"
+    },
+    "e458714a-c8f4-f606-cf64-6d2a24a801d6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_15.mesh.nasset"
+    },
+    "4b4ce57d-6e5c-7513-1d2c-705a1858b720": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_13.mesh.nasset"
+    },
+    "7e850e51-01ac-f9a9-e82e-c49642556c4b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_10.mesh.nasset"
+    },
+    "793f4a2a-6426-0bc7-6e1b-c6e770c1e160": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Dark_D.tex.nasset"
+    },
+    "58fd0575-9cda-ee88-011d-52f89cf6a52c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_02.mesh.nasset"
+    },
+    "36656dac-62d2-8108-45e3-6f047ff56958": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_14.mesh.nasset"
+    },
+    "7ed8e91c-611b-23b3-73a2-c9cf96b1500d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_24.mesh.nasset"
+    },
+    "5087f309-e6df-f744-0efd-b17ffc391acf": {
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_Start.scene.nasset"
+    },
+    "199f5df6-7731-14ae-f69a-77458925bb8b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_17.mesh.nasset"
+    },
+    "d003b3f4-ab96-61aa-4e72-329ea9b1c770": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_30.mesh.nasset"
+    },
+    "eaf2814c-c9bb-ee3a-9c90-2942c9bdbd36": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_20.mesh.nasset"
+    },
+    "036e1a1d-fa2e-8263-4443-bbf1c69059df": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_25.mesh.nasset"
+    },
+    "22e57cbf-9320-9a44-c31d-25abde884258": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_22.mesh.nasset"
+    },
+    "587c8c1e-593d-f2d6-8a15-2df169ea54c6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Input_Jump_Txt.mesh.nasset"
+    },
+    "ca54c440-dae7-3987-21e0-717ab65b20ec": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_04.mesh.nasset"
+    },
+    "88aa34c8-3a72-4077-fcb1-90d4ade631e6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_03.mesh.nasset"
+    },
+    "289ea485-b5b4-1830-c7d8-d6d23a9b9479": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_06.mesh.nasset"
+    },
+    "8010333a-9406-0f5c-ba88-693df9bcc658": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_End.scene.nasset/M_Black-2.mesh.nasset"
+    },
+    "631fde0d-bfd9-e6d9-c5c0-a553ee9028f5": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_End.scene.nasset/M_White-2.mesh.nasset"
+    },
+    "7a3fdf44-e00f-1447-79f9-4836b3cdccb2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_11.mesh.nasset"
+    },
+    "23317750-014a-98f8-0f58-36ce2aef508f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_White.mesh.nasset"
+    },
+    "54912651-1c87-be6b-3058-b0accf00c731": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_32.mesh.nasset"
+    },
+    "a7f5f29d-96f7-cdd8-abcb-b91e236d990b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_01.mesh.nasset"
+    },
+    "125ebadf-00da-a875-2008-8fb2effe2666": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_13.mesh.nasset"
+    },
+    "3e05ba92-3a11-2650-517e-1deb4607ab1b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_13.mesh.nasset"
+    },
+    "b4cfb305-8044-84a0-6cfa-4b933ea49cb4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_19.mesh.nasset"
+    },
+    "b1b4d8b5-e5d5-faa0-5808-36b523d18d6c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_18.mesh.nasset"
+    },
+    "71b95c0d-02e3-6a61-e607-01f493a3a7eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Dark_Accent_D.tex.nasset"
+    },
+    "163e4c1b-930a-b667-673e-0210c4ec5a05": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_10.mesh.nasset"
+    },
+    "439a1b3c-53fb-dcaa-1ac4-a7e8c13e9f13": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_Grid_Default.mesh.nasset"
+    },
+    "92a33ba6-cae7-9274-e830-f78584ff8ef9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_02.mesh.nasset"
+    },
+    "f5cf3c29-7d47-2ddb-09ac-8e4a0e961526": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.eduasset"
+        "path": "Assets/Thumbnail/Rolling_Ball_Thumb.tex.nasset"
     },
-    "d909b208-3471-dd6e-4c51-409f0c495edf": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.022.mesh.eduasset"
-    },
-    "e82bdb40-af3e-ca90-234a-63a2962061aa": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_12.statobj.eduasset"
-    },
-    "ad081ce9-c341-4aa2-8a51-594a85ed6176": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.038.mesh.eduasset"
-    },
-    "0dcc2a0c-9f9a-1338-5c29-ca183f383a62": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_06.statobj.eduasset"
-    },
-    "c1d64b10-c25b-cb15-08cc-bdad7cb4709b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.046.mesh.eduasset"
-    },
-    "5aa79460-fa3d-eedc-618f-c7edfebd328a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.007.mesh.eduasset"
-    },
-    "9b39a48d-1f7f-2af1-7ba3-b3902fe632c0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.102.mesh.eduasset"
-    },
-    "9ffbe19d-dece-5ade-7b67-e9a9bd139e60": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_08.statobj.eduasset"
-    },
-    "89a66750-f688-e66f-05df-a50525218034": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_04.statobj.eduasset"
-    },
-    "8f24be19-6b57-ee7b-ba01-db4b1a601070": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_Start.scene.eduasset/M_Black.mesh.eduasset"
-    },
-    "878b2d7c-4028-9835-4840-26ff87b54286": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Input_Mapping_Txt.statobj.eduasset"
-    },
-    "84fe2a53-1bd3-bf9f-b70b-11b73e2b1c01": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_15.statobj.eduasset"
-    },
-    "09fb958a-a77e-83af-883b-1e085878d7b8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_02.statobj.eduasset"
-    },
-    "e48f5584-963d-84f6-98de-96d858e7a2dc": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_16.statobj.eduasset"
-    },
-    "82ea63d7-ddea-7462-e335-add5c036bc41": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Accent.mtli.eduasset"
-    },
-    "ae8496ca-ee9f-baaf-5485-8dcd57aa52a2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.087.mesh.eduasset"
-    },
-    "a95377c3-b292-abb2-7361-8a273fe41b4a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.030.mesh.eduasset"
-    },
-    "61ab09b1-452c-6e7a-89c8-4638cb3cc5f2": {
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_25_D.tex.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
     },
-    "8b9ebabc-d30f-5808-ba63-d93bf79acb92": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_14.statobj.eduasset"
+    "3abb76c4-04f6-215b-fdaa-36057ecd055a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_20.mesh.nasset"
     },
-    "0d9a5293-044b-1df8-ff98-7bbe9c1096dc": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_22.statobj.eduasset"
+    "5668417a-1ddf-8e93-ddf4-f2223bf82eec": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_22.mesh.nasset"
     },
-    "2b257624-0ba0-7e1b-c101-b2ea45c63ac3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_13.statobj.eduasset"
+    "ffca4bf1-37b8-e462-b26c-4b258b6d345e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_34.mesh.nasset"
     },
-    "7d554797-7c76-da9e-19a7-50f81d280d98": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.097.mesh.eduasset"
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
-    "aa54cc92-ef09-39fe-676a-7957b7efe929": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_White-4.statobj.eduasset"
+    "00049cc8-a7c7-bf3e-99d6-382c5f488b9a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_04.mesh.nasset"
     },
-    "91d2c0eb-bacf-2f7d-9bad-1c09f7edcbc1": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.073.mesh.eduasset"
+    "a4f0063f-5b8b-38d8-3110-69cffa8c780b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_21.mesh.nasset"
     },
-    "f8cc0b8e-7d41-4c43-87c0-bd94a42ceb30": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_02.statobj.eduasset"
+    "e42a423b-b1a6-34e5-af6c-4f0b411723c6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_End.scene.nasset/SM_Ball_End.scene.nasset"
     },
-    "225576bd-f80a-ce63-bbe5-97dab7db40d4": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_14.statobj.eduasset"
+    "f0247ccd-53fd-b788-ece6-e9c0ead5b97d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_08.mesh.nasset"
     },
-    "0c229c92-d057-cda4-3e69-b90fac710b86": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_18.statobj.eduasset"
+    "dae0f39a-0dc6-001d-f4d2-69e733871488": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_27.mesh.nasset"
     },
-    "dec0ba7d-1312-d6ff-5606-2e6b960d7660": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_05.statobj.eduasset"
+    "6cc7ea17-18e4-e9e8-88f3-d9e259e34168": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_06.mesh.nasset"
     },
-    "ea86212b-3c64-5d82-92f1-f540904f0567": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Accent.eduasset"
+    "160541f7-0ad1-e2ef-116c-9f4b4b0da342": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_14.mesh.nasset"
     },
-    "6a558861-10e1-1f31-1ee3-b4576d96854d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_09.statobj.eduasset"
+    "a799929c-2174-ee4e-fc9d-4b5d55be3733": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_23.mesh.nasset"
     },
-    "8d481363-f555-7efb-2d96-0ab6330b6149": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_19.statobj.eduasset"
+    "04fee824-347d-9ed7-dcc1-74196a2ade58": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_12.mesh.nasset"
     },
-    "7f094276-c170-b83d-6a58-1729a46521db": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_21.statobj.eduasset"
+    "115c9aca-3ff9-7f5f-9fa1-f3f47b1b6ea4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_14.mesh.nasset"
     },
-    "31e71cf3-5852-8be5-3c42-b16c43965a8c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_28.statobj.eduasset"
+    "08d47062-e967-2fa5-80ed-f83ad3c8ceb0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_16.mesh.nasset"
     },
-    "b8437fd5-301b-e8f0-a829-8d7d43761744": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_13.statobj.eduasset"
+    "9a8396d3-090b-a13f-8a42-b2fdcab8f2f1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_18.mesh.nasset"
+    },
+    "c9b94101-8d4e-0320-8a5d-24c5741eda1d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_01.mesh.nasset"
+    },
+    "9e1725a0-dbd5-446f-48eb-1afa1c3241cd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_12.mesh.nasset"
+    },
+    "a29ddf2f-709a-f0ec-717a-9294acbd927c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_17.mesh.nasset"
+    },
+    "0d4199cf-94cc-fa45-f7fb-b0a09c0224e4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_08.mesh.nasset"
+    },
+    "a8133f67-4d39-143d-fb8c-41040583bdf1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_14.mesh.nasset"
+    },
+    "c6851b55-f790-6670-ec29-d3f906b22694": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_09.mesh.nasset"
+    },
+    "4db4a812-a0aa-4181-bc65-536896505a92": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/SC_Template_Rolling_Ball.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "1acb9706-1e30-d1ba-1638-8d77e6b447b4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_23.mesh.nasset"
+    },
+    "233fa179-a124-2358-ddbd-1bb993bba1dd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Input_Move_Txt.mesh.nasset"
+    },
+    "c30a9dce-ca44-bd69-979a-311e8e05a791": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_Start.scene.nasset/M_Black.mesh.nasset"
+    },
+    "a8802b52-7c61-c792-7c71-c7d3fb7b168e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_08.mesh.nasset"
+    },
+    "f8154378-95aa-fdf0-cd11-2100f8644a69": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_16.mesh.nasset"
+    },
+    "f7760a7b-d08e-a724-3bef-2ebad91b3a7b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_19.mesh.nasset"
+    },
+    "102a29ce-7c17-8588-33f9-0dc0875939dc": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_07.mesh.nasset"
+    },
+    "bb16bc94-4772-c7e5-ca2e-c490e50367fb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_01.mesh.nasset"
+    },
+    "fbe02d17-1102-4376-e134-7c6b0022e971": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_02.mesh.nasset"
+    },
+    "47668805-025a-10df-18cc-6e683e25d554": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_03.mesh.nasset"
+    },
+    "c1b728b9-dd3c-b5a1-12ea-2985e73622d4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Default_D.tex.nasset"
+    },
+    "44874616-3586-494a-e861-246919665248": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_03.mesh.nasset"
+    },
+    "eb1d92a8-5a1a-6620-adc4-3b4d79a5a0e1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_26.mesh.nasset"
+    },
+    "11ef6dd0-5478-5f85-f6d0-09f076d35167": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_08.mesh.nasset"
+    },
+    "f4bc9cd5-617a-024a-3d55-2c28c73736f0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_17.mesh.nasset"
+    },
+    "67e12b8c-55f4-5cdd-1ba4-9c5ff6c2b3ab": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_12.mesh.nasset"
+    },
+    "9e102028-6cd1-1125-a226-45d0d2994849": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_29.mesh.nasset"
+    },
+    "463d0175-67ad-51da-5842-8ec28d02d2bc": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_05.mesh.nasset"
+    },
+    "179737e4-46cc-63c9-e4ea-3f48b6a585b9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_37.mesh.nasset"
+    },
+    "63094d0b-2b08-6369-e15f-a7b4ba22d750": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_13.mesh.nasset"
+    },
+    "ac998087-35bd-d821-7b10-6cbb17f7af28": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_05.mesh.nasset"
+    },
+    "6bc41ef3-32ae-b9cd-c978-6aa6689c636b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_23.mesh.nasset"
+    },
+    "85d72e1f-8282-0809-e323-3987b8a078e3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid_Default.mtli.nasset"
+    },
+    "d94435b1-1ab3-4b1d-3e63-567401701332": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_05.mesh.nasset"
+    },
+    "8b91f2c6-2504-cab6-0008-7c710502ba0d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_25.mesh.nasset"
+    },
+    "8e8cb3b6-5ed2-c156-3932-e507bcebe5e6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_End.scene.nasset/M_Grid_Default-2.mesh.nasset"
+    },
+    "1818a1be-680e-1061-dc07-1ace92d84345": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_07.mesh.nasset"
+    },
+    "eaa95496-ee9a-8d4c-b702-2686edad1b0c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid_Accent.mtli.nasset"
+    },
+    "8c720124-3869-d83b-650f-f278dc7e69de": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Dark_Accent.mtli.nasset"
+    },
+    "19c25c02-10f1-a40b-11ba-f8b908dc0c93": {
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Ball_End.scene.nasset"
+    },
+    "8ca75063-d584-f7a1-0d68-a70c37a53ddf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_36.mesh.nasset"
+    },
+    "c54e7d51-2b13-0591-8aef-3864b8952952": {
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset"
+    },
+    "e08a0465-cff1-093e-54f5-34585ddd4855": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Filler_04.mesh.nasset"
+    },
+    "4d6a1ab7-9cf6-c150-0975-d2b9e12699ae": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Input_Mapping_Border.mesh.nasset"
+    },
+    "b9c60a04-67db-1089-0be2-c9a96f72b651": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_09.mesh.nasset"
+    },
+    "94c74f63-20a1-e0fb-4991-32c825114108": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_22.mesh.nasset"
+    },
+    "4c3901c3-4477-4af9-f017-a2a0ab3a343b": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_07.mesh.nasset"
+    },
+    "64206f97-9f03-f2e6-be15-0e619d6604bf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_06.mesh.nasset"
+    },
+    "e5eb03a3-ba05-3bf7-787a-cf7557141f83": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_07.mesh.nasset"
+    },
+    "0f060407-d8da-6aab-8a29-7d05d771e52a": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_04.mesh.nasset"
+    },
+    "87c108bd-1f43-dc97-ecee-0c8bfb7dce91": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_19.mesh.nasset"
+    },
+    "75215fb4-9094-cf60-aef0-754d21a293a1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_03.mesh.nasset"
+    },
+    "d0230a51-1e71-b7bd-b979-271bb811e143": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_07.mesh.nasset"
+    },
+    "612fea9a-a6ea-3b52-b61e-b7e050fc8d7d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_24.mesh.nasset"
+    },
+    "8121828b-e6e9-c541-858c-094779d2decf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Input_Mapping_Txt.mesh.nasset"
+    },
+    "44b6459a-d621-a900-7beb-ff2a188f96f4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_04.mesh.nasset"
+    },
+    "0567fbbd-a001-74de-552a-829af961ca03": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_06.mesh.nasset"
+    },
+    "abccb029-1484-025e-df9e-f602d41f2ddf": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_02.mesh.nasset"
+    },
+    "51160806-c5f7-1e27-d69e-ac22b1ea97c6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Rolling_Ball_Txt.mesh.nasset"
+    },
+    "8422c6c1-e013-6290-a444-189f068bd096": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Accent_D.tex.nasset"
+    },
+    "c9ff34bf-79df-b226-43b3-6ae0c188f544": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_09.mesh.nasset"
+    },
+    "8e9d83bf-1766-ed03-d18d-3dfed95d9872": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_18.mesh.nasset"
+    },
+    "4f56d441-d7b4-6535-b143-2f51c98d6d28": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_15.mesh.nasset"
+    },
+    "92a447be-105f-7b4f-def5-32969647afbd": {
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/Rolling_Ball.scene.nasset"
+    },
+    "2ecfb13d-add4-279d-863b-66475bbdd8bb": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_10.mesh.nasset"
+    },
+    "f496ae0b-28e0-182b-fc48-7a0bda0ed732": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_31.mesh.nasset"
+    },
+    "417791f7-a6c6-353a-a89d-97bd3048ce34": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_17.mesh.nasset"
+    },
+    "0282c258-165f-01ff-aaec-daec8a078a65": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_05.mesh.nasset"
+    },
+    "4a3ec449-a5b5-74ec-b7f9-67b70ee3f23f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_01.mesh.nasset"
+    },
+    "a96219e2-cb34-2917-682b-994f95fbdced": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_24.mesh.nasset"
+    },
+    "dd72cfe3-d96a-ebb7-df45-9f135a03bffd": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_01.mesh.nasset"
+    },
+    "bcd94a08-8008-0e2f-6971-7985a58ebd58": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_Trim_11.mesh.nasset"
+    },
+    "fd829599-ffd5-1678-0b61-89a28f857fac": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_28.mesh.nasset"
+    },
+    "4260ae5d-5188-f8bc-d927-d85e5ec0ce25": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_35.mesh.nasset"
+    },
+    "32e4d60e-c26d-ed5f-9d47-2143951dd897": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_12.mesh.nasset"
+    },
+    "751c3d31-bcc1-a6ce-230e-9ce4e132f71f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_08.mesh.nasset"
+    },
+    "6ef5b903-eb26-cf24-2a3d-a311355efba4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_20.mesh.nasset"
+    },
+    "9f5e6be3-2e91-093f-b13b-63c3eb3f38d9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Player_Sphere.mesh.nasset"
+    },
+    "20ca0b4a-9b48-e826-43e0-7917634061c6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_16.mesh.nasset"
+    },
+    "dbedcf48-4e93-ec1c-cdcb-2f87006e8347": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_16.mesh.nasset"
+    },
+    "8825e2d3-549a-7876-839d-93283e86403f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_03.mesh.nasset"
     },
     "f4af436d-2bc2-66b0-b56d-fb7f906c2624": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Template_Rolling_Ball.eduproject",
+        "path": "Template_Rolling_Ball.nproject",
         "thumbnail": "f5cf3c29-7d47-2ddb-09ac-8e4a0e961526"
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.eduasset"
-    },
-    "600cce08-a302-504f-e017-f3b7370bdbed": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.091.mesh.eduasset"
-    },
-    "29127f4f-adfe-1ab2-8fb2-2b7d9fc20239": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.060.mesh.eduasset"
-    },
-    "110cc2a6-3fda-098a-6181-0e33765c283d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.028.mesh.eduasset"
-    },
-    "c96c10fd-61fd-1d55-cd5c-902b9ead125c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.014.mesh.eduasset"
-    },
-    "e5b302f2-8d9d-3257-ab85-175518509406": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_23.statobj.eduasset"
-    },
-    "7a151fbd-ee61-c9cc-3d01-dc4598fd2727": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_37.statobj.eduasset"
-    },
-    "ef2226b2-a1af-5610-0bf0-755761226fa5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.032.mesh.eduasset"
-    },
-    "239d5857-dffe-2dbc-82e9-de7c57e27ea8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.106.mesh.eduasset"
-    },
-    "4fdbdf38-6e7c-7295-69c8-dbe8457c7f73": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_07.statobj.eduasset"
-    },
-    "645d65aa-5a18-6e9e-ab49-5a527f672169": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_14.statobj.eduasset"
-    },
-    "548d2952-66e4-832c-8be5-564687dc8c9d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.083.mesh.eduasset"
-    },
-    "26bed5e8-32d5-5d0a-3eb5-d3571e50bb18": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.023.mesh.eduasset"
-    },
-    "3e368812-8b69-25e8-5f8f-ed733dba42de": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.010.mesh.eduasset"
-    },
-    "0813ffee-9b6d-0e16-c756-c5936e5d02ab": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.040.mesh.eduasset"
-    },
-    "bc0ade3c-1dca-cb94-5531-ed3474ff5996": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.082.mesh.eduasset"
-    },
-    "dd0f0ddc-4b49-5384-669b-9f77be893b9b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_05.statobj.eduasset"
-    },
-    "201790c6-394a-3bd4-4c6b-6a572f92f92c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.123.mesh.eduasset"
-    },
-    "64287dde-a999-4eca-bdf4-a0ff5dbc2e3c": {
-        "path": "Assets/Player/BindInputEvents.function.eduasset"
-    },
-    "30882faa-82c2-beed-6b47-1e28f838434b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_23.statobj.eduasset"
-    },
-    "cdd4f295-f754-0451-4c3a-49c151a44889": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_30.statobj.eduasset"
-    },
-    "ffa76b25-b3d3-4196-32f9-594d36cdb9cd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.029.mesh.eduasset"
-    },
-    "5231da5a-bdb2-3188-0978-f00dedf116cb": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_27.statobj.eduasset"
-    },
-    "34807c55-702a-30cd-fe7c-8387a0b59504": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_19.statobj.eduasset"
-    },
-    "a52992ff-3dc1-4272-4276-4bcb8f727430": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.055.mesh.eduasset"
-    },
-    "dd0a1048-bf92-5402-3357-ea349affcf91": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_11.statobj.eduasset"
-    },
-    "0c768295-5240-ae6a-8cee-a6cd8a98f44d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_18.statobj.eduasset"
-    },
-    "5cffc80a-8889-9ce8-6466-76c164c080bc": {
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_RGB_100_D.tex.eduasset"
-    },
-    "13cce36e-f485-f0e7-8960-d4e600508176": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_25.statobj.eduasset"
-    },
-    "9d55e2b0-f8ab-a813-8218-00519af215fe": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_13.statobj.eduasset"
-    },
-    "c499074b-db39-c406-46eb-67f794b39203": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SM_Rolling_Ball_Proxy.scene.eduasset/SM_Rolling_Ball_Proxy.scene.eduasset"
-    },
-    "2f41cd0e-fd15-ea79-8dd6-fe85ae31e867": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_07.statobj.eduasset"
-    },
-    "2013b342-18d5-441c-25d7-4d4fe635a443": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_33.statobj.eduasset"
-    },
-    "a40b7013-2874-4eb3-7eb4-210982595cae": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_03.statobj.eduasset"
-    },
-    "343c220a-98f7-5984-1c39-11a82902213a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_White-2.statobj.eduasset"
-    },
-    "2439ac04-c7a7-264b-e802-be3c92c0df2e": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Default.mtli.eduasset"
-    },
-    "68772f6b-3fd3-0778-d3cd-e92439f8ceb4": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Proxy.mtli.eduasset"
-    },
-    "b1dd01ae-da2b-fc3d-57b5-f3b21d0106fb": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.075.mesh.eduasset"
-    },
-    "1535f028-c06f-78bb-4131-3b1dc5e99fad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Black-3.statobj.eduasset"
-    },
-    "c95de9b5-640e-cd6e-1489-09c9adaf4e99": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_07.statobj.eduasset"
-    },
-    "d8143755-0f4a-2a4f-e10c-e9cff566433f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.066.mesh.eduasset"
-    },
-    "b19e5e3b-948c-99b5-e474-5c50cc3e38fd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_16.statobj.eduasset"
-    },
-    "8576554b-3ae7-248a-d4d4-bcdc35aeb34b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_08.statobj.eduasset"
-    },
-    "049df507-7f23-2617-fbec-68a83f33c014": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.078.mesh.eduasset"
-    },
-    "14c42f94-90b5-ba22-d432-3aefa73f7e04": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.039.mesh.eduasset"
-    },
-    "1016fccd-f3c4-2117-41c3-69cde10cea3a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.058.mesh.eduasset"
-    },
-    "0e7ac97d-8a28-3fc2-4504-82eb876913b2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.104.mesh.eduasset"
-    },
-    "7441ae32-f2bc-6b8c-7c1d-29e06c1b3565": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.092.mesh.eduasset"
-    },
-    "682b32c1-8491-d663-b7c3-f570920df82f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_10.statobj.eduasset"
-    },
-    "2bf088d1-6edf-b996-7189-aa0ab55ea3e8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.005.mesh.eduasset"
-    },
-    "6283b3eb-1cf1-493b-70c8-77eda756fbc0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.035.mesh.eduasset"
-    },
-    "0317746e-b932-bda1-8a99-f2aa2a0df789": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.065.mesh.eduasset"
-    },
-    "64cc376b-73c3-28ef-c9f8-586ec5ea149f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_02.statobj.eduasset"
-    },
-    "776639dd-4f50-ecd6-4584-6bd240eb6323": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.009.mesh.eduasset"
-    },
-    "a8c0fc25-307d-8ab4-1a89-5a9c06285b02": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_09.statobj.eduasset"
-    },
-    "f86767a2-b135-77b9-b893-6c1a67070789": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.016.mesh.eduasset"
-    },
-    "3e623c3f-e400-853e-5aa6-12092cca1c41": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_32.statobj.eduasset"
-    },
-    "2747a9e7-5de1-5ade-f335-15fa64a14fd8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.105.mesh.eduasset"
-    },
-    "bb5496a3-b8c5-68b3-1fd0-bf9b47f234b0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_35.statobj.eduasset"
-    },
-    "684d18d2-d7e6-7fab-e54b-c94a36688ce3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.042.mesh.eduasset"
-    },
-    "d75e812e-c96b-1e65-d77c-456744ab9963": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_15.statobj.eduasset"
-    },
-    "a07b1e9f-5731-d03c-ae29-e0801cee814e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.024.mesh.eduasset"
-    },
-    "e298236b-d6da-1d54-8104-732a3d3b5da0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.013.mesh.eduasset"
-    },
-    "d2545777-9f96-de83-104c-3023a3502cd0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.079.mesh.eduasset"
-    },
-    "03537bb7-5686-c7c6-39a1-f23fef02a70c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.121.mesh.eduasset"
-    },
-    "8bab574d-3083-988b-bc38-6810fbcb08d5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.021.mesh.eduasset"
-    },
-    "40b08375-8e7f-e1c1-0f76-ebbe358b9cf6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.093.mesh.eduasset"
-    },
-    "a2e078cb-3563-a38a-4a96-98c17f540df2": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Ngine_Logo.eduasset"
-    },
-    "ac994d19-2b53-524e-2ef6-199e5bebb285": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_Start.scene.eduasset/SM_Ball_Start.scene.eduasset"
-    },
-    "297b1f4f-5bf4-9774-d567-29e0a39413a8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_09.statobj.eduasset"
-    },
-    "ca7cc8a3-6b91-1f64-72c1-01c8872d9dfd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.051.mesh.eduasset"
-    },
-    "4d90177d-2e05-f199-7e12-036b9d61b90b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.116.mesh.eduasset"
-    },
-    "72e7eed3-ad56-f688-27c2-b7c40ffb849b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_08.statobj.eduasset"
-    },
-    "4a9cf033-a2a3-35c6-fa5a-f6f19960699d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.056.mesh.eduasset"
-    },
-    "62229cf4-c17e-3b2c-7902-7c32f21b64b2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_01.statobj.eduasset"
-    },
-    "80cd731c-709c-ddc1-9a61-44c51d1c2be9": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_06.statobj.eduasset"
-    },
-    "2c099515-ba38-b502-96d2-de2cdfd32b9a": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Default.eduasset"
-    },
-    "c38e1c62-8a8c-351f-7aab-f115b91188a2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_16.statobj.eduasset"
-    },
-    "ec5ec0aa-8ff4-ca4d-e1b5-edf4a9c7c75a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.069.mesh.eduasset"
-    },
-    "734a4856-19ef-07de-2926-98369a9d7627": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Input_Move_Txt.statobj.eduasset"
-    },
-    "7aee808a-823d-2109-1ee0-fe95c23ce510": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.011.mesh.eduasset"
-    },
-    "75f4c64d-46a4-b5d2-93c3-586575270f3c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.077.mesh.eduasset"
-    },
-    "0e279825-a846-94d9-21df-9b2b6c1693ad": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Ngine_Logo_D.tex.eduasset"
-    },
-    "ad7ac9cf-e247-9819-5094-4dff7edeedab": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_20.statobj.eduasset"
-    },
-    "d832109b-06d3-021a-be2b-311a4a853ef1": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.118.mesh.eduasset"
-    },
-    "c9b41b38-ff5e-28df-591c-892cf156e137": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_02.statobj.eduasset"
-    },
-    "b470b8ae-d5d4-c9ff-81f5-109d0402c955": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_14.statobj.eduasset"
-    },
-    "8c88efd1-cf88-3dcb-7b52-fb9871b18d0a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_01.statobj.eduasset"
-    },
-    "32e69cfe-a201-268c-6efb-a493a381d330": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.034.mesh.eduasset"
-    },
-    "866d1634-9209-77bb-2a16-6cad0537955c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.074.mesh.eduasset"
-    },
-    "67294d7e-52d3-71d6-7186-a59388160a68": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.095.mesh.eduasset"
-    },
-    "da6ab4e3-11da-6d14-236e-f840a7d96b71": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.031.mesh.eduasset"
-    },
-    "32c93abd-2429-4a2e-804a-d41c9a4bd9fe": {
-        "componentTypeGuid": "dce92b86-a9a7-4676-9e5d-a09cea4824f4",
-        "path": "Assets/Player/Constructor.function.eduasset"
-    },
-    "26f6a75a-aacd-2e39-0234-e124a7c1d06c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.089.mesh.eduasset"
-    },
-    "65841978-e5be-f86e-e920-5ca7cf5f2cb8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_15.statobj.eduasset"
-    },
-    "0942007b-1b6b-6247-10fa-6d9f3659fc14": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.041.mesh.eduasset"
-    },
-    "dbe03281-bce3-1acd-e37a-83260aab54d6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_10.statobj.eduasset"
-    },
-    "a75284aa-fa82-5d86-b855-568cd34c1c22": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_17.statobj.eduasset"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.eduasset"
-    },
-    "1e0b1da3-be49-4476-8c4b-a189b73d9788": {
-        "path": "Assets/Player/Update.function.eduasset"
-    },
-    "a8e053dd-f896-cfa3-cefa-a934e01d25b2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.008.mesh.eduasset"
-    },
-    "8ba12b15-2a17-58ab-01bc-e1a98e39d786": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.086.mesh.eduasset"
-    },
-    "a513ce29-2540-3ae5-1365-eb4b2eb50709": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.019.mesh.eduasset"
-    },
-    "ad353e51-aef7-6c66-f4c8-10e5041a2684": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_01.statobj.eduasset"
-    },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.eduasset"
-    },
-    "c0ca54d2-8caa-3b56-b970-345e4a58b4d7": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_End.scene.eduasset/SM_Ball_End.scene.eduasset"
-    },
-    "205f7069-5747-0787-5557-2ff37ddb247f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.100.mesh.eduasset"
-    },
-    "5763a5e6-48d5-b9db-bbf2-6369b22cf097": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.107.mesh.eduasset"
-    },
-    "6020a674-047a-9e7e-00fb-7f4842bb7b15": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.mtli.eduasset"
-    },
-    "ae7dd5e3-700e-370c-02f2-c6e187c346c7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_White.statobj.eduasset"
-    },
-    "0ca75830-27f4-ff4d-34b5-a78c572ab8e6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_25.statobj.eduasset"
-    },
-    "e3ca8192-b6e5-1302-5016-74fe72e8223a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.059.mesh.eduasset"
-    },
-    "95ad5538-c622-e34f-8f34-3648af830012": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Grid_Default.statobj.eduasset"
-    },
-    "7740f82c-e542-c78b-da45-4b59f198e58c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.052.mesh.eduasset"
-    },
-    "e5fbff5f-fe8c-4b5a-7080-ba08bf3bec1b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_29.statobj.eduasset"
-    },
-    "da07f3a8-d44b-6073-c59e-9375bd724a2a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_24.statobj.eduasset"
-    },
-    "6e3f9975-a239-87e6-6d89-d040ca284d43": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_03.statobj.eduasset"
-    },
-    "b624db88-9938-9dd3-7a49-58593f092860": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_16.statobj.eduasset"
-    },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
-        "componentTypeGuid": "55b166c1-632d-4b14-9a44-14e1f7c58534",
-        "path": "Assets/Player/Player.scene.eduasset"
-    },
-    "4dd568e3-dd77-885a-c82b-26fcc63100af": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_12.statobj.eduasset"
-    },
-    "b77f1cff-711d-cc89-1d1f-2e8d05dbe81c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Input_Jump_Txt.statobj.eduasset"
-    },
-    "555761f9-5cec-8732-841f-251b96b2a21f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.084.mesh.eduasset"
-    },
-    "cc42c412-405a-37eb-680f-bf8619e69c34": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_36.statobj.eduasset"
-    },
-    "ade5813b-8abd-5a93-d8fb-00f44e59ea62": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Dark.mtli.eduasset"
-    },
-    "d88c5646-6889-2228-a4b1-db372936d026": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_11.statobj.eduasset"
-    },
-    "9e528e06-0370-b7a9-af05-03a1f2e69307": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.025.mesh.eduasset"
-    },
-    "5fecf81f-9fe7-d226-c558-b59c65728c95": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.098.mesh.eduasset"
-    },
-    "ad3b5188-2614-6ce4-93c4-cdc269370a2a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.067.mesh.eduasset"
-    },
-    "055afb72-e437-23a7-a945-e12666b7915d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.076.mesh.eduasset"
-    },
-    "266921d3-8a56-78a8-3139-1e2f36cfd6ec": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Ngine_Logo.statobj.eduasset"
-    },
-    "8343aeaf-a850-8245-176e-e1316b23b3dd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.111.mesh.eduasset"
-    },
-    "bcca2d97-ad1d-ad22-6c95-86d47a292227": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.112.mesh.eduasset"
-    },
-    "44ddda4a-2dfc-45b4-07ff-462dbc9b9526": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_31.statobj.eduasset"
-    },
-    "c1c8433b-58fd-a928-cc31-21fda17a8520": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.054.mesh.eduasset"
-    },
-    "5f7cfb84-d7b8-e15d-4486-567f0d46b5f1": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_10.statobj.eduasset"
-    },
-    "761edc91-1a71-5f00-e74d-784607aeb0ab": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_06.statobj.eduasset"
-    },
-    "bf607847-bf9d-b59a-fd77-295f32d33616": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Black.eduasset"
-    },
-    "36c50c16-480b-69f6-7efa-40ca6dee65cd": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.020.mesh.eduasset"
-    },
-    "82c709fd-db66-4102-1848-486cd226d931": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.072.mesh.eduasset"
-    },
-    "59bbadeb-8cfb-fb9d-2d6c-9f1fb4fddb2d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.064.mesh.eduasset"
-    },
-    "6c3564b0-7d9a-da2a-64d9-58e895ce5c1f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_18.statobj.eduasset"
-    },
-    "0594a211-3642-15d9-0112-2b77d4a0ecd6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_10.statobj.eduasset"
-    },
-    "6a9c0cee-69dd-a90f-0f51-3c8775ef3390": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_08.statobj.eduasset"
-    },
-    "060b985e-032f-e6cf-d058-136433ee5bed": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.045.mesh.eduasset"
-    },
-    "132e1e9c-d4c3-47a3-960e-7d1f0b8417b8": {
-        "path": "Assets/Player/Player.type.eduasset"
-    },
-    "6b45f24a-78a0-8a14-99ec-3ad7f318d746": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.088.mesh.eduasset"
-    },
-    "cab07af1-5ca5-ac45-4e74-75bbed1cf807": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.108.mesh.eduasset"
-    },
-    "1b6f45cf-77a8-92c8-1649-83176a9caaec": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_04.statobj.eduasset"
-    },
-    "b7e14a2a-f2dc-937c-2f14-28c74ed2aade": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_03.statobj.eduasset"
-    },
-    "3343bbea-a7b7-1d31-0ff8-9cac14b544b7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_17.statobj.eduasset"
-    },
-    "4ef733c2-77ca-9537-b830-eb915873816c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_34.statobj.eduasset"
-    },
-    "693657a6-4016-3bf1-992d-adec7d810c5f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.027.mesh.eduasset"
-    },
-    "57c83b23-1552-1c93-460a-0da8da0a8fa5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_01.statobj.eduasset"
-    },
-    "4590e464-7b61-02d5-c7c4-fb56a3eefc33": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_24.statobj.eduasset"
-    },
-    "c1559eaa-b795-db2d-e7d1-2e6e714456e5": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_23.statobj.eduasset"
-    },
-    "fc598aed-58bd-8b37-70d4-16c59296119f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_08.statobj.eduasset"
-    },
-    "4df06c2e-33ac-c75c-2a99-97f1f638bfac": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_21.statobj.eduasset"
-    },
-    "a1112f08-ff05-a2d1-ddc4-9665d0ed707f": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark_Accent.eduasset"
-    },
-    "dc5f6c99-8970-9f45-95f5-27f5e480ff18": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Black-2.statobj.eduasset"
-    },
-    "15baf162-3b57-06ac-f6cd-e9db355d28ad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_20.statobj.eduasset"
-    },
-    "c87f3ae0-5d3b-cbf2-da6e-c84e249465ed": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_11.statobj.eduasset"
-    },
-    "d7e0009a-1caf-b6cd-2b01-5b4b8c5b0adf": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.080.mesh.eduasset"
-    },
-    "0f46d368-2a36-08af-bee2-0d73e7dfbf16": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.006.mesh.eduasset"
-    },
-    "b29f0e90-6155-f97f-feb6-c22fe138b12b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.033.mesh.eduasset"
-    },
-    "12c342bd-dc29-ba93-035b-e68c6eec9262": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_11.statobj.eduasset"
-    },
-    "5af3dbf7-04de-932f-b50a-c8d8ec7d333b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.026.mesh.eduasset"
-    },
-    "18fec748-daba-3a82-958a-5d9d3c38f397": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.115.mesh.eduasset"
-    },
-    "80671912-1735-708d-2d1c-77ee174e4ad0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.120.mesh.eduasset"
-    },
-    "25f25b23-55ba-c6e3-0070-fe9d264383aa": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_22.statobj.eduasset"
-    },
-    "8663ed51-8535-bb36-4c43-e67d339fbe38": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Grid_Dark.statobj.eduasset"
-    },
-    "e41565e5-277e-0b20-f3fa-cd34bea39aee": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_04.statobj.eduasset"
-    },
-    "86957fd1-40ad-9157-f36a-f97e707b077b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.103.mesh.eduasset"
-    },
-    "ec412a41-9e9a-853d-65a0-30b5554919ad": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.119.mesh.eduasset"
-    },
-    "ad470ff6-885c-219b-15e5-08c212b4d974": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_02.statobj.eduasset"
-    },
-    "3ee1ee4c-4352-d707-723b-7a9a5e63e007": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_03.statobj.eduasset"
-    },
-    "b1db5abf-1e88-acce-ba6a-078e0745d560": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Rolling_Ball.statobj.eduasset"
-    },
-    "3f853fe7-fdf2-f40c-d6ab-a8f37bbe1196": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_05.statobj.eduasset"
-    },
-    "6fcdd4b7-bca7-ff87-fd2b-2ae89c736bac": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_17.statobj.eduasset"
-    },
-    "5c110f05-2c09-617b-6f3e-63e393905f9e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_18.statobj.eduasset"
-    },
-    "caa73ce5-94b6-b431-6843-0d5b0dc29916": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.061.mesh.eduasset"
-    },
-    "ff3785a8-0162-8662-7ac8-ea44589b7a77": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.070.mesh.eduasset"
-    },
-    "cc670019-18da-c3b8-f8fe-abe0f1e6382e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.063.mesh.eduasset"
-    },
-    "b479165c-09ba-d031-7ab6-54da9f16c9da": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_09.statobj.eduasset"
-    },
-    "37cb5466-f1db-5471-a2a3-a874dc066037": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_06.statobj.eduasset"
-    },
-    "9c323e68-e35e-b6c9-9664-0a75ffa304af": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_07.statobj.eduasset"
-    },
-    "c1a099cf-da6a-1d63-3555-ee857b326ca1": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_26.statobj.eduasset"
-    },
-    "c65bae06-3026-31d7-d155-505638997596": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Dark_Accent_D.tex.eduasset"
-    },
-    "90639075-d411-5945-5cfa-f510ccaa8d2d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_04.statobj.eduasset"
-    },
-    "00160800-1373-5b75-aaf0-7e139b9644fe": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_03.statobj.eduasset"
-    },
-    "f42ba8b2-9d29-c1f6-7d7e-80d06cc2565d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.043.mesh.eduasset"
-    },
-    "9d1c72d9-8b5a-d1f9-1387-c7078fe4c38a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_13.statobj.eduasset"
-    },
-    "0dd70678-96be-aa9c-0ec2-1c00cb921f9d": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.068.mesh.eduasset"
-    },
-    "91be193c-4ce8-84cd-24f1-f9e844238798": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_17.statobj.eduasset"
-    },
-    "833e5295-de0d-3bd5-6a72-b16bbc98e428": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_12.statobj.eduasset"
-    },
-    "d7d14663-4f5c-de4f-6578-c6d538e1b374": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Camera_Frustum.statobj.eduasset"
-    },
-    "24f6398a-d8f3-e6f3-b7c4-d7fe315efa85": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.037.mesh.eduasset"
-    },
-    "406e0475-a268-180a-4455-8f391b6b9110": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.047.mesh.eduasset"
-    },
-    "e3ea7b6b-cfab-f3be-766b-81255ebf1a00": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_End.scene.eduasset/M_Black-2.mesh.eduasset"
-    },
-    "6d01398c-0776-4729-43af-b69dd48faa0a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.018.mesh.eduasset"
-    },
-    "a024ddbb-8b04-1996-b6b0-9f3604e8884c": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_19.statobj.eduasset"
-    },
-    "05f4f9ac-9b55-5b62-efcb-9e67c64e0cd2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_20.statobj.eduasset"
-    },
-    "ac721021-cfd4-280b-e4fe-c25c86d029c0": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.113.mesh.eduasset"
-    },
-    "9630724b-75b0-4033-ac3a-8fc73999850b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.117.mesh.eduasset"
-    },
-    "af9b8862-50b1-3371-40bc-8cf888b83da6": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Grid_Default-2.statobj.eduasset"
-    },
-    "fbcd57d7-f0d3-87b0-6bb2-fe529eaa262f": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Ngine_Logo.mtli.eduasset"
-    },
-    "b42a303a-cde0-1d77-0ba8-798b6d3d2849": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_End.scene.eduasset/M_Grid_Default-2.mesh.eduasset"
-    },
-    "b9906de1-0a79-7d4f-08db-0c251a45bc9b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.015.mesh.eduasset"
-    },
-    "56b47414-f204-10cb-7833-1022e0b6beeb": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.109.mesh.eduasset"
-    },
-    "7b98eb0d-595f-bd68-29da-c71b5b651346": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.114.mesh.eduasset"
-    },
-    "2307be8a-e8cd-1bec-b4a9-0b055c3f52c2": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_15.statobj.eduasset"
-    },
-    "945dd9c3-1147-4d47-fe57-0db66b46ec4f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.012.mesh.eduasset"
-    },
-    "874c0f44-3283-83c7-158a-63840608c586": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_Black.statobj.eduasset"
-    },
-    "f5cf3c29-7d47-2ddb-09ac-8e4a0e961526": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Rolling_Ball_Thumb.tex.eduasset"
-    },
-    "24801a1e-d137-a909-6610-5cf93997e01c": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Black.mtli.eduasset"
-    },
-    "7f6f9020-7aa4-86af-ead4-f6b09bf0d332": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_01.statobj.eduasset"
-    },
-    "6d26f1ad-52ef-0bfe-cde9-e3e8ed69f834": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Directional_Light.statobj.eduasset"
-    },
-    "2e83fe41-f8df-79e2-ff71-db550f6a4515": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_05.statobj.eduasset"
-    },
-    "c302a86f-09a2-d71f-ccd5-6c8f79dd3444": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.062.mesh.eduasset"
-    },
-    "0c030382-dadd-c45c-1ec0-bf089dc8e9e4": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.081.mesh.eduasset"
-    },
-    "8561ee9a-40ee-855f-23af-058e6e6a85ef": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_05.statobj.eduasset"
-    },
-    "00dfd487-c22a-4003-5082-e941c554d04e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.127.mesh.eduasset"
-    },
-    "ce8f2e1a-fba1-1d62-fa86-71c9507b2a52": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.110.mesh.eduasset"
-    },
-    "bc7df8c1-4a8f-3d1d-4612-1129864efc33": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grid_Dark.eduasset"
-    },
-    "f6d31229-3ec8-4ec6-ad3e-7cd96ac8d920": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_21.statobj.eduasset"
-    },
-    "66331e5f-5cea-209a-c083-ceb812fc8d6b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Accent_D.tex.eduasset"
-    },
-    "e367b7d5-4b20-89dc-d7c2-09037acaa421": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.048.mesh.eduasset"
-    },
-    "5b110564-c1e0-c1da-dd63-7525f0b9faca": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Grid_Dark_D.tex.eduasset"
-    },
-    "fc5cb777-12ae-baf4-f343-f545ff92fe5f": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.071.mesh.eduasset"
-    },
-    "3ee7523e-96fe-f17d-89d5-d8d388963145": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.090.mesh.eduasset"
-    },
-    "3211ee91-de12-ba59-70dc-946d28af7fe8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_End.scene.eduasset/M_White-2.mesh.eduasset"
-    },
-    "ab92ff6c-157b-eab3-d517-72e11f7f9a7a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.003.mesh.eduasset"
-    },
-    "6c66e5b9-5ee2-934b-0d1b-f7e20ee4bff7": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.049.mesh.eduasset"
-    },
-    "eaaa6f16-e9e5-2d18-25d9-3632e9804d2b": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_09.statobj.eduasset"
-    },
-    "69158c92-c92b-4ce8-8a18-d283a22b0400": {
-        "path": "Assets/Player/JumpEvent.function.eduasset"
-    },
-    "22b0ad1e-6552-abae-7fba-07ad8698b508": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.050.mesh.eduasset"
-    },
-    "4db4a812-a0aa-4181-bc65-536896505a92": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/SC_Template_Rolling_Ball.scene.eduasset"
-    },
-    "dad6203d-c797-ec19-842e-410637fa3408": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.096.mesh.eduasset"
-    },
-    "91e7ab3f-b6f2-449d-4ee8-aa4d1d364d34": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.044.mesh.eduasset"
-    },
-    "3e8a6ed4-4eb3-0436-b9de-a3efe7dc8f7e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.122.mesh.eduasset"
-    },
-    "e3f57f65-dda0-3d43-b1be-823f30cfb489": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_22.statobj.eduasset"
-    },
-    "40ea2ee2-be5e-9b77-eb5e-b4c7d7105fe4": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Column_24.statobj.eduasset"
-    },
-    "e83234c2-2d22-f4c8-90e7-1c0ffde26f1e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.094.mesh.eduasset"
-    },
-    "6ff10f5a-572e-8c62-17a4-29f86142b38e": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/M_White-3.statobj.eduasset"
-    },
-    "854fb0cc-a6b0-ead1-54a1-9c38b283cc70": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.036.mesh.eduasset"
-    },
-    "205fcad9-8653-5802-48c0-fed8466bc3b3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_25.statobj.eduasset"
-    },
-    "da6bfccb-207a-9913-dbb7-c94520da4c4a": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Rolling_Ball_Txt.statobj.eduasset"
-    },
-    "59a6c5d6-b8c0-5155-ce34-843a2f529404": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Filler_07.statobj.eduasset"
-    },
-    "1630e94c-5a85-0645-ac6c-508fb8ee5379": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.057.mesh.eduasset"
-    },
-    "c0e5da17-7f14-1e9e-d876-88aeecf3f7de": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.085.mesh.eduasset"
-    },
-    "32406a7a-c2b4-4377-c8db-858cc2a4ca19": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.017.mesh.eduasset"
-    },
-    "6bae1562-8da8-7941-bd1d-d4987919b9c6": {
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.eduasset"
-    },
-    "c9a01438-0182-02a1-ec81-e5ebbd964cc3": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Side_Wall_04.statobj.eduasset"
-    },
-    "61aeccac-e66b-4655-e271-cffa7b64bb30": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.099.mesh.eduasset"
-    },
-    "9758e0bd-f8b9-576e-808d-1d2122c379c8": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.053.mesh.eduasset"
-    },
-    "0e9ac40b-97bb-7817-9354-dde92da2a0c9": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Ball_Start.scene.eduasset/M_Grid_Default.mesh.eduasset"
-    },
-    "fc4c4af0-5310-4924-a998-164af95e1f47": {
-        "path": "Assets/Player/Move2DEvent.function.eduasset"
-    },
-    "bc39b673-b50a-dd56-d034-3376132c0c63": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/SM_Floor_Trim_12.statobj.eduasset"
-    },
-    "c2eb84e7-283e-95cc-bdde-e522727b5650": {
-        "componentTypeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-        "path": "Assets/Scene/Rolling_Ball.statobj.eduasset/Mesh.004.mesh.eduasset"
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "1a0032d2-9292-854f-b930-b89886d759fb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
+    },
+    "cc65d53c-98d0-f9a3-a03c-333dfc49484e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_18.mesh.nasset"
+    },
+    "28ea7276-ef11-9d86-ba91-e75b07fec29c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Side_Wall_09.mesh.nasset"
+    },
+    "1f5a5956-04bf-c61d-9011-fc4740294897": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "0cb44793-9468-01e9-0b5e-818cc9361a57": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_15.mesh.nasset"
+    },
+    "5ae21964-4259-48d6-83e6-639fd863fff8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_11.mesh.nasset"
+    },
+    "3115a00a-d428-e30c-d6a2-33f99a4cf1cb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid_Dark.mtli.nasset"
+    },
+    "c3f7f344-a24c-9cc7-401a-615a3f13d9f6": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_10.mesh.nasset"
+    },
+    "618668ff-887f-6694-db56-7aea9fe2f7d9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_06.mesh.nasset"
+    },
+    "53a6a360-7024-c700-66c0-940d69470f72": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Column_15.mesh.nasset"
+    },
+    "b28ed446-8952-f1be-5bde-14034f3e8639": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Rolling_Ball.scene.nasset/SM_Floor_11.mesh.nasset"
     }
 }
