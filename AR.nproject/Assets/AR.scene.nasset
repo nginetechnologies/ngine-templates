@@ -108,32 +108,7 @@
 					"flags": 2
 				}
 			]
-		},
-        {
-            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "scale": [
-                    5.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "86d22670-1f09-4246-ae43-ef7f1b16c977",
-                    "d3b37153-2dce-4574-a8f1-f118df0e8e30"
-                ]
-            },
-            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": "61327e65-3e13-4c49-bdac-3c9e90cf4ff1"
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                }
-            ]
-        }
+		}
     ],
     "default_camera": {
         "position": [
