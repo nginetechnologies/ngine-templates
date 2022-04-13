@@ -78,5 +78,74 @@
             }
         ]
     },
-    "astc_data": {}
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 4194304
+            },
+            {
+                "level": 1,
+                "offset": 4194304,
+                "size": 1048576
+            },
+            {
+                "level": 2,
+                "offset": 5242880,
+                "size": 262144
+            },
+            {
+                "level": 3,
+                "offset": 5505024,
+                "size": 65536
+            },
+            {
+                "level": 4,
+                "offset": 5570560,
+                "size": 16384
+            },
+            {
+                "level": 5,
+                "offset": 5586944,
+                "size": 4096
+            },
+            {
+                "level": 6,
+                "offset": 5591040,
+                "size": 1024
+            },
+            {
+                "level": 7,
+                "offset": 5592064,
+                "size": 256
+            },
+            {
+                "level": 8,
+                "offset": 5592320,
+                "size": 64
+            },
+            {
+                "level": 9,
+                "offset": 5592384,
+                "size": 16
+            },
+            {
+                "level": 10,
+                "offset": 5592400,
+                "size": 16
+            },
+            {
+                "level": 11,
+                "offset": 5592416,
+                "size": 16
+            },
+            {
+                "level": 12,
+                "offset": 5592432,
+                "size": 16
+            }
+        ]
+    }
 }
