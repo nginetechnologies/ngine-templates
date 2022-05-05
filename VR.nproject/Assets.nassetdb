@@ -1,130 +1,4 @@
 {
-    "947d59d7-dde7-d2bc-b2b6-d7bb57a27aa7": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset/SM_FeetHMDGamepad.scene.nasset"
-    },
-    "edfcd76a-0dcb-0489-7ce9-420d7ea4d220": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
-    },
-    "9983c4b3-3ff7-aa06-d77d-07250a6e6b74": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/M_Black-3.mesh.nasset"
-    },
-    "61511d14-b2be-ae7b-62ae-95d5774b2fe3": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Dark.mesh.nasset"
-    },
-    "c25b315e-febe-e7db-3a53-22891a78a8df": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator3.mesh.nasset"
-    },
-    "3e6d0de7-6226-1a9f-d6ef-fd3863310be7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGamepadTeleport.mesh.nasset"
-    },
-    "51e1fdc9-b701-a892-bed1-dc1b6961ee88": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGlovesTeleport.mesh.nasset"
-    },
-    "c7e3f1ca-17d1-2e16-dc80-cee0025ddb99": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_directionalLight.mesh.nasset"
-    },
-    "3dceb31f-3ad0-63fe-9cb5-1693243a4d4b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
-    },
-    "d9807954-72ab-3c5d-0150-70262a20d8bc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/SM_environmentProbe.scene.nasset"
-    },
-    "99d0ec67-f4a8-53cf-74f1-54ffad040893": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_Pink.mesh.nasset"
-    },
-    "165004aa-7840-226d-5f6f-402d5463547c": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark.mtli.nasset"
-    },
-    "4c8a7f1b-0f62-15a9-712d-4f6dd491d3f1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_gridSecondary.mtli.nasset"
-    },
-    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
-    },
-    "ab9a7c67-3643-4306-d609-94c4e5df27e4": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/M_blankFloor.mesh.nasset"
-    },
-    "ba923d5c-cb09-a667-8f12-d5b8b090933c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrBoundsCube.mesh.nasset"
-    },
-    "97673ce8-ae4e-e761-8aab-ed4992154cc6": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset"
-    },
-    "81cb55e2-275b-0f9b-9553-b97825908ff4": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Metal.mesh.nasset"
-    },
-    "0323bf93-91b3-31a4-819b-7a44e7953991": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/VR_Template.scene.nasset"
-    },
-    "40798108-76b8-d5c1-ec28-bac4a9619f6f": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator.mesh.nasset"
-    },
-    "54965ea1-42e7-54f5-876d-f227c5445bb9": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGamepad.mesh.nasset"
-    },
-    "cd72cef0-364d-e89b-ce1e-06bd1ec33856": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_TxtHMDPlusGloves.mesh.nasset"
-    },
-    "fdf5248a-d472-60de-2caf-90362c59dfab": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_blueGlow.mtli.nasset"
-    },
-    "504d4c70-d99c-fa5b-f1d2-24428365a8b1": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset"
-    },
-    "42a244d3-4836-4ff5-b6fe-67b8c2b819f7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/M_White-5.mesh.nasset"
-    },
-    "40e6d536-8da0-5737-e8a1-ffa3a8a6b8f0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Pink.mtli.nasset"
-    },
-    "b04029a0-a058-6f78-b930-dfe1ec90f784": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_genericHMD.mesh.nasset"
-    },
-    "ddd5197d-5607-ad29-58c1-56ce463dcb71": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Yellow.mesh.nasset"
-    },
-    "c687332b-a2f9-148f-42bb-21ebd52961cf": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/SM_targetVR.scene.nasset"
-    },
-    "c5e30b3f-4dd0-e9b4-d2e2-3f57f7bd51be": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor2.mesh.nasset"
-    },
-    "99873ee8-c0dd-e148-9506-3675f11effb2": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator6.mesh.nasset"
-    },
     "171736b1-ec6f-6841-d5ab-2c2c3fa7af7a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_Metal.mtli.nasset"
@@ -133,65 +7,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_whiteCrosshair_D.tex.nasset"
     },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+    "99873ee8-c0dd-e148-9506-3675f11effb2": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator6.mesh.nasset"
+    },
+    "e9114143-bf55-9ecf-7b8c-66fbf1d058a8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
-    },
-    "88651e1a-91ef-5265-45de-f92dbbfb0293": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_darkMetal.mesh.nasset"
-    },
-    "cd5c8189-7729-17d9-0d56-3ef1c28ba24b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/SM_FeetHMDGloves.scene.nasset"
-    },
-    "c361aaad-baae-4dba-4e23-deb5c57a2ba0": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_Metal-2.mesh.nasset"
-    },
-    "4f5bb16a-4c4a-474b-0f2e-60d567e3e618": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_darkCrosshair_D.tex.nasset"
-    },
-    "1b0864e6-1076-c66a-5d02-4e192b959908": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrDirectionIndicatorArrow.mesh.nasset"
-    },
-    "6913ae67-6cc2-410c-ad39-cb80aba2e418": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/VR.scene.nasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
-    },
-    "91eb7798-c5f8-8886-d1c9-3f7ec1bff48a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/SK_vrGloveLDummy.scene.nasset"
-    },
-    "50b7c67b-79a8-6416-d716-f516b1b3e275": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor1.mesh.nasset"
-    },
-    "5c8a22cf-c4ef-e759-db88-5377b7db9466": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_darkMetal-2.mesh.nasset"
-    },
-    "6487ff4d-29d9-f555-6f00-f033cb557bec": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset/M_White-2.mesh.nasset"
-    },
-    "a62d7ded-ab71-6fa1-5707-2af80d283898": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset/M_White-4.mesh.nasset"
-    },
-    "890b765f-afb5-8892-61b7-f004a3ea337a": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset"
+        "path": "Assets/Thumbnail/VR_Thumb.tex.nasset"
     },
     "5c708614-9a6c-dfe2-e7cb-1268c51f6e51": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -209,40 +32,20 @@
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator7.mesh.nasset"
     },
-    "752878da-1e47-1aec-9950-003956fa52d0": {
-        "path": "Assets/Scene/VR_Template.scene.nasset"
+    "a62d7ded-ab71-6fa1-5707-2af80d283898": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset/M_White-4.mesh.nasset"
     },
-    "e9114143-bf55-9ecf-7b8c-66fbf1d058a8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/VR_Thumb.tex.nasset"
+    "5c8a22cf-c4ef-e759-db88-5377b7db9466": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_darkMetal-2.mesh.nasset"
     },
-    "abda51de-a858-9f3d-9033-d503bf9e45c5": {
+    "6487ff4d-29d9-f555-6f00-f033cb557bec": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset/M_White-2.mesh.nasset"
+    },
+    "1f67094a-79a1-56db-5609-f9adb2e39ef3": {
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset"
-    },
-    "889de82c-e75c-b2fc-3509-e0fe149aa4e7": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_White-3.mesh.nasset"
-    },
-    "36338691-8816-1151-4db1-01c014db7eef": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGloves.mesh.nasset"
-    },
-    "7b00a0fa-4a63-25e2-72cd-ab35ef0d99f8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset/M_Black-2.mesh.nasset"
-    },
-    "892dd02f-1411-0ba0-4ff2-e8eda2202c85": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_Icosahedron.mesh.nasset"
-    },
-    "ce209da4-082d-8e5a-f17b-5c4e3b4ebe3e": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator4.mesh.nasset"
-    },
-    "26ae0cd1-11ba-b573-7a69-4b76c3a10c28": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_templateTxtVR.mesh.nasset"
     },
     "cb28da61-42d9-ef20-5522-f9e545032e7c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -253,35 +56,37 @@
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrDirectionIndicator.mesh.nasset"
     },
-    "ab1d0256-a4a6-f0f0-5dc2-d16915c9f540": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Yellow.mtli.nasset"
-    },
-    "1cb44d89-c60d-db3a-6405-5d2a1216ce77": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset"
+    "26ae0cd1-11ba-b573-7a69-4b76c3a10c28": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_templateTxtVR.mesh.nasset"
     },
     "81f80ccf-61d5-1ba7-bf8b-5be31c475424": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrTeleportRing.mesh.nasset"
     },
-    "466516f2-996a-4e01-9402-647232699191": {
+    "ce209da4-082d-8e5a-f17b-5c4e3b4ebe3e": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor.mesh.nasset"
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator4.mesh.nasset"
     },
-    "e685a162-2052-cdda-a50a-a3ca4f0fcc9d": {
+    "892dd02f-1411-0ba0-4ff2-e8eda2202c85": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGlovesDrop.mesh.nasset"
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_Icosahedron.mesh.nasset"
     },
-    "f9f9ff9c-de1d-765d-666b-523f142f085d": {
+    "7b00a0fa-4a63-25e2-72cd-ab35ef0d99f8": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_backWall.mesh.nasset"
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset/M_Black-2.mesh.nasset"
     },
-    "f7fd37aa-f02c-95af-2f06-0de3f90a0ee9": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset"
-    },
-    "152699b2-1b1e-8fc2-f502-98150126e41e": {
+    "36338691-8816-1151-4db1-01c014db7eef": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_CubeHi.mesh.nasset"
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGloves.mesh.nasset"
+    },
+    "889de82c-e75c-b2fc-3509-e0fe149aa4e7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_White-3.mesh.nasset"
+    },
+    "568b7440-31b2-e6fb-48a8-326740a70c9c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/M_White.mesh.nasset"
     },
     "db066820-c2d1-c3ea-2c2f-445881eb130d": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
@@ -291,10 +96,6 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_darkMetal.mtli.nasset"
     },
-    "568b7440-31b2-e6fb-48a8-326740a70c9c": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/M_White.mesh.nasset"
-    },
     "23e833a8-33d7-47c7-d173-5a86277788d0": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGlovesGrab.mesh.nasset"
@@ -303,29 +104,36 @@
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/VR_Template.scene.nasset/SM_TxtHMDGamepad.mesh.nasset"
     },
-    "3bca9268-96cb-1298-089e-758a5164a609": {
+    "152699b2-1b1e-8fc2-f502-98150126e41e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_CubeHi.mesh.nasset"
+    },
+    "f9f9ff9c-de1d-765d-666b-523f142f085d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_backWall.mesh.nasset"
+    },
+    "e685a162-2052-cdda-a50a-a3ca4f0fcc9d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGlovesDrop.mesh.nasset"
+    },
+    "466516f2-996a-4e01-9402-647232699191": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor.mesh.nasset"
+    },
+    "ab1d0256-a4a6-f0f0-5dc2-d16915c9f540": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Yellow.mtli.nasset"
+    },
+    "947d59d7-dde7-d2bc-b2b6-d7bb57a27aa7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/SM_projectileVR.scene.nasset"
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset/SM_FeetHMDGamepad.scene.nasset"
     },
-    "a9c8e583-d50c-0673-d1e2-fd1ca36f8145": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_Black.mesh.nasset"
+    "26600fec-ae0b-3cf3-89c9-dc54e86fc30d": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset"
     },
-    "21c3a0bc-66ed-1360-452f-07850747673d": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_White-6.mesh.nasset"
-    },
-    "3192a8f5-a3f7-12c7-9141-d71f6205c6fa": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_floorDark.mtli.nasset"
-    },
-    "c4bb6d81-67c3-8b28-16ea-af19b79268e1": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator5.mesh.nasset"
-    },
-    "2db02f64-2f3f-a410-7aa2-d9ac4ae483cc": {
-        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset"
+    "ec62c51a-788d-6a9f-92c3-b77836d2b4a7": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset"
     },
     "ac051554-be06-4da9-b438-4d6fd39b0c4e": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -335,5 +143,197 @@
     "7d19880f-0763-fa87-2586-8d8cf2c23db1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_blankFloor.mtli.nasset"
+    },
+    "3192a8f5-a3f7-12c7-9141-d71f6205c6fa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_floorDark.mtli.nasset"
+    },
+    "c4bb6d81-67c3-8b28-16ea-af19b79268e1": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator5.mesh.nasset"
+    },
+    "21c3a0bc-66ed-1360-452f-07850747673d": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_White-6.mesh.nasset"
+    },
+    "a9c8e583-d50c-0673-d1e2-fd1ca36f8145": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/M_Black.mesh.nasset"
+    },
+    "a19d7427-bbd5-51ac-be75-2027199697dc": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset"
+    },
+    "3bca9268-96cb-1298-089e-758a5164a609": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/SM_projectileVR.scene.nasset"
+    },
+    "d9807954-72ab-3c5d-0150-70262a20d8bc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_environmentProbe.scene.nasset/SM_environmentProbe.scene.nasset"
+    },
+    "99d0ec67-f4a8-53cf-74f1-54ffad040893": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_Pink.mesh.nasset"
+    },
+    "3dceb31f-3ad0-63fe-9cb5-1693243a4d4b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_White.mtli.nasset"
+    },
+    "c7e3f1ca-17d1-2e16-dc80-cee0025ddb99": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_directionalLight.mesh.nasset"
+    },
+    "c25b315e-febe-e7db-3a53-22891a78a8df": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator3.mesh.nasset"
+    },
+    "3e6d0de7-6226-1a9f-d6ef-fd3863310be7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGamepadTeleport.mesh.nasset"
+    },
+    "9983c4b3-3ff7-aa06-d77d-07250a6e6b74": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/M_Black-3.mesh.nasset"
+    },
+    "51e1fdc9-b701-a892-bed1-dc1b6961ee88": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGlovesTeleport.mesh.nasset"
+    },
+    "61511d14-b2be-ae7b-62ae-95d5774b2fe3": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Dark.mesh.nasset"
+    },
+    "edfcd76a-0dcb-0489-7ce9-420d7ea4d220": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "b4a281d3-ad41-0324-7d89-bb80d4fa77e2": {
+        "path": "Assets/Scene/VR_Template.scene.nasset"
+    },
+    "cb664885-a987-a95f-0125-7de176a88aff": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGamepad.scene.nasset"
+    },
+    "40798108-76b8-d5c1-ec28-bac4a9619f6f": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_floorSeparator.mesh.nasset"
+    },
+    "81cb55e2-275b-0f9b-9553-b97825908ff4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Metal.mesh.nasset"
+    },
+    "0323bf93-91b3-31a4-819b-7a44e7953991": {
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/VR_Template.scene.nasset"
+    },
+    "df8f557a-6c15-0a69-5a2b-dd2809e943dd": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveRDummy.scene.nasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "ab9a7c67-3643-4306-d609-94c4e5df27e4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/M_blankFloor.mesh.nasset"
+    },
+    "28994de4-1380-3ee1-3b42-82e6b0cb2b34": {
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset"
+    },
+    "165004aa-7840-226d-5f6f-402d5463547c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Dark.mtli.nasset"
+    },
+    "4c8a7f1b-0f62-15a9-712d-4f6dd491d3f1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_gridSecondary.mtli.nasset"
+    },
+    "ba923d5c-cb09-a667-8f12-d5b8b090933c": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrBoundsCube.mesh.nasset"
+    },
+    "c5e30b3f-4dd0-e9b4-d2e2-3f57f7bd51be": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor2.mesh.nasset"
+    },
+    "ddd5197d-5607-ad29-58c1-56ce463dcb71": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_Yellow.mesh.nasset"
+    },
+    "c687332b-a2f9-148f-42bb-21ebd52961cf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/SM_targetVR.scene.nasset"
+    },
+    "42a244d3-4836-4ff5-b6fe-67b8c2b819f7": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/M_White-5.mesh.nasset"
+    },
+    "40e6d536-8da0-5737-e8a1-ffa3a8a6b8f0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Pink.mtli.nasset"
+    },
+    "b04029a0-a058-6f78-b930-dfe1ec90f784": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_genericHMD.mesh.nasset"
+    },
+    "fdf5248a-d472-60de-2caf-90362c59dfab": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_blueGlow.mtli.nasset"
+    },
+    "54965ea1-42e7-54f5-876d-f227c5445bb9": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_inputMappingTxtGamepad.mesh.nasset"
+    },
+    "cd72cef0-364d-e89b-ce1e-06bd1ec33856": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_TxtHMDPlusGloves.mesh.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "91eb7798-c5f8-8886-d1c9-3f7ec1bff48a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SK_vrGloveLDummy.scene.nasset/SK_vrGloveLDummy.scene.nasset"
+    },
+    "50b7c67b-79a8-6416-d716-f516b1b3e275": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_blankFloor1.mesh.nasset"
+    },
+    "6913ae67-6cc2-410c-ad39-cb80aba2e418": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/VR.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "c361aaad-baae-4dba-4e23-deb5c57a2ba0": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_targetVR.scene.nasset/M_Metal-2.mesh.nasset"
+    },
+    "4f5bb16a-4c4a-474b-0f2e-60d567e3e618": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_darkCrosshair_D.tex.nasset"
+    },
+    "cd5c8189-7729-17d9-0d56-3ef1c28ba24b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_FeetHMDGloves.scene.nasset/SM_FeetHMDGloves.scene.nasset"
+    },
+    "1b0864e6-1076-c66a-5d02-4e192b959908": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_vrDirectionIndicatorArrow.mesh.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "88651e1a-91ef-5265-45de-f92dbbfb0293": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/VR_Template.scene.nasset/SM_projectileVR.scene.nasset/M_darkMetal.mesh.nasset"
     }
 }

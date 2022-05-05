@@ -1,87 +1,7 @@
 {
-    "07519d02-333e-48c6-a5af-8a9f50150a38": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Car_Config.nproject",
-        "thumbnail": "eeeeffec-fc33-b183-1894-cebdda6bfbb5"
-    },
-    "99ac4c3c-a5a8-f736-28fe-aaae2dab5509": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Tire.mesh.nasset"
-    },
-    "81a4cadc-dec5-1687-125a-9baecd885898": {
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset"
-    },
-    "5913753f-7aca-d521-522c-e9d11ac0f946": {
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/Car_Config_Scene.scene.nasset"
-    },
-    "8fcaae7a-98a0-9584-9b9f-a5f1805d5f18": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Tire_N.tex.nasset"
-    },
-    "eeeeffec-fc33-b183-1894-cebdda6bfbb5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Car_Config_Thumb.tex.nasset"
-    },
-    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
-    },
-    "81d88bfd-c7dd-7ee3-1124-8669c9cea4f0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Base_R.tex.nasset"
-    },
-    "adf05633-9634-9f69-853e-d165ff40b4d1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Interior_M.tex.nasset"
-    },
-    "396f58f1-ec91-e2db-635f-59a99cf8abac": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Base_M.tex.nasset"
-    },
-    "699684be-374e-41fc-b502-bdbedbcb302d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
-    },
-    "6af10bf1-51d1-2fff-f80b-19ae37edba43": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Tire_R.tex.nasset"
-    },
-    "7b167b68-b389-94cf-81ec-d6d313a00be6": {
+    "e7223c2e-75f9-01df-3c98-071ac4e64fa0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Headlights.mtli.nasset"
-    },
-    "aed449fa-3d49-73b7-f9f6-cf4eeca609f5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Base_N.tex.nasset"
-    },
-    "52c0194b-3e26-e14d-bc21-cbed65e0b646": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Interior_R.tex.nasset"
-    },
-    "0052b924-b8c1-ad8f-94a5-f4c250353227": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Brakelight_D.tex.nasset"
-    },
-    "dfb2e4c6-fc9c-4de8-a905-09c3c63355aa": {
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Car_Config.scene.nasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
-    },
-    "ae5b637e-a64b-295d-b235-bbd68d57c97d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Brake_Light.mtli.nasset"
-    },
-    "20e0bc15-f4b4-093a-29ba-2028b0d4b96f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Interior.mtli.nasset"
-    },
-    "18616fd7-982e-c085-8a76-f617c2f43796": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scene/Textures/T_Interior_D.tex.nasset"
+        "path": "Assets/Scene/Material Instances/M_Glass.mtli.nasset"
     },
     "f2c536e0-0f31-ac8f-70bb-fab2fb1fd753": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -90,10 +10,6 @@
     "737cd6ad-a382-befb-009e-5abeac15621d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Headlight_D.tex.nasset"
-    },
-    "e7223c2e-75f9-01df-3c98-071ac4e64fa0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Glass.mtli.nasset"
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -108,13 +24,13 @@
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Interior.mesh.nasset"
     },
-    "29ac06f1-ad78-3f40-8378-e6547b4200a8": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Glass.mesh.nasset"
-    },
     "d6fd5361-a609-f8b4-5ad5-5c729eb82cd9": {
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Brake_Light.mesh.nasset"
+    },
+    "29ac06f1-ad78-3f40-8378-e6547b4200a8": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Glass.mesh.nasset"
     },
     "0615b37b-23c5-63a0-845a-26addb0ac02a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -127,10 +43,6 @@
     "659a7036-e79e-f4ae-7faf-3f6cce677fd9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Tire_D.tex.nasset"
-    },
-    "42952197-ec6a-0be9-d28f-3e9b8559bb8e": {
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Floor.mesh.nasset"
     },
     "582b0e7b-3562-2efa-d229-8ff59ff2f4de": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -149,11 +61,99 @@
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
         "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Body.mesh.nasset"
     },
-    "46004fcf-dc48-2028-d090-3f9f59a420ab": {
-        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset"
+    "42952197-ec6a-0be9-d28f-3e9b8559bb8e": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Floor.mesh.nasset"
+    },
+    "07519d02-333e-48c6-a5af-8a9f50150a38": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Car_Config.nproject",
+        "thumbnail": "eeeeffec-fc33-b183-1894-cebdda6bfbb5"
     },
     "eaf7506a-dd73-8beb-597f-857534837039": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/M_Tire.mtli.nasset"
+    },
+    "99ac4c3c-a5a8-f736-28fe-aaae2dab5509": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset/M_Tire.mesh.nasset"
+    },
+    "5913753f-7aca-d521-522c-e9d11ac0f946": {
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/Car_Config_Scene.scene.nasset"
+    },
+    "8fcaae7a-98a0-9584-9b9f-a5f1805d5f18": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Tire_N.tex.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "eeeeffec-fc33-b183-1894-cebdda6bfbb5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Car_Config_Thumb.tex.nasset"
+    },
+    "396f58f1-ec91-e2db-635f-59a99cf8abac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Base_M.tex.nasset"
+    },
+    "81d88bfd-c7dd-7ee3-1124-8669c9cea4f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Base_R.tex.nasset"
+    },
+    "adf05633-9634-9f69-853e-d165ff40b4d1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Interior_M.tex.nasset"
+    },
+    "6af10bf1-51d1-2fff-f80b-19ae37edba43": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Tire_R.tex.nasset"
+    },
+    "7b167b68-b389-94cf-81ec-d6d313a00be6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Headlights.mtli.nasset"
+    },
+    "a6f1b69b-0c03-d77d-838f-ed1faf6ea2ef": {
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset/SM_Sedan_4_Door.scene.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "0052b924-b8c1-ad8f-94a5-f4c250353227": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brakelight_D.tex.nasset"
+    },
+    "ae5b637e-a64b-295d-b235-bbd68d57c97d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brake_Light.mtli.nasset"
+    },
+    "aed449fa-3d49-73b7-f9f6-cf4eeca609f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Base_N.tex.nasset"
+    },
+    "dfb2e4c6-fc9c-4de8-a905-09c3c63355aa": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Car Config.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "52c0194b-3e26-e14d-bc21-cbed65e0b646": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Interior_R.tex.nasset"
+    },
+    "647aeb91-84a7-465a-d65a-1d6ad4de29a3": {
+        "path": "Assets/Scene/Car_Config_Scene.scene.nasset"
+    },
+    "20e0bc15-f4b4-093a-29ba-2028b0d4b96f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Interior.mtli.nasset"
+    },
+    "18616fd7-982e-c085-8a76-f617c2f43796": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Interior_D.tex.nasset"
     }
 }
