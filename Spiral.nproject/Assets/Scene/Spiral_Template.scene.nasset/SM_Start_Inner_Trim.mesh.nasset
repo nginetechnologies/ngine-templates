@@ -1,11 +1,11 @@
 {
-    "guid": "3b931b1e-5056-eb91-3f0b-292f57cf2466",
+    "guid": "1c82c2de-bae3-2703-429c-86fd9af4fff0",
     "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-    "instanceGuid": "49641dc6-913c-fe4a-ced1-1fd484ba4973",
+    "instanceGuid": "311279f3-9cdc-ed01-5cb1-6583daeb61f0",
     "children": [
         {
             "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-            "instanceGuid": "f47b9d47-f583-2445-07ee-91339dd252fe",
+            "instanceGuid": "789ead30-3f40-8b7d-dc56-dc3e1c3e904e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -15,7 +15,7 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "98cac672-952e-49c8-ef81-2a471b5af3e8",
+                    "instanceGuid": "f93037ab-cf17-4f40-1f8b-fc2bcd5e92cf",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -25,7 +25,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "f69a2718-c814-413e-ecf4-2aee05dbf878",
+                            "instanceGuid": "b0e38bf3-9351-24eb-6a82-749359c70385",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -39,13 +39,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "3b931b1e-5056-eb91-3f0b-292f57cf2466",
-                                "material_instance": "193fca6e-12b0-d2fd-4b59-5af71c860e14"
+                                "mesh": "1c82c2de-bae3-2703-429c-86fd9af4fff0",
+                                "material_instance": "4d6d30be-4c75-a356-a03b-d8c2c8d58729"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "3b931b1e-5056-eb91-3f0b-292f57cf2466"
+                        "mesh": "1c82c2de-bae3-2703-429c-86fd9af4fff0"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -53,5 +53,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c"
 }
